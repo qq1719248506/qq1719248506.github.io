@@ -39,3 +39,57 @@ https://qq1719248506.github.io/
 
 ![6](https://user-images.githubusercontent.com/102397160/182571468-3f15da3f-ac7b-45b0-9e37-c4959692d24d.png)
 ![7](https://user-images.githubusercontent.com/102397160/182571486-1d78730b-0698-46cb-9af9-a4128eee8cd7.png)
+
+TVBox各路大佬配置
+
+唐三：https://hutool.ml/tang
+
+FongMi：https://ghproxy.com/raw.githubusercontent.com/FongMi/CatVodSpider/main/json/config.json
+
+巧技：http://pandown.pro/tvbox/tvbox.json
+
+俊于：http://home.jundie.top:81/top98.json
+
+霜辉月明py：https://ghproxy.com/raw.githubusercontent.com/lm317379829/PyramidStore/pyramid/py.json
+
+小雅js：http://drpy.site/js1
+
+菜妮丝：https://tvbox.cainisi.cf
+
+熊猫是肥猫：http://我不是.肥猫.love:63
+
+神器：https://神器每日推送.tk/pz.json
+
+饭太硬：http://饭太硬.ga/x/o.json
+
+刚刚：http://刚刚.live/猫
+
+## 壁纸：
+
+https://bing.img.run/rand.php
+
+http://www.kf666888.cn/api/tvbox/img
+
+https://picsum.photos/1280/720/?blur=10
+
+http://刚刚.live/图
+
+http://饭太硬.ga/深色壁纸/api.php
+
+https://tuapi.eees.cc/api.php?category=fengjing&type=302
+
+## 解析测试：
+
+http://www.36nu.com/apiTest
+
+## 白嫖天下！
+
+http://cai999.tk/
+
+这里边不少接口，自己扒拉一下。
+
+https://github.com/tv-player/TvBox
+
+##香雅情仓库
+
+https://framagit.org/lzk23559/tvbox
