@@ -93,3 +93,7 @@ https://github.com/tv-player/TvBox
 ##香雅情仓库
 
 https://framagit.org/lzk23559/tvbox
+
+##奇奇的网站
+
+http://bbs.qiqiv.cn/thread-11973-1-1.html
