@@ -1,5 +1,5 @@
 {
-  "spider": "https://agit.ai/wzs1973/test/raw/branch/master/jar/ts.jar;md5;7573e5dee052b6b1661a0bc400f190cc",
+  "spider": "https://qq1719248506.github.io/jar/custom_spider.jar;md5;906b337d4b4baef13292d004e5fd8f9b",
   "wallpaper": "http://www.kf666888.cn/api/tvbox/img",
   "lives": [
     {
@@ -22,7 +22,23 @@
       "api": "csp_AList",
       "searchable": 1,
       "filterable": 1,
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/alist.json"
+      "ext": {
+        "drives": [
+          {
+            "name": "9T",
+            "server": "https://drive.9t.ee"
+          },
+          {
+            "name": "木偶",
+            "server": "https://www.kugutsu.ml"
+          },
+          {
+            "name": "秋雨",
+            "server": "https://share.laowang.me",
+            "password": "s8;K^h[j<b"
+          }
+        ]
+      }
     },
     {
       "key": "哔哩",
@@ -269,26 +285,58 @@
       "filterable":0
     },
     {
-      "key": "櫻花",
-      "name": "櫻花",
+      "key": "玩偶",
+      "name": "玩偶",
       "type": 3,
-      "api": "csp_Ying",
+      "api": "csp_Doll",
       "searchable": 1,
       "filterable": 1
     },
     {
-      "key": "巴士",
-      "name": "巴士",
+      "key": "18AV",
+      "name": "18AV",
       "type": 3,
-      "api": "csp_Dm84",
+      "api": "csp_Eighteen",
       "searchable": 1,
       "filterable": 1
     },
     {
-      "key": "異界",
-      "name": "異界",
+      "key": "Jable",
+      "name": "Jable",
       "type": 3,
-      "api": "csp_Ysj",
+      "api": "csp_Jable",
+      "searchable": 1,
+      "filterable": 1
+    },
+    {
+      "key": "PigAV",
+      "name": "PigAV",
+      "type": 3,
+      "api": "csp_Pig",
+      "searchable": 1,
+      "filterable": 1
+    },
+    {
+      "key": "MissAV",
+      "name": "MissAV",
+      "type": 3,
+      "api": "csp_Miss",
+      "searchable": 1,
+      "filterable": 1
+    },
+    {
+      "key": "Supjav",
+      "name": "Supjav",
+      "type": 3,
+      "api": "csp_Supjav",
+      "searchable": 1,
+      "filterable": 1
+    },
+    {
+      "key": "Hanime",
+      "name": "Hanime",
+      "type": 3,
+      "api": "csp_Hanime",
       "searchable": 1,
       "filterable": 1
     },
