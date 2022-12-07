@@ -335,7 +335,7 @@
       "quickSearch": 1,
       "filterable": 0,      
       "ext": "https://ghproxy.com/https://raw.githubusercontent.com/Wzs1973/TVBox/main/XPathMacFilter/九亿国语.json"
-    },
+    },    
     {
       "key": "csp_XPM_美剧虫",
       "name": "美剧",
@@ -345,6 +345,16 @@
       "quickSearch": 1,
       "filterable": 0,      
       "ext": "https://ghproxy.com/https://raw.githubusercontent.com/Wzs1973/TVBox/main/XPathMacFilter/美剧虫.json"
+    },
+    {
+      "key": "csp_XPath_剧荒",
+      "name": "剧荒",
+      "type": 3,
+      "api": "csp_XPath",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,      
+      "ext": "https://qq1719248506.github.io/XPath/juhuangtv.json"
     },    
     {
       "key":"drpy_js_Alist",
