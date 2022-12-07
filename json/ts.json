@@ -350,7 +350,7 @@
       "key": "csp_XPath_剧荒",
       "name": "剧荒",
       "type": 3,
-      "api": "csp_XPath",
+      "api": "csp_XPathMacFilter",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,      
