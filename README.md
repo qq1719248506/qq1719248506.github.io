@@ -1,6 +1,6 @@
 ### Dream 开发的微信小程序版 编辑器
 
-![logo](static/gh_16e4613251a6_258.jpg)
+![logo](配置编辑器/static/gh_16e4613251a6_258.jpg)
 
 ### PC Web版
 
