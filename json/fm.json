@@ -163,7 +163,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://qq1719248506.github.io/XPath/YP.json"
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/Wzs1973/TVBox/main/xpath/YP.json"
     },    
     {
       "key":"环亚",
@@ -227,7 +227,7 @@
     },
     {
       "key": "*奶插",
-      "name": "*奶插",
+      "name": "奶插",
       "type": 1,
       "api": "https://caiji.naichaapi.com/inc/apijson_vod.php",
       "searchable": 1,
