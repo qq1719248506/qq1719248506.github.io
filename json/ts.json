@@ -287,17 +287,6 @@
       "ext":"f41992bd740145ed58cb212dc0876582"
     },
     {
-      "key":"奈菲中文",
-      "name":"奈菲中文",
-      "type":3,
-      "api":"csp_XBPQ",
-      "searchable":1,
-      "quickSearch":1,
-      "filterable":0,
-      "ext":"https://ghproxy.com/https://raw.githubusercontent.com/Wzs1973/TVBox/main/xBPQ/奈菲中文.json",
-      "jar":"https://ghproxy.com/https://raw.githubusercontent.com/Wzs1973/TVBox/main/jar/XBPQ.jar"
-    },
-    {
       "key": "csp_XP_六度",
       "name": "六度",
       "type": 3,
@@ -317,6 +306,16 @@
       "filterable": 0,      
       "ext": "https://ghproxy.com/https://raw.githubusercontent.com/Wzs1973/TVBox/main/XPathMacFilter/独播库.json"
     },
+    {
+      "key": "csp_XPM_奈菲中文",
+      "name": "奈菲",
+      "type": 3,
+      "api": "csp_XPathMacFilter",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,      
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/Wzs1973/TVBox/main/XPathMacFilter/奈菲中文.json"
+    },    
     {
       "key": "csp_XPM_冷曦影视",
       "name": "冷曦",
@@ -453,17 +452,7 @@
       "quickSearch": 1,
       "filterable": 0,      
       "ext": "https://ghproxy.com/https://raw.githubusercontent.com/Wzs1973/TVBox/main/XB/搜狗影院.json"
-    },
-    {
-      "key": "csp_XB_奈菲影院",
-      "name": "奈菲",
-      "type": 3,
-      "api": "csp_XBiubiu",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,      
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/Wzs1973/TVBox/main/XB/奈菲影院.json"
-    },    
+    },   
     {
       "key": "csp_XB_骚火电影",
       "name": "骚火",
