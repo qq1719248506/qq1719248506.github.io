@@ -4,7 +4,7 @@
 
 ### PC Web版
 
-https://qq1719248506.github.io/
+https://qq1719248506.github.io/配置编辑器/
 
 ## jar包缝合教程：暴力缝合，非代码修改。
 
