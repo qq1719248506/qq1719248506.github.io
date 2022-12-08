@@ -156,6 +156,16 @@
       "filterable": 0
     },
     {
+      "key": "js_banan",
+      "name": "Banan",
+      "type": 3,
+      "api": "https://qq1719248506.github.io/libs/drpy2.min.js",
+      "ext": "https://qq1719248506.github.io/js/飞兔影视.js",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0
+    },    
+    {
       "key": "csp_YP",
       "name": "YP",
       "type": 3,
