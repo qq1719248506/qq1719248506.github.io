@@ -307,14 +307,14 @@
       "ext": "https://ghproxy.com/https://raw.githubusercontent.com/Wzs1973/TVBox/main/XPathMacFilter/独播库.json"
     },
     {
-      "key": "csp_XPM_奈菲中文",
-      "name": "奈菲",
+      "key": "csp_XP_2023影视",
+      "name": "2023",
       "type": 3,
       "api": "csp_XPath",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,      
-      "ext": "https://qq1719248506.github.io/XPathMacFilter/奈菲中文.json"
+      "ext": "https://qq1719248506.github.io/XPath/2023kan.json"
     },    
     {
       "key": "csp_XPM_冷曦影视",
@@ -347,14 +347,14 @@
       "ext": "https://ghproxy.com/https://raw.githubusercontent.com/Wzs1973/TVBox/main/XPathMacFilter/美剧虫.json"
     },
     {
-      "key": "csp_XPath_剧荒",
+      "key": "csp_Juhuang",
       "name": "剧荒",
       "type": 3,
-      "api": "csp_XPath",
+      "api": "csp_Juhuang",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 0,      
-      "ext": "https://qq1719248506.github.io/XPath/juhuangtv.json"
+      "filterable": 1,      
+      "jar": "https://qq1719248506.github.io/jar/xo.jar"
     },    
     {
       "key":"drpy_js_Alist",
@@ -462,6 +462,26 @@
       "quickSearch": 1,
       "filterable": 0,      
       "ext": "https://ghproxy.com/https://raw.githubusercontent.com/Wzs1973/TVBox/main/XB/搜狗影院.json"
+    },
+    {
+      "key": "csp_XB_2345影视",
+      "name": "2345",
+      "type": 3,
+      "api": "csp_XBiubiu",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,      
+      "ext": "https://qq1719248506.github.io/XBiubiu/2345影视.json"
+    },
+   {
+      "key": "csp_XB_酷云影院",
+      "name": "酷云",
+      "type": 3,
+      "api": "csp_XBiubiu",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,      
+      "ext": "https://qq1719248506.github.io/XBiubiu/酷云影院.json"
     },   
     {
       "key": "csp_XB_骚火电影",
