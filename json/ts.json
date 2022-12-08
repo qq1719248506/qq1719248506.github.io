@@ -438,7 +438,17 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
-    },    
+    },
+     {
+      "key": "js_菜狗",
+      "name": "搜狗[js]",
+      "type": 3,
+      "api": "https://ghproxy.com/https://raw.githubusercontent.com/Wzs1973/TVBox/main/libs/drpy.min.js",
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/Wzs1973/TVBox/main/JS/菜狗.js",
+      "searchable": 2,
+      "quickSearch": 1,
+      "filterable": 0
+    },   
     {
       "key": "drpy_js_真不卡",
       "name": "不卡[js]",
@@ -468,16 +478,6 @@
       "quickSearch": 1,
       "filterable": 0,
       "ext": "https://ghproxy.com/https://raw.githubusercontent.com/Wzs1973/TVBox/main/JS/土狗影院.js"
-    },
-    {
-      "key": "drpy_js_思古影视",
-      "name": "思古[js]",
-      "type": 3,
-      "api": "https://ghproxy.com/https://raw.githubusercontent.com/Wzs1973/TVBox/main/libs/drpy.min.js",
-      "searchable": 2,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/Wzs1973/TVBox/main/JS/思古影视.js"
     },    
     {
       "key": "drpy_js_量子影视",
@@ -519,16 +519,6 @@
       "filterable": 0,      
       "ext": "https://ghproxy.com/https://raw.githubusercontent.com/Wzs1973/TVBox/main/JS/回响影视.js"
     },    
-    {
-      "key": "csp_XB_搜狗影院",
-      "name": "搜狗",
-      "type": 3,
-      "api": "csp_XBiubiu",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,      
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/Wzs1973/TVBox/main/XB/搜狗影院.json"
-    },
     {
       "key": "csp_XB_2345影视",
       "name": "2345",
