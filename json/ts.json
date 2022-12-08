@@ -518,7 +518,17 @@
       "quickSearch": 1,
       "filterable": 0,      
       "ext": "https://ghproxy.com/https://raw.githubusercontent.com/Wzs1973/TVBox/main/JS/回响影视.js"
-    },    
+    },
+    {
+      "key": "js_看一看影视",
+      "name": "看一看",
+      "type": 3,
+      "api": "https://qq1719248506.github.io/libs/drpy2.min.js",
+      "ext": "https://qq1719248506.github.io/js/看一看影视.js",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0
+    },     
     {
       "key": "csp_XB_2345影视",
       "name": "2345",
