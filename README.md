@@ -56,6 +56,8 @@ FongMi：https://ghproxy.com/raw.githubusercontent.com/FongMi/CatVodSpider/main/
 
 菜妮丝：https://tvbox.cainisi.cf
 
+Yoursmile7：https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json
+
 熊猫是肥猫：http://我不是.肥猫.love:63
 
 神器：https://神器每日推送.tk/pz.json
