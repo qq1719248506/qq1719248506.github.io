@@ -52,7 +52,7 @@ FongMi：https://ghproxy.com/raw.githubusercontent.com/FongMi/CatVodSpider/main/
 
 霜辉月明py：https://ghproxy.com/raw.githubusercontent.com/lm317379829/PyramidStore/pyramid/py.json
 
-小雅js：http://drpy.site/js1
+小雅js：http://101.34.67.237/config/2
 
 菜妮丝：https://tvbox.cainisi.cf
 
