@@ -122,3 +122,7 @@ http://bbs.qiqiv.cn/thread-11973-1-1.html
 
 ---------
 ### 分享他人的教学，实操可成。
+
+DD大神的私人订制设置影视仓内外置源的图文教程
+
+https://qun.qq.com/qqweb/qunpro/share?_wv=3&_wwv=128&appChannel=share&inviteCode=1YI1421j715&contentID=1gcG4g&businessType=2&from=181174&shareSource=5&biz=ka
