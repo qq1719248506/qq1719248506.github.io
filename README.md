@@ -62,7 +62,7 @@ Yoursmile7：https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json
 
 神器：https://神器每日推送.tk/pz.json
 
-饭太硬：http://饭太硬.ga/x/o.json
+饭太硬：http://饭太硬.ga/tv
 
 ## 壁纸：
 
