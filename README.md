@@ -117,6 +117,25 @@ http://bbs.qiqiv.cn/thread-11973-1-1.html
 ---------
 ### 分享他人的教学，实操可成。
 
+常用工具：
+免魔法电报，也是个开源项目，用前自己上网查询这个怎么样。
+
+https://github.com/NekoX-Dev/NekoX
+
+文本比较、json格式化： https://tsq.lanzouf.com/b0c4rjpsb 密码:123
+
+开发者工具箱： https://1024tools.com/
+
+文本处理： http://www.txttool.com/
+
+直播源批量检测工具： https://tsq.lanzouf.com/b0c4p2fba 密码:123
+
+MXPlayer-Pro-1.46.10高级解锁版： https://tsq.lanzouf.com/b0c4p1nyf 密码:123
+
+MD5获取小工具：http://www.metools.info/
+
+MD5在TVbox中的填写格式："spider": "https://j***.jar;md5;***",
+
 DD大神的私人订制设置影视仓内外置源的图文教程
 
 https://qun.qq.com/qqweb/qunpro/share?_wv=3&_wwv=128&appChannel=share&inviteCode=1YI1421j715&contentID=1gcG4g&businessType=2&from=181174&shareSource=5&biz=ka
