@@ -37,28 +37,108 @@
       "searchable":1,
       "quickSearch":0,
       "filterable":0,
-      "ext":"./AList/alist.json"
+      "ext":"./Alist.json"
     },
     {
       "key":"csp_WebDAV",
       "name":"WebDAV┃网盘",
       "type":3,
       "api":"csp_WebDAV",
-      "searchable":1,
-      "filterable":0,
+      "searchable": 1,
+      "filterable": 0,
       "changeable": 0,
       "ext":"./webdav.json"
     },
     {
-      "key":"csp_WoGG",
-      "name":"玩偶┃哥哥",
-      "type":3,
-      "api":"csp_WoGG",
-      "searchable":1,
-      "quickSearch":1,
-      "filterable":1,
-      "ext":"./ali/token.txt"
+      "key": "csp_Bili",
+      "name": "哔哩┃合辑",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 1,
+      "filterable": 1,
+      "changeable": 1,
+      "ext": "./Bili/bilibili.json"
+    },    
+    {
+      "key": "七夜",
+      "name": "七夜┃搜索",
+      "type": 3,
+      "api": "csp_Dovx",
+      "searchable": 1,
+      "filterable": 0,
+      "changeable": 0,
+      "ext": "./ali/token.txt"
+    },    
+    {
+      "key": "紙條",
+      "name": "紙條┃阿里",
+      "type": 3,
+      "api": "csp_Paper",
+      "searchable": 1,
+      "filterable": 1,
+      "changeable": 0,      
+      "ext": "./ali/token.txt"
     },
+    {
+      "key": "易搜",
+      "name": "易搜┃阿里",
+      "type": 3,
+      "api": "csp_YiSo",
+      "searchable": 1,
+      "filterable": 0,
+      "changeable": 0,      
+      "ext": "./ali/token.txt"
+    },
+    {
+      "key": "盤搜",
+      "name": "盤搜┃阿里",
+      "type": 3,
+      "api": "csp_PanSou",
+      "searchable": 1,
+      "filterable": 0,
+      "changeable": 0,      
+      "ext": "./ali/token.txt"
+    },
+    {
+      "key": "雲搜",
+      "name": "雲搜┃阿里",
+      "type": 3,
+      "api": "csp_UpYun",
+      "searchable": 1,
+      "filterable": 0,
+      "changeable": 0,
+      "ext": "./ali/token.txt"
+    },
+    {
+      "key": "盤搜索",
+      "name": "搜索┃阿里",
+      "type": 3,
+      "api": "csp_PanSearch",
+      "searchable": 1,
+      "filterable": 0,
+      "changeable": 0,
+      "ext": "./ali/token.txt"
+    },
+    {
+      "key": "找資源",
+      "name": "找片┃阿里",
+      "type": 3,
+      "api": "csp_Zhaozy",
+      "searchable": 1,
+      "filterable": 0,
+      "changeable": 0,
+      "ext": "./ali/token.txt$$$test2$$$test2"
+    },
+    {
+      "key": "csp_SP360",
+      "name": "360┃影视",
+      "type": 3,
+      "api": "csp_SP360",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable":0
+    },    
     {
       "key": "csp_kuaikan",
       "name": "快看┃影视",
@@ -69,36 +149,41 @@
       "filterable": 1
     },
     {
-      "key": "csp_YQKAPP",
-      "name": "一起看┃TV",
-      "type": 3,
-      "api": "csp_YQKAPP",
-      "playerType":2,
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://api-tx.11ty.top"
+      "key":"小苹果",
+      "name":"苹果┃影视",
+      "type":3,
+      "api":"csp_LiteApple",
+      "playerType":1,
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":1
     },
     {
-      "key": "csp_AppTT",
-      "name": "图图┃影视",
-      "type": 3,
-      "api": "csp_AppTT",
-      "m3u8ads": "hd.youyhn.com",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "dk1YWXFYbkhNbmlsU1JLI01kMFZ0OE1JdzRJQW1yY3I=$$$Y2hpbkpaUzdiTXpYbzZzWQ==$$$aHR0cDovL2FwaS50dDU4LnR2L2NvbmZpZy9uZXd0di5qc29uP3NzPQ=="
+      "key":"csp_DiDuan",
+      "name":"低端┃影视",
+      "type":3,
+      "api":"csp_Ddys",
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":0
     },
     {
-       "key":"csp_FanYY",
-       "name":"剥饭┃影视",
-       "type":3,
-       "api":"csp_FanYY",
-       "searchable":1,
-       "quickSearch":1,
-       "filterable":1,
-       "ext":"./ali/token.txt"
+      "key":"csp_Bdys01",
+      "name":"哔嘀┃影视",
+      "type":3,
+      "api":"csp_Bdys01",
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":1
+    },
+    {
+      "key":"酷云七七",
+      "name":"酷云┃七七",
+      "type":3,
+      "api":"csp_Kunyu77",
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":1
     },
     {
       "key": "csp_AppYsV2",
@@ -111,34 +196,24 @@
       "ext": "https://www.69mj.com/xgapp.php/v2/"
     },
     {
-      "key": "csp_BuLei",
-      "name": "布雷┃影城",
+      "key": "野荷塘影院",
+      "name":"荷塘┃影院",
+      "type":3,
+      "api":"csp_XYQHiker",
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":1,
+      "ext":"./XYQHiker/野荷塘影院.json"
+    },
+    {
+      "key": "布蕾蓝光影城",
+      "name": "布蕾┃影城",
       "type": 3,
-      "api": "csp_BuLei",
+      "api": "csp_XYQHiker",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "http://v.ilime.cc$$$auto$$$sdlw1111$$$qqaa1122"
-    },
-    {
-      "key": "csp_apple",
-      "name": "苹果┃影视",
-      "type": 3,
-      "api": "csp_LiteApple",
-      "playerType":1,
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "csp_Lib",
-      "name": "利奥┃影视",
-      "type": 3,
-      "api": "csp_Libvio",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://tv.libvio.cc/"
+      "ext": "./XYQHiker/布蕾蓝光影城.json"
     },
     {
       "key": "csp_fantuan",
