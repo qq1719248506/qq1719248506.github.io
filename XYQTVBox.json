@@ -38,16 +38,6 @@
       "quickSearch":0,
       "filterable":0,
       "ext":"./Alist.json"
-    },
-    {
-      "key":"csp_WebDAV",
-      "name":"WebDAV┃网盘",
-      "type":3,
-      "api":"csp_WebDAV",
-      "searchable": 1,
-      "filterable": 0,
-      "changeable": 0,
-      "ext":"./webdav.json"
     },    
     {
       "key": "七夜",
