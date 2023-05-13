@@ -88,7 +88,7 @@ https://tuapi.eees.cc/api.php?category=fengjing&type=302
 
 ##香雅情仓库
 
-https://framagit.org/lzk23559/TVRule
+https://framagit.org/hy31512-maker/XYQTVBox/-/raw/main/XYQTVBox.json
 
 ##奇奇的网站
 
