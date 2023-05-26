@@ -808,6 +808,21 @@
       "url": "Demo"
     },
     {
+      "name":"Mxone解析",
+      "type":1,
+      "url":"http://43.139.182.58/mgtv/geturl.php?url="
+    },
+    {
+      "name":"肥波解析",
+      "type":1,
+      "url":"https://b.umkan.cc/API.php?url="
+    },
+    {
+      "name":"8090解析",
+      "type":0,
+      "url":"https://www.8090.la/8090/?url="
+    },
+    {
       "name":"尘烟",
       "type":1,
       "url":"https://vip.xuux.icu/home/api?type=ys&uid=1325731&key=adfgilmnpwzBDEJPY3&url="
