@@ -67,8 +67,6 @@
       "type":3,
       "api":"csp_SP360",
       "searchable":1,
-      "quickSearch":1,
-      "filterable":1,
       "changeable":0
     },
     {
@@ -137,15 +135,6 @@
       "filterable": 1
     },
     {
-      "key": "csp_Yj1211",
-      "name": "短视频┃合辑",
-      "type": 3,
-      "api": "csp_Yj1211",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
-    {
       "key": "csp_Bili",
       "name": "哔哩┃合辑",
       "type": 3,
@@ -184,8 +173,6 @@
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
       "ext": "./XBPQ/搜狗影院.json"
     },    
     {
@@ -194,8 +181,6 @@
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
       "ext": "./XBPQ/乐鱼影视.json"
     },    
     {
@@ -204,8 +189,6 @@
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
       "ext": "./XBPQ/冷曦影视.json"
     },
     {
@@ -214,8 +197,6 @@
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
       "ext": "./XBPQ/天空影视.json"
     },
     {
@@ -224,8 +205,6 @@
       "type":3,
       "api":"csp_XBPQ",
       "searchable":1,
-      "quickSearch":1,
-      "filterable":1,
       "ext":"./XBPQ/大米星球.json"
     },	
     {
@@ -234,8 +213,6 @@
       "type":3,
       "api":"csp_XBPQ",
       "searchable":1,
-      "quickSearch":1,
-      "filterable":1,
       "ext":"./XBPQ/神马影院.json"
     },
     {
@@ -244,8 +221,6 @@
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
       "ext": "./XBPQ/视觉影院.json"
     },    
     {
@@ -254,8 +229,6 @@
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
       "ext": "./XBPQ/量子影视.json"
     },
     {
@@ -264,8 +237,6 @@
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
       "ext": "./XBPQ/非凡资源网.json"
     },
     {
@@ -274,19 +245,15 @@
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
       "ext": "./XBPQ/悠幕影视.json"
     },
     {
-      "key": "亿龙",
-      "name": "亿龙┃影视",
+      "key": "策驰",
+      "name": "策驰┃影视",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./XBPQ/亿龙影视.json"
+      "ext": "./XBPQ/策驰影院.json"
     },
     {
       "key": "土豪",
@@ -294,8 +261,6 @@
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
       "ext": "./XBPQ/土豪影视.json"
     },    
     {
@@ -304,8 +269,6 @@
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
       "ext": "./XBPQ/端木蓝光.json"
     },
     {
@@ -314,50 +277,96 @@
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
       "ext": "./XBPQ/无名小站.json"
     },
     {
-      "key":"HDmoli",
-      "name":"魔力┃视频",
+      "key":"白嫖",
+      "name":"白嫖┃影视",
       "type":3,
       "api":"csp_XBPQ",
       "searchable":1,
-      "quickSearch":1,
-      "filterable":1,
-      "ext":"./XBPQ/HDmoli.json"
+      "ext":"./XBPQ/白嫖影视.json"
     },
+    {
+      "key":"蚂蚁",
+      "name":"蚂蚁┃影视",
+      "type":3,
+      "api":"csp_XBPQ",
+      "searchable":1,
+      "ext":"./XBPQ/蚂蚁影视.json"
+    },    
     {
       "key": "饭团影院",
       "name": "饭团┃影院",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
       "ext": "./XBPQ/饭团影院.json"
     },
     {
       "key":"大豆高清",
       "name":"大豆┃高清",
       "type":3,
-      "api":"csp_XYQHiker",
+      "api":"csp_XBPQ",
       "searchable":1,
-      "quickSearch":1,
-      "filterable":1,
-      "ext":"./XYQHiker/大豆高清.json"
+      "ext":"./XBPQ/大豆高清.json"
     },
     {
       "key":"热播之家",
       "name":"热播┃之家",
       "type":3,
-      "api":"csp_XYQHiker",
+      "api":"csp_XBPQ",
       "searchable":1,
-      "quickSearch":1,
-      "filterable":1,
-      "ext":"./XYQHiker/热播之家.json"
+      "ext":"./XBPQ/热播.json"
     },
+    {
+      "key":"利播",
+      "name":"利播┃影视",
+      "type":3,
+      "api":"csp_XBPQ",
+      "searchable":1,
+      "ext":"./XBPQ/利播.json"
+    },
+    {
+      "key":"星星",
+      "name":"星星┃影视",
+      "type":3,
+      "api":"csp_XBPQ",
+      "searchable":1,
+      "ext":"./XBPQ/星星.json"
+    },
+    {
+      "key":"王子",
+      "name":"王子┃影视",
+      "type":3,
+      "api":"csp_XBPQ",
+      "searchable":1,
+      "ext":"./XBPQ/王子.json"
+    },
+    {
+      "key":"速搜",
+      "name":"速搜┃影视",
+      "type":3,
+      "api":"csp_XBPQ",
+      "searchable":1,
+      "ext":"./XBPQ/速搜.json"
+    },
+    {
+      "key":"明帝",
+      "name":"明帝┃影视",
+      "type":3,
+      "api":"csp_XBPQ",
+      "searchable":1,
+      "ext":"./XBPQ/明帝影视.json"
+    },
+    {
+      "key":"蛋蛋",
+      "name":"臭蛋┃影视",
+      "type":3,
+      "api":"csp_XBPQ",
+      "searchable":1,
+      "ext":"./XBPQ/蛋蛋.json"
+    },    
     {
       "key":"农民影视",
       "name":"农民┃影视",
@@ -372,11 +381,9 @@
       "key": "野荷塘",
       "name": "荷塘┃影院",
       "type": 3,
-      "api": "csp_XYQHiker",
+      "api": "csp_XBPQ",
       "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./XYQHiker/野荷塘影院.json"
+      "ext": "./XBPQ/野荷塘.json"
     },    
     {
       "key": "鸭奈飞影视",
@@ -410,7 +417,7 @@
     },
     {
       "key":"csp_AppYsV2",
-      "name":"六九┃美剧",
+      "name":"美剧┃APP",
       "type":3,
       "api":"csp_AppYsV2",
       "searchable":1,
@@ -419,8 +426,18 @@
       "ext":"https://www.69mj.com/xgapp.php/v2/"
     },
     {
+      "key": "飞速",
+      "name": "飞速┃APP",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://www.lfytyl.com/api.php/app/"
+    },    
+    {
       "key": "酷影",
-      "name": "酷影┃影视",
+      "name": "酷影┃APP",
       "type": 3,
       "api": "csp_AppYsV2",
       "searchable": 1,
@@ -430,7 +447,7 @@
     },
     {
       "key":"多米蓝光",
-      "name":"多米┃蓝光",
+      "name":"多米┃APP",
       "type":3,
       "api":"csp_AppYsV2",
       "searchable":1,
@@ -438,6 +455,27 @@
       "filterable":1,
       "ext":"http://vod.dmdh.top:5680//api.php/app/"
     },
+    {
+      "key": "csp_aidi",
+      "name": "爱迪┃APP",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://api123.adys.app/xgapp.php/v3/"
+    },
+    {
+      "key": "csp_ruyi",
+      "name": "如意┃APP",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "playerType": "1",
+      "ext": "http://cms.maoyingshi.cc/api.php/app/"
+    },    
     {
       "key": "鸡婆",
       "name": "鸡婆┃影视",
