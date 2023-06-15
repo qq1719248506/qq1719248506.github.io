@@ -13,13 +13,13 @@
     },
     {
       "key": "玩偶哥哥",
-      "name":"玩偶┃阿里",
+      "name":"玩偶┃云盘",
       "type":3,
       "api":"csp_XYQHikerAL",
       "searchable":1,
       "quickSearch":1,
       "filterable":1,
-      "ext":"./XYQHikerAL/玩偶.json"
+      "ext":"./XYQHikerAL/玩偶哥哥.json"
     },
     {
       "key": "阿里云盘网",
@@ -57,7 +57,7 @@
       "type":3,
       "api":"csp_XBPQ",
       "searchable":1,
-      "ext": "./XBPQ/360.json" 
+      "ext": "./XBPQ/360影视.json" 
     },
     {
       "key":"小苹果",
@@ -291,14 +291,6 @@
       "api": "csp_XBPQ",
       "searchable": 1,
       "ext": "./XBPQ/饭团影院.json"
-    },
-    {
-      "key":"大豆高清",
-      "name":"大豆┃高清",
-      "type":3,
-      "api":"csp_XBPQ",
-      "searchable":1,
-      "ext":"./XBPQ/大豆高清.json"
     },
     {
       "key":"热播之家",
@@ -672,6 +664,17 @@
       "api":"csp_XYQHikerAL",
       "searchable":1,
       "ext":"./XYQHikerAL/我的小站.json"
+    },
+    {
+      "key":"橘子盘搜",
+      "name":"橘子┃云盘",
+      "type":3,
+      "api":"csp_XYQHikerAL",
+      "playerType":1,
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":1,
+      "ext":"./XYQHikerAL/橘子盘搜.json"
     },
     {
       "key": "豆豆飞",
