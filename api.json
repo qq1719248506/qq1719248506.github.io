@@ -357,6 +357,14 @@
       "ext":"./XBPQ/农民影视.json"
     },
     {
+      "key":"真不卡",
+      "name":"不卡┃影视",
+      "type":3,
+      "api":"csp_XBiubiu",
+      "searchable":1,
+      "ext":"./XBiubiu/真不卡.json"
+    },    
+    {
       "key": "野荷塘",
       "name": "荷塘┃影院",
       "type": 3,
