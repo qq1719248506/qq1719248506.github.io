@@ -29,9 +29,9 @@ Yoursmile7：https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json
 
 熊猫是肥猫：http://我不是.肥猫.love:63/接口禁止贩卖
 
-神器：https://神器每日推送.tk/pz.json
+香雅情接口：https://www.123pan.com/s/alSeVv-lGO0A.html
 
-饭太硬：http://饭太硬.ga/tv
+饭太硬：http://饭太硬.top/tv
 
 ## 壁纸：
 
