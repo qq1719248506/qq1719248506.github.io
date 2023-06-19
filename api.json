@@ -214,6 +214,14 @@
       "ext":"./XBPQ/神马影院.json"
     },
     {
+      "key": "零度",
+      "name": "零度┃影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "playerType": "1",
+      "ext": "./XBPQ/零度.json"
+    },    
+    {
       "key": "新视觉",
       "name": "视觉┃影院",
       "type": 3,
