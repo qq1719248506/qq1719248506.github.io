@@ -55,10 +55,23 @@
       "key":"360影视",
       "name":"360┃影视",
       "type":3,
-      "api":"csp_XBPQ",
-      "searchable":1,
-      "ext": "./XBPQ/360影视.json" 
+      "api":"./libs/drpy2.min.js",
+      "ext": "./js/360影视.js" 
     },
+    {
+      "key":"快看",
+      "name":"快看┃影视",
+      "type":3,
+      "api":"./libs/drpy2.min.js",
+      "ext": "./js/快看.js" 
+    },
+    {
+      "key":"骚火",
+      "name":"骚火┃影院",
+      "type":3,
+      "api":"./libs/drpy2.min.js",
+      "ext": "./js/骚火电影.js" 
+    },    
     {
       "key":"小苹果",
       "name":"苹果┃影视",
@@ -113,24 +126,6 @@
       "quickSearch":0,
       "filterable":0,
       "ext":"./AList/alist.json"
-    },
-    {
-      "key": "csp_Ying",
-      "name": "樱花┃动漫",
-      "type": 3,
-      "api": "csp_Ying",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "csp_Ysj",
-      "name": "异界┃动漫",
-      "type": 3,
-      "api": "csp_Ysj",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
     },
     {
       "key": "csp_Bili",
@@ -372,14 +367,6 @@
       "api":"csp_XBiubiu",
       "searchable":1,
       "ext":"./XBiubiu/真不卡.json"
-    },
-    {
-      "key":"茶杯狐",
-      "name":"茶杯┃影视",
-      "type":3,
-      "api":"csp_XBiu",
-      "searchable":1,
-      "ext":"https://www.cupfox.cc/index.php/vodshow/{cateId}-{page}-{arer}-{by}-{class}-{catePg}---{yera}.py.html"
     },    
     {
       "key": "野荷塘",
