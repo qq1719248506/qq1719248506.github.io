@@ -73,16 +73,6 @@
       "ext": "./js/骚火电影.js" 
     },    
     {
-      "key":"小苹果",
-      "name":"苹果┃影视",
-      "type":3,
-      "api":"csp_LiteApple",
-      "playerType":1,
-      "searchable":1,
-      "quickSearch":1,
-      "filterable":1
-    },
-    {
       "key":"快看",
       "name":"快看┃影视",
       "type":3,
