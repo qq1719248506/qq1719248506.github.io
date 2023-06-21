@@ -6,6 +6,7 @@
 
 https://qq1719248506.github.io/配置编辑器/
 
+TVBOX接口在线解密：https://www.lige.fit/ua
 
 TVBox各路大佬配置
 
@@ -22,6 +23,8 @@ FongMi：https://ghproxy.com/raw.githubusercontent.com/FongMi/CatVodSpider/main/
 小雅js：http://101.34.67.237/config/2
 
 菜妮丝：https://tvbox.cainisi.cf
+
+小米线路:  http://xhww.fun:63/小米/DEMO.json
 
 小易茶行: https://ghproxy.com/raw.githubusercontent.com/XiaoYiChaHang/tvbox/main/ysj.json
 
