@@ -148,10 +148,10 @@
       "filterable":0
     },
     {
-      "key":"csp_Bdys01",
+      "key":"csp_Bdys",
       "name":"哔嘀┃影视",
       "type":3,
-      "api":"csp_Bdys01",
+      "api":"csp_Bdys",
       "searchable":1,
       "quickSearch":1,
       "filterable":1
@@ -173,7 +173,8 @@
       "playerType":2,
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1
+      "filterable": 1,
+      "ext":"https://www.czzy03.com"
     },    
     {
       "key": "csp_AppYsV2",
@@ -184,6 +185,26 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://www.69mj.com/xgapp.php/v2/"
+    },
+    {
+      "key": "爱看影视",
+      "name":"不卡┃影院",
+      "type":3,
+      "api":"csp_XYQHiker",
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":1,
+      "ext":"./XYQHiker/爱看影视.json"
+    },
+    {
+      "key": "奈飞中文",
+      "name":"奈飞┃中文",
+      "type":3,
+      "api":"csp_XYQHiker",
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":1,
+      "ext":"./XYQHiker/奈飞中文.json"
     },
     {
       "key": "csp_Vofl",
