@@ -2,15 +2,14 @@
 
 ![logo](配置编辑器/static/gh_16e4613251a6_258.jpg)
 
-### PC Web版
 
-https://qq1719248506.github.io/配置编辑器/
+### PC Web版:      https://qq1719248506.github.io/配置编辑器/
 
 TVBOX接口在线解密：https://www.lige.fit/ua
 
 TVBox各路大佬配置
 
-唐三：https://hutool.ml/tang
+唐三：https://gh.t4tv.hz.cz/newtang.bmp
 
 FongMi：https://ghproxy.com/raw.githubusercontent.com/FongMi/CatVodSpider/main/json/config.json
 
@@ -25,6 +24,8 @@ FongMi：https://ghproxy.com/raw.githubusercontent.com/FongMi/CatVodSpider/main/
 菜妮丝：https://tvbox.cainisi.cf
 
 小米线路:  http://xhww.fun:63/小米/DEMO.json
+
+运输车线路: https://weixine.net/ysc.json
 
 小易茶行: https://ghproxy.com/raw.githubusercontent.com/XiaoYiChaHang/tvbox/main/ysj.json
 
