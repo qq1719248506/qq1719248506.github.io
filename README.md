@@ -59,10 +59,6 @@ http://饭太硬.ga/深色壁纸/api.php
 
 https://tuapi.eees.cc/api.php?category=fengjing&type=302
 
-##香雅情仓库
-
-https://framagit.org/hy31512-maker/XYQTVBox/-/raw/main/XYQTVBox.json
-
 ##奇奇的网站
 
 http://bbs.qiqiv.cn/thread-11973-1-1.html
