@@ -3,6 +3,63 @@
   "spider": "./spider.jar;md5;7a069ebaad94e1572810552c39dbf9b3",
   "sites": [
     {
+      "key": "Kunyu77",
+      "name": "酷云┃七七",
+      "type": 3,
+      "api": "csp_Kunyu77",
+      "searchable": 1
+    },
+    {
+      "key": "360",
+      "name": "360┃影视",
+      "type": 3,
+      "api": "csp_SP360",
+      "searchable": 1
+    },
+    {
+      "key": "厂长",
+      "name": "厂长┃影视",
+      "type": 3,
+      "api": "csp_Czsapp",
+      "searchable": 1
+    },
+    {
+      "key": "低端影视",
+      "name": "低端┃影视",
+      "type": 3,
+      "api": "csp_Ddrk",
+      "searchable": 1
+    },
+    {
+      "key": "NongMing",
+      "name": "农民┃影视",
+      "type": 3,
+      "api": "csp_NongMing",
+      "searchable": 1
+    },
+    {
+      "key": "小苹果",
+      "name": "苹果┃影视",
+      "type": 3,
+      "api": "csp_LiteApple",
+      "searchable": 1
+    },
+    {
+      "key": "Voflix",
+      "name": "Voflix┃HD",
+      "type": 3,
+      "api": "csp_Voflix",
+      "searchable": 1,
+      "ext": "https://www.voflix.me/"
+    },
+    {
+      "key": "哔哩兔",
+      "name": "兔兔┃影视",
+      "type": 3,
+      "api": "csp_Bilituys",
+      "searchable": 1
+    },    
+    {
       "key": "csp_Live2Vod",
       "name": "电视┃直播",
       "type": 3,
