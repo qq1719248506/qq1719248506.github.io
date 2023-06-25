@@ -1,6 +1,6 @@
 {
   "wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
-  "spider": "./test.jar;md5;3930f1c3cc32287d930a5c9a615fa24f",
+  "spider": "./custom_spider.jar;md5;767df9ff618658b6d54cc3d338e15558",
   "sites": [
     {
       "key": "玩偶哥哥",
