@@ -609,8 +609,7 @@
       "api": "csp_Paper",
       "searchable": 1,
       "changeable": 0,
-      "ext": "./token.txt",
-      "jar":"./ali.jar"
+      "ext": "./token.txt"
     },    
     {
       "key": "七夜",
@@ -619,8 +618,7 @@
       "api": "csp_Dovx",
       "searchable": 1,
       "changeable": 0,
-      "ext": "./token.txt",
-      "jar":"./ali.jar"
+      "ext": "./token.txt"
     },    
     {
       "key": "Zhaozy",
@@ -629,8 +627,7 @@
       "api": "csp_Zhaozy",
       "searchable": 1,
       "changeable": 0,
-      "ext": "./token.txt$$$test2$$$test2",
-      "jar":"./ali.jar"
+      "ext": "./token.txt$$$test2$$$test2"
     },
     {
       "key": "YiSo",
@@ -639,8 +636,7 @@
       "api": "csp_YiSo",
       "searchable": 1,
       "changeable": 0,
-      "ext": "./token.txt",
-      "jar":"./ali.jar"
+      "ext": "./token.txt"
     },
     {
       "key": "PanSou",
@@ -649,8 +645,7 @@
       "api": "csp_PanSou",
       "searchable": 1,
       "changeable": 0,
-      "ext": "./token.txt",
-      "jar":"./ali.jar"
+      "ext": "./token.txt"
     },
     {
       "key": "UpYun",
@@ -659,8 +654,7 @@
       "api": "csp_UpYun",
       "searchable": 1,
       "changeable": 0,
-      "ext": "./token.txt",
-      "jar":"./ali.jar"
+      "ext": "./token.txt"
     },
     {
       "key":"网盘搜索",
@@ -669,8 +663,7 @@
       "api": "csp_PanSearch",
       "searchable": 1,
       "changeable": 0,
-      "ext": "./token.txt",
-      "jar":"./ali.jar"
+      "ext": "./token.txt"
     },
     {
       "key":"土狗",
@@ -679,8 +672,7 @@
       "api":"csp_TuGou",
       "searchable":1,
       "changeable":0,
-      "ext": "./token.txt",
-      "jar":"./ali.jar"
+      "ext": "./token.txt"
     },
     {
       "key":"土拨鼠",
