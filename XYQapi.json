@@ -1,6 +1,6 @@
 {
   "wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
-  "spider": "./xyq.jar;md5;b6d2e4315354054002bc5d3f2b4093bd",
+  "spider": "./test.jar;md5;3930f1c3cc32287d930a5c9a615fa24f",
   "sites": [
     {
       "key": "玩偶哥哥",
@@ -50,6 +50,15 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
+    },
+    {
+      "key": "csp_MGTV",
+      "name": "芒果┃视频",
+      "type": 3,
+      "api": "csp_MGTV",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
     },    
     {
       "key": "csp_kuaikan",
@@ -79,6 +88,15 @@
       "quickSearch":1,
       "filterable":0
     },
+    {
+      "key":"csp_Dy555_1",
+      "name":"三五┃影视",
+      "type":3,
+      "api":"csp_Dy555_1",
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":0
+    },    
     {
       "key":"csp_Bdys",
       "name":"哔嘀┃影视",
@@ -112,7 +130,7 @@
       "key":"csp_AList",
       "name":"Alist┃网盘",
       "type":3,
-      "api":"csp_Alist",
+      "api":"csp_AList",
       "searchable":1,
       "quickSearch":0,
       "filterable":0,
@@ -122,7 +140,7 @@
       "key": "csp_Bili",
       "name": "哔哩┃合辑",
       "type": 3,
-      "api": "csp_Bili",
+      "api": "csp_Bili11",
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 0,
@@ -133,7 +151,7 @@
       "key": "csp_Biliych",
       "name": "哔哩┃音乐",
       "type": 3,
-      "api": "csp_Bili",
+      "api": "csp_Bili01",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
@@ -144,7 +162,7 @@
       "key": "纪录片",
       "name": "纪录┃影片",
       "type": 3,
-      "api": "csp_Bili",
+      "api": "csp_Bili01",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
