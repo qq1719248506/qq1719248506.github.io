@@ -1,6 +1,6 @@
 {
   "wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
-  "spider": "./spider.jar;md5;7a069ebaad94e1572810552c39dbf9b3",
+  "spider": "./custom_spider.jar;md5;0210755c9d1b3a7b559511281ba346ec",
   "sites": [
     {
       "key": "Kunyu77",
