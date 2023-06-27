@@ -2,21 +2,21 @@
   "sites": [
     {
       "key": "js豆瓣",
-      "name": "🐼┃豆瓣┃免费接口，微信公众号：肥猫不肥",
+      "name": "豆瓣┃荐片",
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "ext": "./lib/豆瓣.js"
     },
     {
       "key": "直播转点播",
-      "name": "🐼️┃电视┃直播",
+      "name": "电视┃直播",
       "type": 3,
       "api": "./lib/直播转点播2.js",
       "ext": "./lib/直播仓.json"
     },
     {
       "key": " 在线┃直播",
-      "name": "📺┃竞技┃直播",
+      "name": "竞技┃直播",
       "type": 3,
       "api": "csp_Yj1211",
       "searchable": 1,
@@ -24,15 +24,15 @@
       "filterable": 1
     },
     {
-      "key": "肥猫",
-      "name": "😸┃肥猫┃影视",
+      "key": "芸芸",
+      "name": "芸芸┃影视",
       "type": 3,
       "api": "csp_XBPQ",
       "ext": "./lib/芸芸.json"
     },
     {
       "key": "爱迪",
-      "name": "💡┃爱迪┃影视",
+      "name": "爱迪┃影视",
       "type": 3,
       "api": "csp_AppYsV2",
       "playerType": "2",
@@ -40,7 +40,7 @@
     },
     {
       "key": "狐狸",
-      "name": "🦊┃狐狸┃影视",
+      "name": "狐狸┃影视",
       "type": 3,
       "api": "csp_AppYsV2",
       "playerType": "2",
@@ -48,7 +48,7 @@
     },
     {
       "key": "鸭鸭",
-      "name": "🦆┃鸭鸭┃影视",
+      "name": "鸭鸭┃影视",
       "type": 3,
       "api": "csp_AppYsV2",
       "searchable": 1,
@@ -58,7 +58,7 @@
     },
     {
       "key": "酷云",
-      "name": "😎┃酷云┃影视",
+      "name": "酷云┃影视",
       "type": 3,
       "api": "csp_AppYsV2",
       "ext": "https://ys.realdou.cn/api.php/app/",
@@ -69,7 +69,7 @@
     },
     {
       "key": "YQK_spider",
-      "name": "🙆┃一起┃电视",
+      "name": "一起┃电视",
       "api": "csp_YQKAPP",
       "type": 3,
       "filterable": 1,
@@ -80,7 +80,7 @@
     },
     {
       "key": "csp_apple",
-      "name": "🍎┃苹果┃影视",
+      "name": "苹果┃影视",
       "type": 3,
       "api": "csp_LiteApple",
       "playerType": 1,
@@ -90,7 +90,7 @@
     },
     {
       "key": "csp_Kunyu77",
-      "name": "🌈┃七七┃影视",
+      "name": "七七┃影视",
       "type": 3,
       "api": "csp_Kunyu77",
       "searchable": 1,
@@ -99,7 +99,7 @@
     },
     {
       "key": "csp_BuLei",
-      "name": "🍩┃布雷┃影视",
+      "name": "布雷┃影视",
       "type": 3,
       "api": "csp_BuLei",
       "searchable": 1,
@@ -109,7 +109,7 @@
     },
     {
       "key": "csp_AppTT",
-      "name": "🐰┃图图┃影视",
+      "name": "图图┃影视",
       "type": 3,
       "api": "csp_AppTT",
       "searchable": 1,
@@ -119,7 +119,7 @@
     },
     {
       "key": "csp_DiDuan",
-      "name": "⏮️┃低端┃影视",
+      "name": "低端┃影视",
       "type": 3,
       "api": "csp_Ddrk",
       "click": "ddys.tv;#vjsp > button",
@@ -129,7 +129,7 @@
     },
     {
       "key": "csp_Bttoo",
-      "name": "🔺┃Btto┃影视",
+      "name": "Btto┃影视",
       "api": "csp_Bttwoo",
       "type": 3,
       "filterable": 1,
@@ -137,18 +137,18 @@
       "searchable": 1
     },
     {
-      "key": "csp_FanYY",
-      "name": "🧸┃玩偶┃影视",
+      "key": "csp_WoGG",
+      "name": "玩偶┃影视",
       "type": 3,
       "api": "csp_WoGG",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "http://127.0.0.1:9978/file/fatcat/token.txt$$$https://wogg.xyz/"
+      "ext": "./token.txt$$$https://wogg.xyz/"
     },
     {
       "key": "csp_AppMr",
-      "name": "👻┃明明┃影视",
+      "name": "明日┃影视",
       "type": 3,
       "api": "csp_AppMr",
       "searchable": 1,
@@ -157,7 +157,7 @@
     },
     {
       "key": "Kuaikan",
-      "name": "👀┃快看┃影视",
+      "name": "快看┃影视",
       "type": 3,
       "api": "csp_Kuaikan",
       "searchable": 1,
@@ -166,7 +166,7 @@
     },
     {
       "key": "飞速",
-      "name": "🚄┃飞速┃影视",
+      "name": "飞速┃影视",
       "type": 3,
       "api": "csp_AppYsV2",
       "searchable": 0,
@@ -176,7 +176,7 @@
     },
     {
       "key": "csp_Lib",
-      "name": "💫┃Lib  ┃影视",
+      "name": "Libvio┃影视",
       "type": 3,
       "api": "csp_Libvio",
       "searchable": 1,
@@ -187,7 +187,7 @@
     },
     {
       "key": "Lezhu",
-      "name": "🐷┃乐猪┃影视",
+      "name": "乐猪┃影视",
       "api": "csp_XBPQ",
       "type": 3,
       "filterable": 1,
@@ -197,7 +197,7 @@
     },
     {
       "key": "csp_XBPQ秋霞影视",
-      "name": "️🍂┃秋霞┃影视",
+      "name": "️秋霞┃影视",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
@@ -213,7 +213,7 @@
     },
     {
       "key": "csp_Lgyy",
-      "name": "🌀┃蓝光┃影视",
+      "name": "蓝光┃影视",
       "type": 3,
       "api": "csp_Lgyy",
       "searchable": 1,
@@ -223,7 +223,7 @@
     },
     {
       "key": "csp_fant",
-      "name": "🍙┃饭团┃影视",
+      "name": "饭团┃影视",
       "type": 3,
       "api": "csp_Fantuan",
       "filterable": 1,
@@ -233,7 +233,7 @@
     },
     {
       "key": "csp_555",
-      "name": "5️⃣️┃555┃影视",
+      "name": "三五┃影视",
       "type": 3,
       "api": "csp_Ys555",
       "searchable": 1,
@@ -243,7 +243,7 @@
     },
     {
       "key": "csp_Auete",
-      "name": "🏝┃Aue ┃影视",
+      "name": "奥特┃影视",
       "type": 3,
       "api": "csp_Auete",
       "searchable": 1,
@@ -251,15 +251,8 @@
       "filterable": 1
     },
     {
-      "key": "drpy_js_奇珍异兽",
-      "name": "🐨┃爱奇┃官源",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./lib/爱奇.js"
-    },
-    {
       "key": "Qtv",
-      "name": "🐧┃企鹅┃官源",
+      "name": "企鹅┃官源",
       "type": 3,
       "api": "csp_Qtv",
       "searchable": 1,
@@ -268,17 +261,17 @@
     },
     {
       "key": "csp_SP360",
-      "name": "📺┃360┃官源",
+      "name": "360┃官源",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./lib/360影视.json"
+      "ext": "./XBPQ/360影视.json"
     },
     {
       "key": "MGT",
-      "name": "🍋┃芒果┃官源",
+      "name": "芒果┃官源",
       "type": 3,
       "api": "csp_Mtv",
       "searchable": 1,
@@ -287,7 +280,7 @@
     },
     {
       "key": "csp_Ysgc",
-      "name": "🎥┃影视┃工厂",
+      "name": "影视┃工厂",
       "type": 3,
       "api": "csp_Ysgc",
       "searchable": 1,
@@ -298,7 +291,7 @@
     },
     {
       "key": "Dm84",
-      "name": " 🦸┃动漫┃巴士",
+      "name": " 动漫┃巴士",
       "type": 3,
       "api": "csp_Dm84",
       "searchable": 1,
@@ -307,7 +300,7 @@
     },
     {
       "key": "csp_Ying",
-      "name": "🌸┃樱花┃动漫",
+      "name": "樱花┃动漫",
       "type": 3,
       "api": "csp_Ying",
       "searchable": 1,
@@ -316,7 +309,7 @@
     },
     {
       "key": "csp_Ysj",
-      "name": "🐲┃异界┃动漫",
+      "name": "异界┃动漫",
       "type": 3,
       "api": "csp_Ysj",
       "searchable": 1,
@@ -325,7 +318,7 @@
     },
     {
       "key": "csp_Anime1",
-      "name": "💀┃日本┃动漫",
+      "name": "日本┃动漫",
       "type": 3,
       "api": "csp_Anime1",
       "searchable": 1,
@@ -334,7 +327,7 @@
     },
     {
       "key": "csp_XBiuCOKEMV",
-      "name": "🍬┃可乐┃影视",
+      "name": "可乐┃影视",
       "type": 3,
       "api": "csp_Cokemv",
       "searchable": 1,
@@ -344,23 +337,23 @@
     },
     {
       "key": "csp_search_七夜",
-      "name": "👴┃七夜┃搜索",
+      "name": "七夜┃搜索",
       "type": 3,
       "api": "csp_Dovx",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "http://127.0.0.1:9978/file/fatcat/token.txt"
+      "ext": "./token.txt"
     },
     {
       "key": "csp_search_PanSearch",
-      "name": "🗂️┃盘搜┃搜索",
+      "name": "盘搜┃搜索",
       "type": 3,
       "api": "csp_PanSearch",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "http://127.0.0.1:9978/file/fatcat/token.txt"
+      "ext": "./token.txt"
     },
     {
       "key": "csp_search_Yisou",
@@ -674,11 +667,6 @@
       "name": "小新解析",
       "type": 1,
       "url": "http://xiaoxin.1080p.me/home/api?type=ys&uid=2781037&key=eijkoqxBDFGILRTUWZ&url="
-    },
-    {
-      "name": "小鱼解析",
-      "type": 1,
-      "url": "http://json.84jia.com/home/api?type=ys&uid=335253&key=fjklpqsyCDGMNQRWX8&url="
     }
   ],
   "rules": [
