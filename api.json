@@ -58,6 +58,29 @@
       "type": 3,
       "api": "csp_Bilituys",
       "searchable": 1
+    },
+    {
+      "key": "PiaoHua",
+      "name": "飘花┃电影",
+      "type": 3,
+      "api": "csp_BTPiaoHua",
+      "searchable": 1
+    },
+    {
+      "key": "星星",
+      "name": "星星┃影视",
+      "type": 3,
+      "api": "csp_Star",
+      "searchable": 1,
+      "changeable": 1
+    },   
+    {
+      "key": "SixV",
+      "name": "六V┃电影",
+      "type": 3,
+      "api": "csp_SixV",
+      "searchable": 1,
+      "ext": "https://www.66s.cc/"
     },    
     {
       "key": "csp_Live2Vod",
@@ -627,7 +650,16 @@
         "台湾剧",        
         "伦理片"
       ]      
-    },    
+    },
+    {
+      "key": "玩偶",
+      "name": "玩偶┃阿里",
+      "type": 3,
+      "api": "csp_Wogg",
+      "searchable": 1,
+      "changeable": 0,
+      "ext": "./token.txt"      
+    },  
     {
       "key": "csp_Paper",
       "name": "阿里┃紙條",
@@ -635,8 +667,7 @@
       "api": "csp_Paper",
       "searchable": 1,
       "changeable": 0,
-      "ext": "./token.txt",
-      "jar": "./ali.jar"
+      "ext": "./token.txt"
     },    
     {
       "key": "七夜",
@@ -645,8 +676,7 @@
       "api": "csp_Dovx",
       "searchable": 1,
       "changeable": 0,
-      "ext": "./token.txt",
-      "jar": "./ali.jar"
+      "ext": "./token.txt"
     },    
     {
       "key": "Zhaozy",
@@ -655,8 +685,7 @@
       "api": "csp_Zhaozy",
       "searchable": 1,
       "changeable": 0,
-      "ext": "./token.txt$$$test2$$$test2",
-      "jar": "./ali.jar"
+      "ext": "./token.txt$$$test2$$$test2"
     },
     {
       "key": "YiSo",
@@ -665,8 +694,7 @@
       "api": "csp_YiSo",
       "searchable": 1,
       "changeable": 0,
-      "ext": "./token.txt",
-      "jar": "./ali.jar"
+      "ext": "./token.txt"
     },
     {
       "key": "PanSou",
@@ -675,8 +703,7 @@
       "api": "csp_PanSou",
       "searchable": 1,
       "changeable": 0,
-      "ext": "./token.txt",
-      "jar": "./ali.jar"
+      "ext": "./token.txt"
     },
     {
       "key": "UpYun",
@@ -685,8 +712,7 @@
       "api": "csp_UpYun",
       "searchable": 1,
       "changeable": 0,
-      "ext": "./token.txt",
-      "jar": "./ali.jar"
+      "ext": "./token.txt"
     },
     {
       "key":"网盘搜索",
@@ -695,8 +721,7 @@
       "api": "csp_PanSearch",
       "searchable": 1,
       "changeable": 0,
-      "ext": "./token.txt",
-      "jar": "./ali.jar"
+      "ext": "./token.txt"
     },
     {
       "key":"土狗",
@@ -705,8 +730,7 @@
       "api":"csp_TuGou",
       "searchable":1,
       "changeable":0,
-      "ext": "./token.txt",
-      "jar": "./ali.jar"
+      "ext": "./token.txt"
     },
     {
       "key":"土拨鼠",
