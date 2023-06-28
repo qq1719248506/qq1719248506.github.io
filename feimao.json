@@ -644,7 +644,7 @@
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "./Bili/bili.json"
+      "ext": "./Bili/bilibili.json"
     },
     {
       "key": "演唱会",
@@ -654,7 +654,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "./Bili/ych.json"
+      "ext": "./Bili/biliych.json"
     },
     {
       "key": "drpy_js_有声小说吧",
