@@ -539,11 +539,11 @@
       "ext": "./XBPQ/爱看.json"
     },    
     {
-      "key": "鸡婆",
-      "name": "鸡婆┃BPQ",
+      "key": "胖虎",
+      "name": "胖虎┃BPQ",
       "type": 3,
       "api": "csp_XBPQ",
-      "ext": "./XBPQ/鸡婆.json"
+      "ext": "./XBPQ/胖虎.json"
     },    
     {
       "key": "串串",
