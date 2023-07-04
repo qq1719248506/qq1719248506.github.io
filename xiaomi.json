@@ -68,7 +68,7 @@
       "type": 3,
       "api": "csp_XBPQ",
       "playerType": "1",
-      "ext": "./XBPQ/360.json"
+      "ext": "./XBPQ/360影视.json"
     },
     {
       "key": "哔哩哔哩",
@@ -133,6 +133,14 @@
       "searchable": 1,
       "ext": "./XBPQ/量子.json"
     },
+    {
+      "key": "不卡",
+      "name": "不卡┃影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "ext": "./XBPQ/不卡.json"
+    },    
     {
       "key": "策驰",
       "name": "策驰┃影视",
