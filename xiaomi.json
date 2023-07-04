@@ -92,6 +92,14 @@
       "api": "csp_XBPQ",
       "searchable": 1,
       "ext": "./XBPQ/乐鱼.json"
+    },
+    {
+      "key": "双十",
+      "name": "双十┃影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "ext": "./XBPQ/双十.json"
     },    
     {
       "key": "冷曦",
