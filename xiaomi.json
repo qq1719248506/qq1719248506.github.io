@@ -1,5 +1,5 @@
 {
-  "spider": "./XBPQ.jar;md5;5c497cae38522e64961e061cace5be95",
+  "spider": "./spider.txt;md5;0ce3cd1dfdeb9cf71497fae7a1860241",
   "wallpaper": "http://xhww.fun:63/img.php",
   "sites": [
     {
@@ -27,7 +27,6 @@
       "name": "酷云┃七七",
       "type": 3,
       "api": "csp_Kunyu77",
-      "playerType": 1,
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -39,26 +38,46 @@
       "api": "csp_Kuaikan",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 1
-    },   
+      "filterable": 1
+    },       
     {
-      "key": "两个BT",
-      "name": "两个BT┃影视",
-      "api": "csp_Bttwoo",
-      "type": 3,
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 1
-    },    
-    {
-      "key": "直播转点播",
-      "name": "电视┃直播",
-      "type": 3,
-      "api": "./lib/直播转点播2.js",
-      "ext": "./js/直播仓.json"
+      "key":"Czsapp",
+      "name":"厂长┃影视",
+      "type":3,
+      "api":"csp_Czsapp",
+      "playerType":2,
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":1,
+      "ext":"https://czzy.fun"
     },
+    {
+      "key":"csp_Bdys",
+      "name":"哔嘀┃影视",
+      "type":3,
+      "api":"csp_Bdys",
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":1
+    },
+    {
+      "key":"csp_Ddys",
+      "name":"低端┃影视",
+      "type":3,
+      "api":"csp_Ddys",
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":1
+    },
+    {
+      "key": "哔哩",
+      "name": "哔哩┃哔哩",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 1,
+      "changeable": 0,
+      "ext": "./Bili/bilibili.json"
+    },    
     {
       "key":"csp_AList",
       "name":"Alist┃网盘",
@@ -70,32 +89,13 @@
       "ext":"./AList/alist.json"
     },    
     {
-      "key": "广播迷",
-      "name": "广播┃BPQ",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "ext": {
-        "分类": "央视$zy#北京$bj#上海$sh#天津$tj#重庆$cq#广东$gd#四川$sc#山东$sd#江苏$js#浙江$zj#河南$henan#河北$hebei#辽宁$ln#安徽$ah#湖南$hn#湖北$hubei#福建$fj#广西$gx#山西$sxi#云南$yn#贵州$gz#西藏$xz#宁夏$nx#海南$hainan#新疆$xj#甘肃$gs#青海$qh#黑龙江$hlj#内蒙古$nmg#港澳$hk",
-        "编码": "GBK",
-        "播放数组": "ax-grid ax-split-2 ax-space-md&&</ul>",
-        "线路数组": "ax-btn*ax-padding ax-xl\">&&/a>[不包含:介绍]",
-        "分类url": "http://www.guangbomi.com/tv/{cateId}/{catePg}.html[http://www.guangbomi.com/tv/{cateId}/index.html"
-      }
-    },
-    {
       "key": "360",
       "name": "360┃影视",
       "type": 3,
-      "api": "csp_XBPQ",
-      "playerType": "1",
-      "ext": "./XBPQ/360影视.json"
-    },
-    {
-      "key": "哔哩哔哩",
-      "name": "哔站┃综合",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "ext": "./XBPQ/哔哩.json"
+      "api": "csp_SP360",
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":1
     },
     {
       "key": "搜狗",
@@ -263,22 +263,11 @@
     },
     {
       "key": "双十",
-      "name": "双十┃App",
+      "name": "双十┃BPQ",
       "type": 3,
-      "api": "csp_Dy1010",
+      "api": "csp_XBPQ",
       "playerType": "1",
-      "ext": "https://www.1010dy3.com/"
-    },
-    {
-      "key": "csp_Czsapp",
-      "name": "厂长┃App",
-      "type": 3,
-      "api": "csp_Czsapp",
-      "playerType": 2,
-      "searchable": 1,
-      "quickSearch": 1,
-      "ext": "https://czzy.art/",
-      "filterable": 1
+      "ext": "./XBPQ/双十.json"
     },
     {
       "key": "龟龟",
@@ -306,26 +295,15 @@
       }
     },
     {
-      "key": "YQK_spider",
-      "name": "一起┃APP",
-      "api": "csp_YQKAPP",
-      "type": 3,
-      "filterable": 1,
-      "playerType": 2,
-      "quickSearch": 1,
-      "searchable": 1,
-      "ext": "https://hk-api-cf.yqk5659.com"
-    },
-    {
       "key": "csp_WoGG",
       "name": "玩偶┃阿里",
       "type": 3,
-      "api": "csp_WoGG",
+      "api": "csp_Wogg",
       "changeable": 0,
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./token.txt+4k|fhd|auto$$$http://tvfan.xxooo.cf/"
+      "ext": "./token.txt"
     },
     {
       "key": "奇优",
@@ -545,13 +523,6 @@
       "ext": "./XBPQ/利播.json"
     },
     {
-      "key": "快看",
-      "name": "快看┃BPQ",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "ext": "./XBPQ/快看.json"
-    },
-    {
       "key": "爱看",
       "name": "爱看┃BPQ",
       "type": 3,
@@ -745,7 +716,17 @@
         "分类url": "https://app.syrme.top/video/type/tag?type={cateId}&tag=&page={catePg}&size=18;;u0"
       }
     },
-     {
+    {
+      "key": "宝仙",
+      "name":"宝仙┃HD",
+      "type":3,
+      "api":"csp_XYQHiker",
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":1,
+      "ext":"./XYQHiker/宝仙HD.json"
+    },
+    {
       "key": "宝仙",
       "name": "宝仙┃XBiu",
       "type": 3,
@@ -784,7 +765,7 @@
       "quickSearch": 1,
       "filterable": 0,
       "changeable": 0,
-      "ext": "./token.txt+4k|fhd|auto"
+      "ext": "./token.txt"
     },
     {
       "key": "Zhaozy",
@@ -795,7 +776,7 @@
       "quickSearch": 1,
       "filterable": 0,
       "changeable": 0,
-      "ext": "./token.txt+4k|fhd|auto$$$fanfan$$$qqq111"
+      "ext": "./token.txt$$$fanfan$$$qqq111"
     },
     {
       "key": "PanSou",
@@ -806,7 +787,7 @@
       "quickSearch": 1,
       "filterable": 0,
       "changeable": 0,
-      "ext": "./token.txt+4k|fhd|auto"
+      "ext": "./token.txt"
     },
     {
       "key": "UpYun",
@@ -817,7 +798,7 @@
       "quickSearch": 1,
       "filterable": 0,
       "changeable": 0,
-      "ext": "./token.txt+4k|fhd|auto"
+      "ext": "./token.txt"
     },
     {
       "key": "PanSearch",
@@ -828,7 +809,7 @@
       "quickSearch": 1,
       "filterable": 0,
       "changeable": 0,
-      "ext": "./token.txt+4k|fhd|auto"
+      "ext": "./token.txt"
     },
     {
       "key": "七夜",
@@ -839,7 +820,51 @@
       "quickSearch": 1,
       "filterable": 0,
       "changeable": 0,
-      "ext": "./token.txt+4k|fhd|auto"
+      "ext": "./token.txt"
+    },
+    {
+      "key": "阿里云盘网",
+      "name":"阿里┃云盘",
+      "type":3,
+      "api":"csp_XYQHikerAL",
+      "playerType":1,
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":1,
+      "ext":"./XYQHiker/阿里云盘网.json"
+    },
+    {
+      "key": "我的小站",
+      "name":"阿里┃小站",
+      "type":3,
+      "api":"csp_XYQHikerAL",
+      "playerType":1,
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":1,
+      "ext":"./XYQHiker/我的小站.json"
+    },
+    {
+      "key": "云盘分享",
+      "name":"云盘┃分享",
+      "type":3,
+      "api":"csp_XYQBiu",
+      "playerType":1,
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":1,
+      "ext":"./XYQBiu/云盘分享.json"
+    },
+    {
+      "key": "土拨鼠搜索",
+      "name":"土拨鼠┃搜索",
+      "type":3,
+      "api":"csp_XYQHiker",
+      "playerType":1,
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":1,
+      "ext":"./XYQHiker/土拨鼠搜索.json"
     },
     {
       "key": "酷影",
@@ -1046,14 +1071,19 @@
   ],
   "parses": [
     {
-      "name": "聚合1",
+      "name": "聚合",
       "type": 3,
       "url": "Demo"
     },
     {
-      "name": "聚合0",
-      "type": 3,
-      "url": "Web"
+      "name": "并发",
+      "type": 2,
+      "url": "Parallel"
+    },
+    {
+      "name": "轮询",
+      "type": 2,
+      "url": "Sequence"
     },
     {
       "name": "夜曲",
@@ -1166,6 +1196,40 @@
       }
     },
     {
+      "name": "秒播",
+      "type": 1,
+      "url": "https://vip.xuux.icu/home/api?type=ys&uid=1325731&key=adfgilmnpwzBDEJPY3&url=",
+      "ext": {
+        "flag": [
+          "qq",
+          "腾讯",
+          "qiyi",
+          "爱奇艺",
+          "奇艺",
+          "youku",
+          "优酷",
+          "mgtv",
+          "芒果",
+          "letv",
+          "乐视",
+          "pptv",
+          "PPTV",
+          "sohu",
+          "bilibili",
+          "哔哩哔哩",
+          "哔哩"
+        ],
+        "header": {
+          "User-Agent": "okhttp/4.1.0"
+        }
+      }
+    },
+    {
+      "name": "凉笙",
+      "type": 1,
+      "url": "http://json.xg688.top/api/?key=Y1etBkWn5hetOHJwF1&url="
+    },    
+    {
       "name": "左岸",
       "type": 1,
       "url": "https://vip.daina.hk/fyzy/json.php?&url=",
@@ -1191,34 +1255,7 @@
           "xigua"
         ]
       }
-    },
-    {
-      "name": "爱酷",
-      "type": 1,
-      "url": "https://api.json.icu//api//?key=aad5c2c72819716157511ef080f8d05f&url=",
-      "ext": {
-        "flag": [
-          "qq",
-          "腾讯",
-          "qiyi",
-          "爱奇艺",
-          "奇艺",
-          "youku",
-          "优酷",
-          "sohu",
-          "搜狐",
-          "letv",
-          "乐视",
-          "yk",
-          "CL4K",
-          "renrenmi",
-          "ltnb",
-          "bilibili",
-          "1905",
-          "xigua"
-        ]
-      }
-    }    
+    }   
   ],
   "doh": [
     {
