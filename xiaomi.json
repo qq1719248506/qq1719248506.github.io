@@ -1,5 +1,5 @@
 {
-  "spider": "./spider.txt;md5;0ce3cd1dfdeb9cf71497fae7a1860241",
+  "spider": "./jar/spider.txt;md5;16276697c24349cf687fa984902262b4",
   "wallpaper": "http://xhww.fun:63/img.php",
   "sites": [
     {
@@ -184,14 +184,6 @@
       "api": "csp_XBPQ",
       "searchable": 1,
       "ext": "./XBPQ/土豪.json"
-    },
-    {
-      "key": "野荷塘",
-      "name": "荷塘┃影院",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "ext": "./XBPQ/野荷塘.json"
     },
     {
       "key": "奈飞",
@@ -733,37 +725,7 @@
       "quickSearch":1,
       "filterable":1,
       "ext":"./XYQHiker/宝仙HD.json"
-    },
-    {
-      "key": "宝仙",
-      "name": "宝仙┃XBiu",
-      "type": 3,
-      "api": "csp_XBiu",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://webdillo.com/index.php/vod/show/id/{cateId}/page/{catePg}.html"
-    },
-    {
-      "key": "胖虎",
-      "name": "胖虎┃XBiu",
-      "type": 3,
-      "api": "csp_XBiu",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://www.panghuys.com/vodshow/{cateId}{area}{by}{class}{lang}{letter}{year}/page/{catePg}.html"
-    },   
-    {
-      "key": "茶杯狐",
-      "name": "茶杯狐┃XBiu",
-      "type": 3,
-      "api": "csp_XBiu",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://www.cupfox.cc/index.php/vodshow/{cateId}-{page}-{arer}-{by}-{class}-{catePg}---{yera}.py.html"
-    },    
+    },       
     {
       "key": "YiSo",
       "name": "易搜┃阿里",
