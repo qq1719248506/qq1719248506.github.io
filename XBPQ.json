@@ -512,14 +512,6 @@
       "api": "csp_XBPQ",
       "searchable": 1,
       "ext": "./XBPQ/奈飞N中文.json"
-    },
-    {
-      "key": "野荷塘",
-      "name": "荷塘┃影院",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "ext": "./XBPQ/野荷塘.json"
     },    
     {
       "key": "蚂蚁",
@@ -1193,19 +1185,6 @@
       "name": "凉笙",
       "type": 1,
       "url": "http://json.xg688.top/api/?key=Y1etBkWn5hetOHJwF1&url="
-    },
-    {
-      "name": "FY线路",
-      "type": 1,
-      "url": "http://htp.behds.cn/json/20233234567/fy4k2.php?url=",
-      "header": {
-        "User-Agent": "okhttp/3.12.11"
-      },
-      "flag": [
-        "imgo",
-        "mgtv",
-        "芒果"
-      ]
     },
     {
       "name": "芒果",
