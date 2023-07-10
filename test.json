@@ -24,7 +24,7 @@
     },
     {
       "key": "csp_Bili",
-      "name": "🅱哔哔┃合集",
+      "name": "哔哩┃哔哩",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 1,
@@ -33,18 +33,8 @@
       "ext": "./Bili/bilibili.json"
     },
     {
-      "key": "csp_Biliych",
-      "name": "🅱哔哔┃演唱会",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 1,
-      "quickSearch": 0,
-      "changeable": 0,
-      "ext": "./Bili/biliych.json"
-    },
-    {
       "key": "MV_vod",
-      "name": "🎸明星┃MV",
+      "name": "明星┃MV",
       "type": 1,
       "api": "https://mv.饭太硬.ml/mv/vod",
       "searchable": 1,
@@ -53,7 +43,7 @@
     },
     {
       "key": "csp_YGP",
-      "name": "🚀新片┃速递",
+      "name": "新片┃速递",
       "type": 3,
       "api": "csp_YGP",
       "searchable": 0,
@@ -62,7 +52,7 @@
     },
     {
       "key": "csp_WoGG",
-      "name": "👽玩偶哥哥┃4K",
+      "name": "玩偶┃哥哥",
       "type": 3,
       "api": "csp_WoGG",
       "searchable": 1,
@@ -72,7 +62,7 @@
     },
     {
       "key": "csp_DuoX",
-      "name": "💢多线┃App",
+      "name": "多线┃App",
       "type": 3,
       "api": "csp_DuoX",
       "searchable": 1,
@@ -81,7 +71,7 @@
     },
     {
       "key": "csp_fantuan",
-      "name": "🍙团团┃直连",
+      "name": "团团┃直连",
       "type": 3,
       "api": "csp_Fantuan",
       "searchable": 1,
@@ -91,7 +81,7 @@
     },
     {
       "key": "迪迪",
-      "name": "😎迪迪┃App",
+      "name": "迪迪┃App",
       "api": "csp_AppYsV2",
       "type": 3,
       "searchable": 1,
@@ -101,7 +91,7 @@
     },
     {
       "key": "酷酷",
-      "name": "💡酷酷┃App",
+      "name": "酷酷┃App",
       "type": 3,
       "api": "csp_AppYsV2",
       "searchable": 1,
@@ -115,7 +105,7 @@
     },
     {
       "key": "探探",
-      "name": "🏵探探┃App",
+      "name": "探探┃App",
       "type": 3,
       "api": "csp_YT",
       "searchable": 1,
@@ -124,7 +114,7 @@
     },
     {
       "key": "陌陌",
-      "name": "🍄陌陌┃直连",
+      "name": "陌陌┃直连",
       "type": 3,
       "api": "csp_MmYs",
       "searchable": 1,
@@ -133,7 +123,7 @@
     },
     {
       "key": "csp_YQKAPP",
-      "name": "🎉一起┃App",
+      "name": "一起┃App",
       "type": 3,
       "api": "csp_YQKAPP",
       "playerType": 2,
@@ -144,7 +134,7 @@
     },
     {
       "key": "csp_kuaikan",
-      "name": "👀快看┃App",
+      "name": "快看┃App",
       "type": 3,
       "api": "csp_Kuaikan",
       "searchable": 1,
@@ -153,7 +143,7 @@
     },
     {
       "key": "csp_77",
-      "name": "👒七七┃App",
+      "name": "七七┃App",
       "type": 3,
       "api": "csp_Kunyu77",
       "searchable": 1,
@@ -162,7 +152,7 @@
     },
     {
       "key": "csp_AppMr",
-      "name": "👻明明┃App",
+      "name": "明日┃App",
       "type": 3,
       "api": "csp_AppMr",
       "searchable": 1,
@@ -171,7 +161,7 @@
     },
     {
       "key": "csp_Xinsj",
-      "name": "🐼视觉┃直连",
+      "name": "视觉┃直连",
       "type": 3,
       "api": "csp_Xinsj",
       "searchable": 1,
@@ -181,7 +171,7 @@
     },
     {
       "key": "csp_Czsapp",
-      "name": "📔厂长┃直连",
+      "name": "厂长┃直连",
       "type": 3,
       "api": "csp_Czsapp",
       "playerType": 2,
@@ -191,7 +181,7 @@
     },
     {
       "key": "csp_DiDuan",
-      "name": "⏮️低端┃直连",
+      "name": "低端┃直连",
       "type": 3,
       "api": "csp_Ddrk",
       "searchable": 1,
@@ -200,7 +190,7 @@
     },
     {
       "key": "csp_Cokemv",
-      "name": "📕可乐┃直连",
+      "name": "可乐┃直连",
       "type": 3,
       "api": "csp_Cokemv",
       "playerType": 2,
@@ -210,7 +200,7 @@
     },
     {
       "key": "csp_Lib",
-      "name": "🌟利奥┃直连",
+      "name": "利奥┃直连",
       "type": 3,
       "api": "csp_Libvio",
       "searchable": 1,
@@ -220,7 +210,7 @@
     },
     {
       "key": "csp_Bttoo",
-      "name": "✌比特┃直连",
+      "name": "比特┃直连",
       "type": 3,
       "api": "csp_Bttwoo",
       "searchable": 1,
@@ -229,7 +219,7 @@
     },
     {
       "key": "csp_Vofl",
-      "name": "🎈Vofl┃直连",
+      "name": "Vofl┃直连",
       "type": 3,
       "api": "csp_Voflix",
       "searchable": 1,
@@ -238,7 +228,7 @@
     },
     {
       "key": "csp_Auete",
-      "name": "🏝奥特┃直连",
+      "name": "奥特┃直连",
       "type": 3,
       "api": "csp_Auete",
       "searchable": 1,
@@ -247,7 +237,7 @@
     },
     {
       "key": "csp_Dy1010",
-      "name": "❤️双十┃直连",
+      "name": "双十┃直连",
       "type": 3,
       "api": "csp_Dy1010",
       "searchable": 1,
@@ -256,7 +246,7 @@
     },
     {
       "key": "csp_zxzj",
-      "name": "📗在线┃直连",
+      "name": "在线┃直连",
       "type": 3,
       "api": "csp_Zxzj",
       "searchable": 1,
@@ -266,7 +256,7 @@
     },
     {
       "key": "csp_Lgyy",
-      "name": "🌀蓝光┃直连",
+      "name": "蓝光┃直连",
       "type": 3,
       "api": "csp_Lgyy",
       "searchable": 1,
@@ -276,7 +266,7 @@
     },
     {
       "key": "csp_Ysgc",
-      "name": "🏭工场┃直连",
+      "name": "工场┃直连",
       "type": 3,
       "api": "csp_Ysgc",
       "searchable": 1,
@@ -286,7 +276,7 @@
     },
     {
       "key": "csp_555",
-      "name": "5️⃣️五五┃直连",
+      "name": "三五┃直连",
       "type": 3,
       "api": "csp_Ys555",
       "searchable": 1,
@@ -296,7 +286,7 @@
     },
     {
       "key": "csp_apple",
-      "name": "🍎苹果┃App",
+      "name": "苹果┃App",
       "type": 3,
       "api": "csp_LiteApple",
       "playerType": 1,
@@ -306,7 +296,7 @@
     },
     {
       "key": "csp_SP33",
-      "name": "📺三三┃解析",
+      "name": "360┃解析",
       "type": 3,
       "api": "csp_SP33",
       "searchable": 1,
@@ -316,7 +306,7 @@
     },
     {
       "key": "Qtv",
-      "name": "🐧腾腾┃解析",
+      "name": "企鹅┃解析",
       "type": 3,
       "api": "csp_Qtv",
       "searchable": 1,
@@ -326,7 +316,7 @@
     },
     {
       "key": "Itv",
-      "name": "🥝爱爱┃解析",
+      "name": "爱奇异┃解析",
       "type": 3,
       "api": "csp_Itv",
       "quickSearch": 1,
@@ -336,7 +326,7 @@
     },
     {
       "key": "Mtv",
-      "name": "🍋芒芒┃解析",
+      "name": "芒果┃解析",
       "type": 3,
       "api": "csp_Mtv",
       "searchable": 1,
@@ -346,7 +336,7 @@
     },
     {
       "key": "csp_Dm84",
-      "name": "🚌动漫┃巴士",
+      "name": "动漫┃巴士",
       "type": 3,
       "api": "csp_Dm84",
       "searchable": 1,
@@ -355,7 +345,7 @@
     },
     {
       "key": "csp_Ying",
-      "name": "💮樱花┃动漫",
+      "name": "樱花┃动漫",
       "type": 3,
       "api": "csp_Ying",
       "searchable": 1,
@@ -364,7 +354,7 @@
     },
     {
       "key": "csp_Ysj",
-      "name": "🎀异界┃动漫",
+      "name": "异界┃动漫",
       "type": 3,
       "api": "csp_Ysj",
       "searchable": 1,
@@ -373,7 +363,7 @@
     },
     {
       "key": "csp_Anime1",
-      "name": "🐾日本┃动漫",
+      "name": "日本┃动漫",
       "type": 3,
       "api": "csp_Anime1",
       "searchable": 1,
@@ -382,7 +372,7 @@
     },
     {
       "key": "csp_Yj1211",
-      "name": "📽️网红┃直播",
+      "name": "网红┃直播",
       "type": 3,
       "api": "csp_Yj1211",
       "searchable": 1,
@@ -405,6 +395,32 @@
       "searchable": 1,
       "ext": "./XBPQ/搜狗.json"
     },
+    {
+      "key": "奇优",
+      "name": "奇优┃BPQ",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "playerType": "1",
+      "ext": "./XBPQ/奇优.json"
+    },
+    {
+      "key":"宝仙",
+      "name":"宝仙┃影视",
+      "type":3,
+      "api":"csp_XBPQ",
+      "searchable":1,
+      "ext":"./XBPQ/宝仙.json"
+    },    
+    {
+      "key": "yunyun",
+      "name": "️芸芸┃BPQ",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "./XBPQ/爱肥猫.json"
+    },    
     {
       "key": "夜幕",
       "name": "️夜夜┃BPQ",
@@ -495,7 +511,7 @@
     },
     {
       "key": "YiSo",
-      "name": "😹易搜┃搜索",
+      "name": "易搜┃阿里",
       "type": 3,
       "api": "csp_YiSo",
       "searchable": 1,
@@ -505,7 +521,7 @@
     },
     {
       "key": "Zhaozy",
-      "name": "🐺找资源┃搜索",
+      "name": "找片┃搜索",
       "type": 3,
       "api": "csp_Zhaozy",
       "searchable": 1,
@@ -515,7 +531,7 @@
     },
     {
       "key": "PanSou",
-      "name": "🦊盘搜┃搜索",
+      "name": "盘搜┃阿里",
       "type": 3,
       "api": "csp_PanSou",
       "searchable": 1,
@@ -525,7 +541,7 @@
     },
     {
       "key": "UpYun",
-      "name": "😻Up搜┃搜索",
+      "name": "雲搜┃阿里",
       "type": 3,
       "api": "csp_UpYun",
       "searchable": 1,
@@ -535,7 +551,7 @@
     },
     {
       "key": "PanSearch",
-      "name": "🙀盘Se┃搜索",
+      "name": "网盘┃搜索",
       "type": 3,
       "api": "csp_PanSearch",
       "searchable": 1,
@@ -545,7 +561,7 @@
     },
     {
       "key": "七夜",
-      "name": "😾七夜┃搜索",
+      "name": "七夜┃搜索",
       "type": 3,
       "api": "csp_Dovx",
       "searchable": 1,
@@ -598,8 +614,135 @@
       "ext":"./XYQHiker/土拨鼠搜索.json"
     },
     {
+      "key": "卧龙",
+      "name": "卧龙┃切片",
+      "type": 1,
+      "api": "https://collect.wolongzyw.com/api.php/provide/vod",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "categories": [
+        "动作片",
+        "喜剧片",
+        "爱情片",
+        "剧情片",
+        "科幻片",
+        "恐怖片",
+        "战争片",
+        "纪录片",        
+        "国产剧",
+        "香港剧",
+        "台湾剧",        
+        "伦理片"
+      ]      
+    },
+    {
+      "key": "量子",
+      "name": "量子┃切片",
+      "type": 0,
+      "api": "https://cj.lziapi.com/api.php/provide/vod/at/xml/",
+      "searchable": 1,
+      "changeable": 1,
+      "categories": [
+        "国产动漫",
+        "日韩动漫",
+        "国产剧",
+        "韩国剧",
+        "日本剧",
+        "电影片",
+        "连续剧",
+        "综艺片",
+        "动漫片",
+        "动作片",
+        "喜剧片",
+        "爱情片",
+        "科幻片",
+        "恐怖片",
+        "剧情片",
+        "战争片",
+        "台湾剧",
+        "香港剧",
+        "欧美剧",
+        "记录片",
+        "海外剧",
+        "泰国剧",
+        "大陆综艺",
+        "港台综艺",
+        "日韩综艺",
+        "欧美综艺",
+        "欧美动漫",
+        "港台动漫",
+        "海外动漫",
+        "体育",
+        "足球",
+        "篮球",
+        "网球",
+        "斯诺克"
+      ]
+    },    
+    {
+      "key": "非凡",
+      "name": "非凡┃切片",
+      "type": 1,
+      "api": "http://cj.ffzyapi.com/api.php/provide/vod/from/ffm3u8/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "categories": [
+        "国产剧",
+        "韩国剧",
+        "香港剧",
+        "台湾剧",
+        "欧美剧",
+        "动作片",
+        "科幻片",
+        "战争片",
+        "奇幻片",
+        "喜剧片",
+        "爱情片",
+        "恐怖片",
+        "犯罪片",
+        "悬疑片",
+        "惊悚片",
+        "剧情片",
+        "冒险片",
+        "记录片",
+        "综艺",
+        "动漫"
+      ]
+    },
+    {
+      "key": "快看资源",
+      "name": "快看┃切片",
+      "type": 1,
+      "api": "https://kuaikan-api.com/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "quickSearch": 1,
+      "categories": [
+        "国产剧",
+        "韩国剧",
+        "香港剧",
+        "台湾剧",
+        "欧美剧",
+        "动作片",
+        "科幻片",
+        "战争片",
+        "奇幻片",
+        "喜剧片",
+        "爱情片",
+        "恐怖片",
+        "犯罪片",
+        "悬疑片",
+        "惊悚片",
+        "剧情片",
+        "冒险片",
+        "记录片",
+        "综艺",
+        "动漫"
+      ]
+    },    
+    {
       "key": "push_agent",
-      "name": "🛴手机┃推送",
+      "name": "链接┃推送",
       "type": 3,
       "api": "csp_PushAgent",
       "searchable": 1,
