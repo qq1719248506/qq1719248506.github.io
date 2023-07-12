@@ -570,6 +570,28 @@
       "ext": "./token.txt+4k|fhd|auto"
     },
     {
+      "key": "爱看影视",
+      "name":"爱看┃影视",
+      "type":3,
+      "api":"csp_XYQHiker",
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":1,
+      "ext":"./XYQHiker/爱看影视.json",
+      "jar":"./jar/xyq.jar"
+    },
+    {
+      "key": "一龙高清影视",
+      "name":"一龙┃影视",
+      "type":3,
+      "api":"csp_XYQHiker",
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":1,
+      "ext":"./XYQHiker/一龙高清影视.json",
+      "jar":"./jar/xyq.jar"
+    },
+    {
       "key": "阿里云盘网",
       "name":"阿里┃云盘",
       "type":3,
@@ -578,7 +600,8 @@
       "searchable":1,
       "quickSearch":1,
       "filterable":1,
-      "ext":"./XYQHiker/阿里云盘网.json"
+      "ext":"./XYQHiker/阿里云盘网.json",
+      "jar":"./jar/xyq.jar"
     },
     {
       "key": "我的小站",
@@ -589,7 +612,8 @@
       "searchable":1,
       "quickSearch":1,
       "filterable":1,
-      "ext":"./XYQHiker/我的小站.json"
+      "ext":"./XYQHiker/我的小站.json",
+      "jar":"./jar/xyq.jar"
     },
     {
       "key": "云盘分享",
@@ -600,7 +624,8 @@
       "searchable":1,
       "quickSearch":1,
       "filterable":1,
-      "ext":"./XYQBiu/云盘分享.json"
+      "ext":"./XYQBiu/云盘分享.json",
+      "jar":"./jar/xyq.jar"
     },
     {
       "key": "土拨鼠搜索",
@@ -611,7 +636,8 @@
       "searchable":1,
       "quickSearch":1,
       "filterable":1,
-      "ext":"./XYQHiker/土拨鼠搜索.json"
+      "ext":"./XYQHiker/土拨鼠搜索.json",
+      "jar":"./jar/xyq.jar"
     },
     {
       "key": "卧龙",
@@ -744,7 +770,7 @@
       "key": "push_agent",
       "name": "链接┃推送",
       "type": 3,
-      "api": "csp_PushAgent",
+      "api": "csp_Push",
       "searchable": 1,
       "quickSearch": 1,
       "ext": "./token.txt"
@@ -766,6 +792,35 @@
       "type": 2,
       "url": "Sequence"
     },
+    {
+      "name": "秒播",
+      "type": 1,
+      "url": "https://vip.xuux.icu/home/api?type=ys&uid=1325731&key=adfgilmnpwzBDEJPY3&url=",
+      "ext": {
+        "flag": [
+          "qq",
+          "腾讯",
+          "qiyi",
+          "爱奇艺",
+          "奇艺",
+          "youku",
+          "优酷",
+          "mgtv",
+          "芒果",
+          "letv",
+          "乐视",
+          "pptv",
+          "PPTV",
+          "sohu",
+          "bilibili",
+          "哔哩哔哩",
+          "哔哩"
+        ],
+        "header": {
+          "User-Agent": "okhttp/4.1.0"
+        }
+      }
+    },    
     {
       "name": "刚佬",
       "type": 1,
@@ -796,6 +851,32 @@
         }
       }
     },
+    {
+      "name": "小新",
+      "type": 1,
+      "url": "http://xiaoxin.1080p.me/home/api?type=ys&uid=3649782&key=akmyzCHIMOUVY13569&url=",
+      "ext": {
+        "flag": [
+          "qq",
+          "腾讯",
+          "qiyi",
+          "爱奇艺",
+          "奇艺",
+          "youku",
+          "优酷",
+          "mgtv",
+          "芒果",
+          "letv",
+          "乐视",
+          "pptv",
+          "PPTV",
+          "sohu",
+          "bilibili",
+          "哔哩哔哩",
+          "哔哩"
+        ]
+      }
+    },    
     {
       "name": "夜曲",
       "type": 1,
@@ -907,9 +988,18 @@
       }
     },
     {
-      "name": "秒播",
+      "name": "红红",
       "type": 1,
-      "url": "https://vip.xuux.icu/home/api?type=ys&uid=1325731&key=adfgilmnpwzBDEJPY3&url=",
+      "url": "https://qq.396pay.cn/home/api?type=ys&uid=3927563&key=ainsuwyBDEFGNQS037&url=",
+      "flag": [
+        "JHA",
+        "JHB"
+      ]
+    },    
+    {
+      "name": "未知",
+      "type": 1,
+      "url": "https://vip.mosangkeji.com/api/?key=rRNvXAnOghBBLnC35c&url=",
       "ext": {
         "flag": [
           "qq",
@@ -929,10 +1019,7 @@
           "bilibili",
           "哔哩哔哩",
           "哔哩"
-        ],
-        "header": {
-          "User-Agent": "okhttp/4.1.0"
-        }
+        ]
       }
     },
     {
