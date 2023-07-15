@@ -371,26 +371,6 @@
       "ext": "./XYQHiker/DOVX搜索.json"
     },
     {
-      "key": "爱看影视",
-      "name":"爱看┃影视",
-      "type":3,
-      "api":"csp_XYQHiker",
-      "searchable":1,
-      "quickSearch":1,
-      "filterable":1,
-      "ext":"./XYQHiker/爱看影视.json"
-    },
-    {
-      "key": "一龙高清影视",
-      "name":"一龙┃影视",
-      "type":3,
-      "api":"csp_XYQHiker",
-      "searchable":1,
-      "quickSearch":1,
-      "filterable":1,
-      "ext":"./XYQHiker/一龙高清影视.json"
-    },
-    {
       "key": "骚火",
       "name":"骚火┃影院",
       "type":3,
