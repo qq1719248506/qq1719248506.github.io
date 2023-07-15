@@ -179,7 +179,18 @@
         "4K电影",
         "4K电视剧"
       ]
-    },    
+    },
+    {
+      "key":"暴风资源",
+      "name": "暴风┃App",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "playerType": "2",
+      "ext": "http://111.230.24.38:4433/baofeng/api.php/app/"
+    },
     {
       "key": "新片场",
       "name": "新片┃预告",
@@ -271,6 +282,14 @@
       "searchable": 1,
       "ext": "./XBPQ/量子.json"
     },
+    {
+      "key": "非凡",
+      "name": "非凡┃影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "ext": "./XBPQ/非凡.json"
+    },    
     {
       "key": "不卡",
       "name": "不卡┃影视",
@@ -446,6 +465,17 @@
       "ext":"./XYQBiu/云盘分享.json"
     },
     {
+      "key": "橘子盘搜",
+      "name":"橘子┃盘搜",
+      "type":3,
+      "api":"csp_XYQHiker",
+      "playerType":1,
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":1,
+      "ext":"./XYQHiker/橘子盘搜.json"
+    },
+    {
       "key": "土拨鼠搜索",
       "name":"土拨鼠┃搜索",
       "type":3,
@@ -455,7 +485,18 @@
       "quickSearch":1,
       "filterable":1,
       "ext":"./XYQHiker/土拨鼠搜索.json"
-    },
+    },    
+    {
+      "key": "电影牛",
+      "name":"牛牛┃影院",
+      "type":3,
+      "api":"csp_XYQHiker",
+      "playerType":1,
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":1,
+      "ext":"./XYQHiker/电影牛影院.json"
+    },    
     {
       "key": "cjzy_暴风资源",
       "name": "暴风┃影视",
