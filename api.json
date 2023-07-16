@@ -410,17 +410,6 @@
       "ext":"https://shdy2.com/list/{cateId}-{catePg}.html"
     },    
     {
-      "key": "酷云",
-      "name":"酷云┃影院",
-      "type":3,
-      "api":"csp_XBiu",
-      "searchable":1,
-      "quickSearch":1,
-      "filterable":1,
-      "ext":"https://www.kuyun5.com/vod-show-{cateId}-----------{catePg}.html",
-      "jar":"./jar/XBiu.jar"
-    },
-    {
       "key": "悟空",
       "name":"悟空┃影院",
       "type":3,
@@ -429,17 +418,6 @@
       "quickSearch":1,
       "filterable":1,
       "ext":"https://www.dlxzsjz.com/vodtype/{cateId}-{catePg}.html"
-    },
-    {
-      "key": "狐狸",
-      "name":"狐狸┃影院",
-      "type":3,
-      "api":"csp_XBiu",
-      "searchable":1,
-      "quickSearch":1,
-      "filterable":1,
-      "ext":"https://www.cupfox.cc/index.php/vodshow/{cateId}-{page}-{arer}-{by}-{class}-{catePg}---{yera}.py.html",
-      "jar":"./jar/XBiu.jar"
     },    
     {
       "key": "阿里云盘网",
