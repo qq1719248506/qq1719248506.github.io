@@ -155,6 +155,16 @@
       "quickSearch": 1,
       "changeable": 1,
       "ext": "https://www.kuin.one/api.php/app/"
+    },
+    {
+      "key": "布蕾",
+      "name": "布蕾┃App",
+      "api": "csp_AppYsV2",
+      "type": 3,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "http://117.175.212.198:8088/api.php/app/"
     },    
     {
       "key": "迪迪",
