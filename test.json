@@ -1,17 +1,7 @@
 {
-  "spider": "./jar/spider.txt;md5;e16d37808f2d421ee1afcbd13f5a05c8",
+  "spider": "./jar/vod.jar;md5;327c30d26b5d5a20cf506e3cf0f99611",
   "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
   "sites": [
-    {
-      "key":"csp_JianPian",
-      "name":"影片┃推荐",
-      "type":3,
-      "api":"csp_JianPian",
-      "playerType":1,
-      "searchable":1,
-      "quickSearch":1,
-      "filterable":1
-    },
     {
       "key": "csp_SP360",
       "name": "360┃影视",
@@ -32,22 +22,13 @@
       "filterable": 1
     },
     {
-      "key":"csp_DiDuan",
-      "name":"低端┃影视",
+      "key":"csp_Bttwoo",
+      "name":"比特┃影视",
       "type":3,
-      "api":"csp_Ddys",
+      "api":"csp_Bttwoo",
       "searchable":1,
       "quickSearch":1,
       "filterable":0
-    },
-    {
-      "key":"csp_Bdys",
-      "name":"哔嘀┃影视",
-      "type":3,
-      "api":"csp_Bdys",
-      "searchable":1,
-      "quickSearch":1,
-      "filterable":1
     },
     {
       "key":"酷云七七",
@@ -57,35 +38,6 @@
       "searchable":1,
       "quickSearch":1,
       "filterable":1
-    },
-    {
-      "key":"csp_Czsapp",
-      "name":"厂长┃影视",
-      "type":3,
-      "api":"csp_Czsapp",
-      "playerType":2,
-      "searchable":1,
-      "quickSearch":1,
-      "filterable":1,
-      "ext":"https://czzy.fun"
-    },
-    {
-      "key":"csp_Ikanbot",
-      "name": "爱看┃影视",
-      "type": 3,
-      "api": "csp_Ikanbot",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "csp_Mp4Mov",
-      "name": "Mp4┃电影",
-      "type": 3,
-      "api": "csp_Mp4Mov",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
     },    
     {
       "key":"py_cctv",
@@ -374,6 +326,62 @@
       "quickSearch":1,
       "filterable":1,
       "ext":"https://shdy2.com/list/{cateId}-{catePg}.html"
+    },
+    {
+      "key": "八戒",
+      "name": "八戒┃影院",
+      "type": 3,
+      "api": "csp_XBiu",
+      "searchable": 1,
+      "ext": "https://bjaxxy.com/vodtype/{cateId}-{catePg}.html"
+    },
+    {
+      "key": "酷云",
+      "name": "酷云┃影院",
+      "type": 3,
+      "api": "csp_XBiu",
+      "searchable": 1,
+      "ext": "https://www.kuyun5.com/vod-show-{cateId}-----------{catePg}.html"
+    },
+    {
+      "key": "双十",
+      "name": "双十┃影院",
+      "type": 3,
+      "api": "csp_XBiu",
+      "searchable": 1,
+      "ext": "https://www.shengfeitehotel.cn/t/{cateId}-{catePg}.html"
+    },
+    {
+      "key": "555",
+      "name": "555┃影视",
+      "type": 3,
+      "api": "csp_XBiu",
+      "searchable": 1,
+      "ext": "https://www.555dy1.com/vodshow/{cateId}--------{catePg}---.html"
+    },    
+    {
+      "key": "voflix",
+      "name": "voflix┃影视",
+      "type": 3,
+      "api": "csp_XBiu",
+      "searchable": 1,
+      "ext": "https://www.voflix.me/type/{cateId}-{catePg}.html"
+    },
+    {
+      "key": "雪糕",
+      "name": "雪糕┃影视",
+      "type": 3,
+      "api": "csp_XBiu",
+      "searchable": 1,
+      "ext": "https://www.xgitv.com/vtype/{cateId}-{catePg}.html"
+    },
+    {
+      "key": "茶杯狐",
+      "name": "茶杯┃影视",
+      "type": 3,
+      "api": "csp_XBiu",
+      "searchable": 1,
+      "ext": "https://www.cupfox.cc/index.php/vodshow/{cateId}-{page}-{arer}-{by}-{class}-{catePg}---{yera}.py.html"
     },    
     {
       "key": "悟空",
