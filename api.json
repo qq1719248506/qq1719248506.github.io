@@ -1,6 +1,6 @@
 {
   "spider": "./jar/spider.txt;md5;e16d37808f2d421ee1afcbd13f5a05c8",
-  "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
+  "wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
   "sites": [
     {
       "key":"csp_JianPian",
