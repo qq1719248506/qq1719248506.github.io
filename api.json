@@ -79,6 +79,26 @@
       "filterable": 1
     },
     {
+      "key":"csp_KubaCL",
+      "name":"酷吧┃电影",
+      "type":3,
+      "api":"csp_KubaCL",
+      "playerType":1,
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":1
+    },
+    {
+      "key":"csp_SeedHub",
+      "name":"影视┃动漫",
+      "type":3,
+      "api":"csp_SeedHub",
+      "playerType":1,
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":1
+    },
+    {
       "key": "csp_Mp4Mov",
       "name": "Mp4┃电影",
       "type": 3,
@@ -189,14 +209,6 @@
         "4K电影",
         "4K电视剧"
       ]
-    },
-    {
-      "key": "新片场",
-      "name": "新片┃预告",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "playerType": "1",
-      "ext": "./XBPQ/新片场.json"
     },
     {
       "key": "搜狗",
