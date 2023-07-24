@@ -147,6 +147,13 @@
       "changeable": 0
     },
     {
+      "key": "drpy_js_",
+      "name": "武享吧┃[js]",
+      "type": 3,
+      "api": "https://ghproxy.com/https://raw.githubusercontent.com/qq1719248506/Video-interface/main/libs/drpy.min.js",
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/qq1719248506/Video-interface/main/js/武享吧.js"
+    },    
+    {
       "key": "csp_WoGG",
       "name": "玩偶┃哥哥",
       "type": 3,
@@ -312,7 +319,7 @@
     },
     {
       "key": "胖虎",
-      "name": "胖虎┃BPQ",
+      "name": "胖虎┃影视",
       "type": 3,
       "api": "csp_XBPQ",
       "ext": "./XBPQ/胖虎.json"
