@@ -1025,11 +1025,21 @@
     {
       "name": "live",
       "type": 0,
-      "url": "http://hz752.love:63/txt/ysbox.txt",
+      "url": "https://ghproxy.com/https://raw.githubusercontent.com/qq1719248506/TVBox-2/main/live.txt",
       "playerType": 1,
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
-    }
+    },
+    {
+      "name":"AV1",
+      "type":0,
+      "url":"hhttps://ghproxy.com/https://raw.githubusercontent.com/qq1719248506/TVBox-2/main/18/18live.txt"
+    },
+    {
+      "name":"AV2",
+      "type":0,
+      "url":"hhttps://ghproxy.com/https://raw.githubusercontent.com/qq1719248506/TVBox-2/main/18/18live-1.m3u"
+    }    
   ],
   "flags": [
     "youku",
