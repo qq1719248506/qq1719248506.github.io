@@ -50,7 +50,17 @@
       "searchable": 1,
       "quickSearch": 0,
       "changeable": 0
-    },    
+    },
+    {
+      "key": "csp_DuoX",
+      "name": "多线┃影视",
+      "type": 3,
+      "api": "csp_DuoX",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 1
+    },   
     {
       "key": "csp_WoGG",
       "name": "玩偶┃哥哥",
@@ -304,13 +314,6 @@
       "ext":"./js/武享吧.js"
     },
     {
-      "key":"drpy_js_有声绘本网",
-      "name":"少儿┃有声绘画",
-      "type":3,
-      "api":"./lib/drpy2.min.js",
-      "ext":"./js/有声绘本网.js"
-    },
-    {
       "key":"drpy_js_听书网",
       "name":"听书┃听书网",
       "type":3,
@@ -510,13 +513,6 @@
       "ext": "./XBPQ/土豪.json"
     },
     {
-      "key":"drpy_js_扛把子影院",
-      "name":"扛把子┃影视",
-      "type":3,
-      "api":"./lib/drpy2.min.js",
-      "ext":"./js/扛把子影院.js"
-    },
-    {
       "key": "cjzy_暴风资源",
       "name": "暴风┃影视",
       "type": 1,
@@ -705,7 +701,7 @@
       "key": "push_agent",
       "name": "链接┃推送",
       "type": 3,
-      "api": "csp_Push",
+      "api": "csp_PushAgent",
       "searchable": 1,
       "quickSearch": 1,
       "ext": "./token.txt"
@@ -1033,12 +1029,12 @@
     {
       "name":"AV1",
       "type":0,
-      "url":"hhttps://ghproxy.com/https://raw.githubusercontent.com/qq1719248506/TVBox-2/main/18/18live.txt"
+      "url":"https://ghproxy.com/https://raw.githubusercontent.com/qq1719248506/TVBox-2/main/18/18live.txt"
     },
     {
       "name":"AV2",
       "type":0,
-      "url":"hhttps://ghproxy.com/https://raw.githubusercontent.com/qq1719248506/TVBox-2/main/18/18live-1.m3u"
+      "url":"https://ghproxy.com/https://raw.githubusercontent.com/qq1719248506/TVBox-2/main/18/18live-1.m3u"
     }    
   ],
   "flags": [
