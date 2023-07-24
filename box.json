@@ -1,5 +1,5 @@
 {
-  "spider": "./jar/panda.jar;md5;bbfe19661bb62a54f449fcfe75ef1683",
+  "spider": "./jar/spider.jar;md5;b085429ce430c360cacccdf85f61c9ac",
   "wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
   "sites": [
     {
@@ -288,56 +288,41 @@
       "changeable": 0
     },
     {
-      "key": "csp_SP33",
+      "key": "csp_SP360",
       "name": "360┃解析",
       "type": 3,
-      "api": "csp_SP33",
+      "api": "csp_XBPQ",
       "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 0
+      "changeable": 0,
+      "ext": "./XBPQ/360影视.json"
+    },
+    {
+      "key":"drpy_js_武享吧",
+      "name":"格斗┃武享吧",
+      "type":3,
+      "api":"./lib/drpy2.min.js",
+      "ext":"./js/武享吧.js"
+    },
+    {
+      "key":"drpy_js_有声绘本网",
+      "name":"少儿┃有声绘画",
+      "type":3,
+      "api":"./lib/drpy2.min.js",
+      "ext":"./js/有声绘本网.js"
+    },
+    {
+      "key":"drpy_js_听书网",
+      "name":"听书┃听书网",
+      "type":3,
+      "api":"./lib/drpy2.min.js",
+      "ext":"./js/听书网.js",
+      "playerType":"2"
     },
     {
       "key": "csp_Dm84",
       "name": "动漫┃巴士",
       "type": 3,
       "api": "csp_Dm84",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
-    },
-    {
-      "key": "csp_Ying",
-      "name": "樱花┃动漫",
-      "type": 3,
-      "api": "csp_Ying",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
-    },
-    {
-      "key": "csp_Ysj",
-      "name": "异界┃动漫",
-      "type": 3,
-      "api": "csp_Ysj",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
-    },
-    {
-      "key": "csp_Anime1",
-      "name": "日本┃动漫",
-      "type": 3,
-      "api": "csp_Anime1",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
-    },
-    {
-      "key": "csp_Yj1211",
-      "name": "网红┃直播",
-      "type": 3,
-      "api": "csp_Yj1211",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1
@@ -512,6 +497,13 @@
       "api": "csp_XBPQ",
       "searchable": 1,
       "ext": "./XBPQ/土豪.json"
+    },
+    {
+      "key":"drpy_js_扛把子影院",
+      "name":"扛把子┃影视",
+      "type":3,
+      "api":"./lib/drpy2.min.js",
+      "ext":"./js/扛把子影院.js"
     },
     {
       "key": "cjzy_暴风资源",
