@@ -1,6 +1,6 @@
 {
-  "spider": "./jar/App.jar;md5;0f9a455608a25b0c56cb7e76f8371759",
-  "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
+  "spider": "./jar/App.jar;md5;01ec1147212fcaf2b4ec6982c49dbe4d",
+  "wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
   "sites": [
     {
       "key": "csp_SP360",
