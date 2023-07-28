@@ -277,6 +277,14 @@
       "ext": "https://api123.adys.app/xgapp.php/v3/"
     },
     {
+      "key": "双十",
+      "name": "双十┃电影",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "ext": "./XBPQ/双十.json"
+    },    
+    {
       "key": "搜狗",
       "name": "搜狗┃影视",
       "type": 3,
@@ -481,8 +489,8 @@
       "ext": "https://bjaxxy.com/vodtype/{cateId}-{catePg}.html"
     },
     {
-      "key": "酷云",
-      "name": "酷云┃影院",
+      "key": "酷云1",
+      "name": "酷云1┃影院",
       "type": 3,
       "api": "csp_XBiu",
       "searchable": 1,
@@ -494,7 +502,7 @@
       "type": 3,
       "api": "csp_XBiu",
       "searchable": 1,
-      "ext": "https://www.shengfeitehotel.cn/t/{cateId}-{catePg}.html"
+      "ext": "https://www.1010dy3.com/show/{cateId}/area/{area}/by/{by}/class/{class}/lang/{lang}/page/{catePg}.html"
     },
     {
       "key": "555",
@@ -529,6 +537,28 @@
       "quickSearch":1,
       "filterable":1,
       "ext":"https://www.dlxzsjz.com/vodtype/{cateId}-{catePg}.html"
+    },
+    {
+      "key": "茶杯狐",
+      "name":"茶杯狐┃影院",
+      "type":3,
+      "api":"csp_XBiubiu",
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":1,
+      "ext":"./XBiubiu/茶杯狐.json",
+      "jar":"./jar/茶杯狐.jar"
+    },
+    {
+      "key": "酷云",
+      "name":"酷云┃影院",
+      "type":3,
+      "api":"csp_XBiubiu",
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":1,
+      "ext":"./XBiubiu/酷云影院.json",
+      "jar":"./jar/茶杯狐.jar"
     },    
     {
       "key": "阿里云盘网",
