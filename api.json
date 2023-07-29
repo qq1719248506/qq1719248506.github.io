@@ -1,13 +1,16 @@
 {
-  "spider": "./jar/spider.txt;md5;ff7203ffabbe9fa127e5dbadde761d74",
+  "spider": "./jar/spider.txt;md5;a558cfe895d8d9632e5e988b49740feb",
   "wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
   "sites": [
     {
-      "key":"豆瓣",
-      "name":"豆瓣┃热播",
+      "key":"csp_JianPian",
+      "name":"豆瓣┃荐片",
       "type":3,
-      "api": "https://ghproxy.com/https://raw.githubusercontent.com/qq1719248506/Video-interface/main/libs/drpy.min.js",
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/qq1719248506/dr_py/main/js/drpy.js"
+      "api":"csp_JianPian",
+      "playerType":1,
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":1
     },
     {
       "key": "csp_SP360",
@@ -65,7 +68,75 @@
       "quickSearch":1,
       "filterable":1,
       "ext":"https://czzy.fun"
-    },    
+    },
+    {
+      "key":"csp_Ikanbot",
+      "name": "爱看┃影视",
+      "type": 3,
+      "api": "csp_Ikanbot",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key":"csp_KubaCL",
+      "name":"酷吧┃电影",
+      "type":3,
+      "api":"csp_KubaCL",
+      "playerType":1,
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":1
+    },
+    {
+      "key":"csp_MeijuTT",
+      "name":"美剧┃天堂",
+      "type":3,
+      "api":"csp_MeijuTT",
+      "playerType":1,
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":1
+    },
+    {
+      "key":"csp_MeijuMi",
+      "name":"美剧┃影迷",
+      "type":3,
+      "api":"csp_MeijuMi",
+      "playerType":1,
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":1
+    },
+    {
+      "key":"csp_SeedHub",
+      "name":"SeedHub",
+      "type":3,
+      "api":"csp_SeedHub",
+      "playerType":1,
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":1
+    },
+    {
+      "key": "csp_New6v",
+      "name": "六V┃影视",
+      "type": 3,
+      "api": "csp_New6v",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext":"http://www.xb6v.com"
+    },
+    {
+      "key": "csp_Mp4Mov",
+      "name": "Mp4┃电影",
+      "type": 3,
+      "api": "csp_Mp4Mov",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
     {
       "key":"py_cctv",
       "name": "央视┃大全",
@@ -107,10 +178,10 @@
     },
     {
       "key": "drpy_js_",
-      "name": "武享吧┃[js]",
+      "name": "综合┃格斗",
       "type": 3,
-      "api": "https://ghproxy.com/https://raw.githubusercontent.com/qq1719248506/Video-interface/main/libs/drpy.min.js",
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/qq1719248506/Video-interface/main/js/武享吧.js"
+      "api": "./lib/drpy2.min.js",
+      "ext": "./js/武享吧.js"
     },    
     {
       "key": "csp_WoGG",
@@ -286,8 +357,9 @@
       "api": "csp_AList",
       "searchable": 1,
       "changeable": 0,
-      "ext": "./AList/alist.json"
-    },    
+      "ext": "./AList/alist.json",
+      "jar":"./jar/fm.jar;md5;c180867252ce20f2d59e5a7e6d4fd92a"
+    },   
     {
       "key": "纸条",
       "name": "纸条┃搜索",
@@ -297,7 +369,7 @@
       "filterable": 0,
       "changeable": 0,
       "ext": "./token.txt",
-      "jar":"./ali.jar"      
+      "jar":"./jar/fm.jar;md5;c180867252ce20f2d59e5a7e6d4fd92a"
     },    
     {
       "key": "YiSo",
@@ -307,8 +379,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
-      "ext": "./token.txt",
-      "jar":"./ali.jar"
+      "ext": "./token.txt"
     },
     {
       "key": "Zhaozy",
@@ -318,8 +389,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
-      "ext": "./token.txt$$$yunshuche$$$11223344",
-      "jar":"./ali.jar"
+      "ext": "./token.txt"
     },
     {
       "key": "PanSou",
@@ -329,8 +399,7 @@
       "searchable": 1,
       "quickSearch": 0,
       "changeable": 0,
-      "ext": "./token.txt",
-      "jar":"./ali.jar"
+      "ext": "./token.txt"
     },
     {
       "key": "UpYun",
@@ -340,8 +409,7 @@
       "searchable": 1,
       "quickSearch": 0,
       "changeable": 0,
-      "ext": "./token.txt",
-      "jar":"./ali.jar"
+      "ext": "./token.txt"
     },
     {
       "key": "PanSearch",
@@ -352,7 +420,7 @@
       "quickSearch": 0,
       "changeable": 0,
       "ext": "./token.txt",
-      "jar":"./ali.jar"
+      "jar":"./jar/fm.jar;md5;c180867252ce20f2d59e5a7e6d4fd92a"
     },
     {
       "key": "七夜",
@@ -363,39 +431,8 @@
       "quickSearch": 0,
       "changeable": 0,
       "ext": "./token.txt",
-      "jar":"./ali.jar"
-    },
-    {
-      "key": "土狗搜索",
-      "name": "土狗┃搜索",
-      "type": 3,
-      "api": "csp_TuGou",
-      "searchable": 1,
-      "filterable": 0,
-      "changeable": 0,
-      "ext": "./token.txt",
-      "jar":"./ali.jar"     
-    },    
-    {
-      "key": "骚火",
-      "name":"骚火┃影院",
-      "type":3,
-      "api":"csp_XBiu",
-      "searchable":1,
-      "quickSearch":1,
-      "filterable":1,
-      "ext":"https://shdy2.com/list/{cateId}-{catePg}.html"
-    },    
-    {
-      "key": "悟空",
-      "name":"悟空┃影院",
-      "type":3,
-      "api":"csp_XBiu",
-      "searchable":1,
-      "quickSearch":1,
-      "filterable":1,
-      "ext":"https://www.dlxzsjz.com/vodtype/{cateId}-{catePg}.html"
-    },    
+      "jar":"./jar/fm.jar;md5;c180867252ce20f2d59e5a7e6d4fd92a"
+    },        
     {
       "key": "我的小站",
       "name":"阿里┃小站",
