@@ -578,6 +578,29 @@
       ]      
     },
     {
+      "key": "无尽",
+      "name": "无尽┃切片",
+      "type": 1,
+      "api": "https://api.wujinapi.com/api.php/provide/vod",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "categories": [
+        "动作片",
+        "喜剧片",
+        "爱情片",
+        "剧情片",
+        "科幻片",
+        "恐怖片",
+        "战争片",
+        "纪录片",        
+        "国产剧",
+        "香港剧",
+        "台湾剧",        
+        "伦理片"
+      ]      
+    },    
+    {
       "key": "快看资源",
       "name": "快看┃切片",
       "type": 1,
