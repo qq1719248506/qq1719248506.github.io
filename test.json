@@ -73,21 +73,23 @@
     },    
     {
       "key":"csp_XPathAli",
-      "name":"阿里┃云盘",
+      "name":"蚂蚁┃磁力",
       "type":3,
       "api":"csp_XPathAli",
       "searchable":1,
       "quickSearch":1,
-      "filterable":1
+      "filterable":1,
+      "ext":"./磁力/蚂蚁4k.json"
     },
     {
       "key":"csp_XPathT2M",
-      "name":"电影┃磁力",
+      "name":"音范丝┃磁力",
       "type":3,
       "api":"csp_XPathT2M",
       "searchable":1,
       "quickSearch":1,
-      "filterable":1
+      "filterable":1,
+      "ext":"./磁力/音范丝.json"
     },    
     {
       "key":"酷云七七",
@@ -292,7 +294,7 @@
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
-      "ext": "./XBPQ/双十.json"
+      "ext": "./XBPQ/双十影视.json"
     },    
     {
       "key": "搜狗",
@@ -481,6 +483,17 @@
       "ext": "./XYQHiker/DOVX搜索.json"
     },
     {
+      "key":"ruyi",
+      "name":"如意┃4K",
+      "type":3,
+      "api":"csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "categories":["电影","电视剧","综艺","动漫"],
+      "ext": "http://cms.maoyingshi.cc/api.php/app/"
+    },
+    {
       "key": "骚火",
       "name":"骚火┃影院",
       "type":3,
@@ -505,14 +518,6 @@
       "api": "csp_XBiu",
       "searchable": 1,
       "ext": "https://www.kuyun5.com/vod-show-{cateId}-----------{catePg}.html"
-    },
-    {
-      "key": "双十",
-      "name": "双十┃影院",
-      "type": 3,
-      "api": "csp_XBiu",
-      "searchable": 1,
-      "ext": "https://www.1010dy3.com/show/{cateId}/area/{area}/by/{by}/class/{class}/lang/{lang}/page/{catePg}.html"
     },
     {
       "key": "555",
