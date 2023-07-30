@@ -138,6 +138,16 @@
       "filterable": 1
     },
     {
+      "key": "小雅",
+      "name": "小雅┃网盘",
+      "type": 3,
+      "api": "./lib/alist.min.js",
+      "ext": "./lib/alist.json",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },    
+    {
       "key":"py_cctv",
       "name": "央视┃大全",
       "type": 3,
