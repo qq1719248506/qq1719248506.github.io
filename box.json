@@ -1,5 +1,5 @@
 {
-  "spider": "./jar/spider.jar;md5;b085429ce430c360cacccdf85f61c9ac",
+  "spider": "./jar/fy.jar;md5;6085f2529dfe0e896005c2522e25da03",
   "wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
   "sites": [
     {
@@ -78,7 +78,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
-      "ext": "./token.txt+4k|fhd|auto$$$http://tvfan.xxooo.cf/"
+      "ext": "./token.txt+4k|fhd|auto$$$https://wogg.xyz/"
     },
     {
       "key": "csp_fantuan",
@@ -303,7 +303,7 @@
     },
     {
       "key":"drpy_js_武享吧",
-      "name":"格斗┃武享吧",
+      "name":"拳皇┃争霸",
       "type":3,
       "api":"./lib/drpy2.min.js",
       "ext":"./js/武享吧.js"
@@ -335,6 +335,26 @@
       "ext":"./AList/alist.json"
     },
     {
+      "key": "音范丝",
+      "name": "范丝┃磁力",
+      "type": 3,
+      "api": "csp_XPath",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": "./XPath/音范丝.json"
+    },    
+    {
+      "key": "磁力搜",
+      "name": "磁力┃搜索",
+      "type": 3,
+      "api": "csp_XPath",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": "./XPath/磁力搜.json"
+    },   
+    {
       "key": "YiSo",
       "name": "易搜┃阿里",
       "type": 3,
@@ -352,7 +372,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
-      "ext": "./token.txt+4k|fhd|auto$$$1719248506@qq.com$$$wzs1973"
+      "ext": "./token.txt+4k|fhd|auto$$$abcd1984$$$38dUhPLPy34vVYU"
     },
     {
       "key": "PanSou",
@@ -395,6 +415,18 @@
       "ext": "./token.txt+4k|fhd|auto"
     },
     {
+      "key": "橘子盘搜",
+      "name":"橘子┃盘搜",
+      "type":3,
+      "api":"csp_XYQHiker",
+      "playerType":1,
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":1,
+      "ext":"./XYQHiker/橘子盘搜.json",
+      "jar":"./jar/xyq0728.jar;md5;ab7a2bf5947c745657f25c80b337224b"
+    },    
+    {
       "key": "有声小说吧",
       "name":"有声┃小说",
       "type":3,
@@ -402,17 +434,8 @@
       "searchable":1,
       "quickSearch":1,
       "filterable":1,
-      "ext":"./XYQHiker/有声小说吧.json"
-    },
-    {
-      "key": "爱看影院",
-      "name":"爱看┃影院",
-      "type":3,
-      "api":"csp_XYQHiker",
-      "searchable":1,
-      "quickSearch":1,
-      "filterable":1,
-      "ext":"./XYQHiker/爱看影院.json"
+      "ext":"./XYQHiker/有声小说吧.json",
+      "jar":"./jar/xyq0728.jar;md5;ab7a2bf5947c745657f25c80b337224b"
     },
     {
       "key": "电影牛",
@@ -422,7 +445,26 @@
       "searchable":1,
       "quickSearch":1,
       "filterable":1,
-      "ext":"./XYQHiker/电影牛影院.json"
+      "ext":"./XYQHiker/电影牛影院.json",
+      "jar":"./jar/xyq0728.jar;md5;ab7a2bf5947c745657f25c80b337224b"
+    },
+    {
+      "key": "骚火",
+      "name":"骚火┃影院",
+      "type":3,
+      "api":"csp_XBiu",
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":1,
+      "ext":"https://shdy2.com/list/{cateId}-{catePg}.html"
+    },
+    {
+      "key": "八戒",
+      "name": "八戒┃影院",
+      "type": 3,
+      "api": "csp_XBiu",
+      "searchable": 1,
+      "ext": "https://bjaxxy.com/vodtype/{cateId}-{catePg}.html"
     },    
     {
       "key": "搜狗",
@@ -562,6 +604,52 @@
         "泰剧",
         "体育"
       ]
+    },
+    {
+      "key": "樱花",
+      "name": "樱花┃切片",
+      "type": 1,
+      "api": "https://m3u8.apiyhzy.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "categories": [
+        "动作片",
+        "喜剧片",
+        "爱情片",
+        "剧情片",
+        "科幻片",
+        "恐怖片",
+        "战争片",
+        "纪录片",        
+        "国产剧",
+        "香港剧",
+        "台湾剧",        
+        "伦理片"
+      ]      
+    },    
+    {
+      "key": "闪电",
+      "name": "闪电┃切片",
+      "type": 1,
+      "api": "http://sdzyapi.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "categories": [
+        "动作片",
+        "喜剧片",
+        "爱情片",
+        "剧情片",
+        "科幻片",
+        "恐怖片",
+        "战争片",
+        "纪录片",        
+        "国产剧",
+        "香港剧",
+        "台湾剧",        
+        "伦理片"
+      ]      
     },    
     {
       "key": "卧龙",
@@ -718,6 +806,11 @@
       "type": 2,
       "url": "Sequence"
     },
+    {
+      "name": "肥猫",
+      "type": 1,
+      "url": "http://jx.fuqizhishi.com:63/接口地址www.肥猫.love/肥猫专用.php?url="
+    },    
     {
       "name": "秒播",
       "type": 1,
