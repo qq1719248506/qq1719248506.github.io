@@ -607,6 +607,37 @@
       ]
     },
     {
+      "key": "无尽",
+      "name": "无尽┃切片",
+      "type": 1,
+      "api": "https://api.wujinapi.com/api.php/provide/vod",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "categories": [
+        "动漫",
+        "综艺",
+        "纪录片",
+        "动作片",
+        "爱情片",
+        "科幻片",
+        "战争片",
+        "剧情片",
+        "恐怖片",
+        "喜剧片",
+        "伦理片",
+        "大陆剧",
+        "港澳剧",
+        "台湾剧",
+        "欧美剧",
+        "动漫电影",
+        "韩剧",
+        "日剧",
+        "泰剧",
+        "体育"
+      ]
+    },    
+    {
       "key": "zy_新浪",
       "name": "新浪┃切片",
       "type": 1,
@@ -630,6 +661,7 @@
         "台湾剧",
         "欧美剧",
         "动漫电影",
+        "伦理片",
         "韩剧",
         "日剧",
         "泰剧",
@@ -642,22 +674,7 @@
       "type": 1,
       "api": "https://m3u8.apiyhzy.com/api.php/provide/vod/",
       "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "categories": [
-        "动作片",
-        "喜剧片",
-        "爱情片",
-        "剧情片",
-        "科幻片",
-        "恐怖片",
-        "战争片",
-        "纪录片",        
-        "国产剧",
-        "香港剧",
-        "台湾剧",        
-        "伦理片"
-      ]      
+      "quickSearch": 1    
     },    
     {
       "key": "闪电",
@@ -682,29 +699,6 @@
         "伦理片"
       ]      
     },    
-    {
-      "key": "卧龙",
-      "name": "卧龙┃切片",
-      "type": 1,
-      "api": "https://collect.wolongzyw.com/api.php/provide/vod",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "categories": [
-        "动作片",
-        "喜剧片",
-        "爱情片",
-        "剧情片",
-        "科幻片",
-        "恐怖片",
-        "战争片",
-        "纪录片",        
-        "国产剧",
-        "香港剧",
-        "台湾剧",        
-        "伦理片"
-      ]      
-    },
     {
       "key": "量子",
       "name": "量子┃切片",
