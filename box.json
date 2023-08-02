@@ -1,5 +1,5 @@
 {
-  "spider": "./jar/fy.jar;md5;6085f2529dfe0e896005c2522e25da03",
+  "spider": "./jar/box.jar;md5;99d91730600a7d6a0221e411233da0f6",
   "wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
   "sites": [
     {
@@ -59,17 +59,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0
-    },    
-    {
-      "key": "csp_DuoX",
-      "name": "多线┃影视",
-      "type": 3,
-      "api": "csp_DuoX",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 1
-    },   
+    },       
     {
       "key": "csp_WoGG",
       "name": "玩偶┃哥哥",
@@ -415,6 +405,39 @@
       "ext": "./token.txt+4k|fhd|auto"
     },
     {
+      "key":"csp_Xunlei8",
+      "name":"迅雷┃影吧",
+      "type":3,
+      "api":"csp_Xunlei8",
+      "playerType":1,
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":1,
+      "jar":"./jar/custom_spider.jar"
+    },
+    {
+      "key":"csp_BLSGod",
+      "name":"80S┃影视",
+      "type":3,
+      "api":"csp_BLSGod",
+      "playerType":1,
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":1,
+      "jar":"./jar/custom_spider.jar"
+    },
+    {
+      "key":"csp_KubaCL",
+      "name":"酷吧┃电影",
+      "type":3,
+      "api":"csp_KubaCL",
+      "playerType":1,
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":1,
+      "jar":"./jar/custom_spider.jar"
+    },
+    {
       "key": "橘子盘搜",
       "name":"橘子┃盘搜",
       "type":3,
@@ -424,7 +447,7 @@
       "quickSearch":1,
       "filterable":1,
       "ext":"./XYQHiker/橘子盘搜.json",
-      "jar":"./jar/xyq0728.jar;md5;ab7a2bf5947c745657f25c80b337224b"
+      "jar":"./jar/custom_spider.jar"
     },    
     {
       "key": "有声小说吧",
@@ -435,7 +458,7 @@
       "quickSearch":1,
       "filterable":1,
       "ext":"./XYQHiker/有声小说吧.json",
-      "jar":"./jar/xyq0728.jar;md5;ab7a2bf5947c745657f25c80b337224b"
+      "jar":"./jar/custom_spider.jar"
     },
     {
       "key": "电影牛",
@@ -446,7 +469,7 @@
       "quickSearch":1,
       "filterable":1,
       "ext":"./XYQHiker/电影牛影院.json",
-      "jar":"./jar/xyq0728.jar;md5;ab7a2bf5947c745657f25c80b337224b"
+      "jar":"./jar/custom_spider.jar"
     },
     {
       "key": "骚火",
@@ -525,7 +548,15 @@
       "api": "csp_XBPQ",
       "searchable": 1,
       "ext": "./XBPQ/量子.json"
-    },   
+    },
+    {
+      "key": "非凡",
+      "name": "非凡┃影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "ext": "./XBPQ/非凡.json"
+    },    
     {
       "key": "策驰",
       "name": "策驰┃影视",
@@ -784,7 +815,7 @@
       "key": "push_agent",
       "name": "链接┃推送",
       "type": 3,
-      "api": "csp_PushAgent",
+      "api": "csp_Push",
       "searchable": 1,
       "quickSearch": 1,
       "ext": "./token.txt"
