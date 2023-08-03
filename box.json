@@ -696,37 +696,6 @@
         "泰剧",
         "体育"
       ]
-    },
-    {
-      "key": "樱花",
-      "name": "樱花┃切片",
-      "type": 1,
-      "api": "https://m3u8.apiyhzy.com/api.php/provide/vod/",
-      "searchable": 1,
-      "quickSearch": 1    
-    },    
-    {
-      "key": "闪电",
-      "name": "闪电┃切片",
-      "type": 1,
-      "api": "http://sdzyapi.com/api.php/provide/vod/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "categories": [
-        "动作片",
-        "喜剧片",
-        "爱情片",
-        "剧情片",
-        "科幻片",
-        "恐怖片",
-        "战争片",
-        "纪录片",        
-        "国产剧",
-        "香港剧",
-        "台湾剧",        
-        "伦理片"
-      ]      
     },    
     {
       "key": "快看资源",
