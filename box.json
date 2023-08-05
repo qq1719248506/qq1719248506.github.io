@@ -1,5 +1,5 @@
 {
-  "spider": "./jar/box.jar;md5;99d91730600a7d6a0221e411233da0f6",
+  "spider": "./jar/vod.jar;md5;ce593ff231ad9cef81f9a50a18dfc201",
   "wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
   "sites": [
     {
@@ -52,15 +52,6 @@
       "changeable": 0
     },
     {
-      "key": "csp_YGP",
-      "name": "新片┃速递",
-      "type": 3,
-      "api": "csp_YGP",
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0
-    },
-     {
       "key": "小雅",
       "name": "小雅┃网盘",
       "type": 3,
@@ -69,16 +60,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
-    },   
-    {
-      "key": "csp_kuying",
-      "name": "酷影┃App",
-      "type": 3,
-      "api": "csp_Kuying",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
-    },    
+    },       
     {
       "key": "csp_WoGG",
       "name": "玩偶┃哥哥",
@@ -87,17 +69,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
-      "ext": "./token.txt+4k|fhd|auto$$$https://wogg.xyz/"
-    },
-    {
-      "key": "csp_fantuan",
-      "name": "饭团┃App",
-      "type": 3,
-      "api": "csp_Fantuan",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "https://www.fantuan3.com"
+      "ext": "./token.txt+4k|fhd|auto$$$http://tvfan.xxooo.cf/"
     },
     {
       "key": "迪迪",
@@ -110,71 +82,13 @@
       "ext": "https://api123.adys.app/xgapp.php/v3/"
     },
     {
-      "key": "探探",
-      "name": "探探┃App",
-      "type": 3,
-      "api": "csp_YT",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable":1
-    },
-    {
-      "key":"csp_MmYs",
-      "name":"蘑菇┃App",
-      "type":3,
-      "api":"csp_MmYs",
-      "searchable":1,
-      "quickSearch":1,
-      "changeable":1
-    },
-    {
-      "key": "csp_YQKAPP",
-      "name": "一起┃App",
-      "type": 3,
-      "api": "csp_YQKAPP",
-      "playerType": 2,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "https://api-aws.11ty.top"
-    },
-    {
-      "key": "csp_kuaikan",
-      "name": "快看┃App",
-      "type": 3,
-      "api": "csp_Kuaikan",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
-    },
-    {
-      "key": "csp_77",
+      "key": "csp_Kunyu77",
       "name": "七七┃App",
       "type": 3,
       "api": "csp_Kunyu77",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1
-    },
-    {
-      "key": "csp_AppMr",
-      "name": "明日┃App",
-      "type": 3,
-      "api": "csp_AppMr",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
-    },
-    {
-      "key": "csp_Xinsj",
-      "name": "视觉┃影视",
-      "type": 3,
-      "api": "csp_Xinsj",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "https://www.6080yy3.com/"
     },
     {
       "key": "csp_Czsapp",
@@ -187,129 +101,13 @@
       "changeable": 1
     },
     {
-      "key": "csp_DiDuan",
-      "name": "低端┃影视",
+      "key": "csp_Miaobo",
+      "name": "秒播┃App",
       "type": 3,
-      "api": "csp_Ddrk",
+      "api": "csp_Miaobo",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1
-    },
-    {
-      "key": "csp_Cokemv",
-      "name": "可乐┃影视",
-      "type": 3,
-      "api": "csp_Cokemv",
-      "playerType": 2,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
-    },
-    {
-      "key": "csp_Lib",
-      "name": "利播┃影视",
-      "type": 3,
-      "api": "csp_Libvio",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "https://www.libvio.fun/"
-    },
-    {
-      "key": "csp_Bttoo",
-      "name": "比特┃影视",
-      "type": 3,
-      "api": "csp_Bttwoo",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
-    },
-    {
-      "key": "csp_Vofl",
-      "name": "Vofl┃影视",
-      "type": 3,
-      "api": "csp_Voflix",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
-    },
-    {
-      "key": "csp_Auete",
-      "name": "奥特┃影视",
-      "type": 3,
-      "api": "csp_Auete",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
-    },
-    {
-      "key": "csp_Dy1010",
-      "name": "双十┃电影",
-      "type": 3,
-      "api": "csp_Dy1010",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
-    },
-    {
-      "key": "csp_zxzj",
-      "name": "在线┃之家",
-      "type": 3,
-      "api": "csp_Zxzj",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "https://www.zxzj.pro/"
-    },
-    {
-      "key": "csp_Lgyy",
-      "name": "蓝光┃影视",
-      "type": 3,
-      "api": "csp_Lgyy",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "https://www.lgyy.vip"
-    },
-    {
-      "key": "csp_Ysgc",
-      "name": "工场┃影视",
-      "type": 3,
-      "api": "csp_Ysgc",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "https://www.ysgc.vip"
-    },
-    {
-      "key": "csp_555",
-      "name": "三五┃影视",
-      "type": 3,
-      "api": "csp_Ys555",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "https://www.555dyy1.com"
-    },
-    {
-      "key": "csp_apple",
-      "name": "苹果┃App",
-      "type": 3,
-      "api": "csp_LiteApple",
-      "playerType": 1,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0
-    },
-    {
-      "key": "csp_Nmys",
-      "name": "农民┃影视",
-      "type": 3,
-      "api": "csp_Nmys",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "http://饭太硬.top/tv/nmys.json"
     },    
     {
       "key": "csp_SP360",
@@ -334,15 +132,6 @@
       "api":"./lib/drpy2.min.js",
       "ext":"./js/听书网.js",
       "playerType":"2"
-    },
-    {
-      "key": "csp_Dm84",
-      "name": "动漫┃巴士",
-      "type": 3,
-      "api": "csp_Dm84",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
     },
     {
       "key":"AList",
@@ -372,7 +161,17 @@
       "quickSearch": 1,
       "changeable": 0,
       "ext": "./XPath/磁力搜.json"
-    },   
+    },
+    {
+      "key": "小纸条",
+      "name": "纸条┃阿里",
+      "type": 3,
+      "api": "csp_Gitcafe",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": "./token.txt+4k|fhd|auto"
+    },    
     {
       "key": "YiSo",
       "name": "易搜┃阿里",
@@ -463,8 +262,7 @@
       "playerType":1,
       "searchable":1,
       "quickSearch":1,
-      "filterable":1,
-      "jar":"./jar/custom_spider.jar"
+      "filterable":1
     },
     {
       "key": "橘子盘搜",
@@ -475,8 +273,7 @@
       "searchable":1,
       "quickSearch":1,
       "filterable":1,
-      "ext":"./XYQHiker/橘子盘搜.json",
-      "jar":"./jar/custom_spider.jar"
+      "ext":"./XYQHiker/橘子盘搜.json"
     },    
     {
       "key": "有声小说吧",
@@ -486,37 +283,27 @@
       "searchable":1,
       "quickSearch":1,
       "filterable":1,
-      "ext":"./XYQHiker/有声小说吧.json",
-      "jar":"./jar/custom_spider.jar"
+      "ext":"./XYQHiker/有声小说吧.json"
     },
     {
-      "key": "电影牛",
-      "name":"牛牛┃影视",
-      "type":3,
-      "api":"csp_XYQHiker",
-      "searchable":1,
-      "quickSearch":1,
-      "filterable":1,
-      "ext":"./XYQHiker/电影牛影院.json",
-      "jar":"./jar/custom_spider.jar"
-    },
+      "key": "csp_苹果",
+      "name": "苹果┃影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./XBPQ/苹果影视.json"
+    },    
     {
       "key": "骚火",
-      "name":"骚火┃影院",
+      "name":"骚火┃电影",
       "type":3,
-      "api":"csp_XBiu",
+      "api":"csp_XBPQ",
       "searchable":1,
       "quickSearch":1,
       "filterable":1,
-      "ext":"https://shdy2.com/list/{cateId}-{catePg}.html"
-    },
-    {
-      "key": "八戒",
-      "name": "八戒┃影院",
-      "type": 3,
-      "api": "csp_XBiu",
-      "searchable": 1,
-      "ext": "https://bjaxxy.com/vodtype/{cateId}-{catePg}.html"
+      "ext":"./XBPQ/骚火电影.json"
     },    
     {
       "key": "搜狗",
@@ -731,7 +518,7 @@
       "key": "push_agent",
       "name": "链接┃推送",
       "type": 3,
-      "api": "csp_Push",
+      "api": "csp_PushAgent",
       "searchable": 1,
       "quickSearch": 1,
       "ext": "./token.txt"
