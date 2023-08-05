@@ -101,6 +101,16 @@
       "changeable": 1
     },
     {
+      "key":"csp_KubaCL",
+      "name":"酷吧┃电影",
+      "type":3,
+      "api":"csp_KubaCL",
+      "playerType":1,
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":1
+    },    
+    {
       "key": "csp_Miaobo",
       "name": "秒播┃App",
       "type": 3,
@@ -126,12 +136,14 @@
       "ext":"./js/武享吧.js"
     },
     {
-      "key":"drpy_js_听书网",
-      "name":"听书┃听书网",
-      "type":3,
-      "api":"./lib/drpy2.min.js",
-      "ext":"./js/听书网.js",
-      "playerType":"2"
+      "key": "音范丝",
+      "name": "范丝┃磁力",
+      "type": 3,
+      "api": "csp_XPath",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": "./XPath/音范丝.json"
     },
     {
       "key":"AList",
@@ -141,29 +153,9 @@
       "changeable":"0",
       "searchable":"1",
       "ext":"./AList/alist.json"
-    },
-    {
-      "key": "音范丝",
-      "name": "范丝┃磁力",
-      "type": 3,
-      "api": "csp_XPath",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "ext": "./XPath/音范丝.json"
     },    
     {
-      "key": "磁力搜",
-      "name": "磁力┃搜索",
-      "type": 3,
-      "api": "csp_XPath",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "ext": "./XPath/磁力搜.json"
-    },
-    {
-      "key": "小纸条",
+      "key": "Gitcafe",
       "name": "纸条┃阿里",
       "type": 3,
       "api": "csp_Gitcafe",
@@ -231,62 +223,9 @@
       "quickSearch": 1,
       "changeable": 0,
       "ext": "./token.txt+4k|fhd|auto"
-    },
-    {
-      "key":"csp_Xunlei8",
-      "name":"迅雷┃影吧",
-      "type":3,
-      "api":"csp_Xunlei8",
-      "playerType":1,
-      "searchable":1,
-      "quickSearch":1,
-      "filterable":1,
-      "jar":"./jar/custom_spider.jar"
-    },
-    {
-      "key":"csp_BLSGod",
-      "name":"80S┃影视",
-      "type":3,
-      "api":"csp_BLSGod",
-      "playerType":1,
-      "searchable":1,
-      "quickSearch":1,
-      "filterable":1,
-      "jar":"./jar/custom_spider.jar"
-    },
-    {
-      "key":"csp_KubaCL",
-      "name":"酷吧┃电影",
-      "type":3,
-      "api":"csp_KubaCL",
-      "playerType":1,
-      "searchable":1,
-      "quickSearch":1,
-      "filterable":1
-    },
-    {
-      "key": "橘子盘搜",
-      "name":"橘子┃盘搜",
-      "type":3,
-      "api":"csp_XYQHiker",
-      "playerType":1,
-      "searchable":1,
-      "quickSearch":1,
-      "filterable":1,
-      "ext":"./XYQHiker/橘子盘搜.json"
     },    
     {
-      "key": "有声小说吧",
-      "name":"有声┃小说",
-      "type":3,
-      "api":"csp_XYQHiker",
-      "searchable":1,
-      "quickSearch":1,
-      "filterable":1,
-      "ext":"./XYQHiker/有声小说吧.json"
-    },
-    {
-      "key": "csp_苹果",
+      "key": "苹果",
       "name": "苹果┃影视",
       "type": 3,
       "api": "csp_XBPQ",
@@ -296,14 +235,32 @@
       "ext": "./XBPQ/苹果影视.json"
     },    
     {
-      "key": "骚火",
-      "name":"骚火┃电影",
-      "type":3,
-      "api":"csp_XBPQ",
-      "searchable":1,
-      "quickSearch":1,
-      "filterable":1,
-      "ext":"./XBPQ/骚火电影.json"
+      "key": "saohuo",
+      "name": "骚火┃电影",
+      "type": 3,
+      "searchable": 1,
+      "quickSearch": 1,
+      "playerType": "1",
+      "api": "csp_XBPQ",
+      "ext": {
+        "分类url": "https://shdy3.com/list/{cateId}-{catePg}.html;;r1d",
+        "分类": "电影$1#电视剧$2#韩剧$22#美剧$23#动漫$4",
+        "ocr": "https://api.xhofe.top/ocr/b64/text",
+        "数组二次截取": "class=\"v_list\">&&</ul>",
+        "数组": "\"v_img\"&&/div>",
+        "标题": "title=\"&&\"",
+        "副标题": "v_note\"&&</div",
+        "请求头": "User-Agent$电脑",
+        "搜索模式": "1",
+        "搜索url": "/search.php?searchword={wd}",
+        "搜索数组": "class=\"v_img&&</a",
+        "搜索图片": "data-original=\"&&\"",
+        "搜索标题": "title=\"&&\"",
+        "搜索链接": "href=\"&&\"",
+        "跳转播放链接": "<iframe*src=\"&&\"",
+        "二次跳转播放链接": "https://hkjx.hhplayer.com/api.php;post;url=+var url*\"&&\"+&t=+var t*\"&&\"+&key=+var key*\"&&\"+&act=0+&play=1",
+        "三次跳转播放链接": "\"url\"*\"&&\""
+      }
     },    
     {
       "key": "搜狗",
@@ -518,7 +475,7 @@
       "key": "push_agent",
       "name": "链接┃推送",
       "type": 3,
-      "api": "csp_PushAgent",
+      "api": "csp_Push",
       "searchable": 1,
       "quickSearch": 1,
       "ext": "./token.txt"
