@@ -70,26 +70,56 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
+    },
+    {
+      "key": "Wogg",
+      "name": "玩偶┃哥哥",
+      "type": 3,
+      "api": "csp_XPathAli",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "./lib/玩偶哥哥.json"
     },    
     {
-      "key":"csp_XPathAli",
+      "key":"蚂蚁",
       "name":"蚂蚁┃磁力",
       "type":3,
       "api":"csp_XPathAli",
       "searchable":1,
       "quickSearch":1,
       "filterable":1,
-      "ext":"./磁力/蚂蚁4k.json"
+      "ext":"./lib/蚂蚁磁力.json"
     },
     {
+      "key": "4k",
+      "name": "4khdr┃磁力",
+      "type": 3,
+      "api": "csp_XPathAli",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "./lib/4khdr磁力.json"
+    },    
+    {
       "key":"csp_XPathT2M",
-      "name":"音范丝┃磁力",
+      "name":"MP4┃磁力",
       "type":3,
       "api":"csp_XPathT2M",
       "searchable":1,
       "quickSearch":1,
       "filterable":1,
-      "ext":"./磁力/音范丝.json"
+      "ext":"./lib/MP4磁力.json"
+    },
+    {
+      "key": "yinfans",
+      "name": "范丝┃磁力",
+      "type": 3,
+      "api": "csp_XPath",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "./lib/音范磁力.json"
     },    
     {
       "key":"酷云七七",
@@ -108,24 +138,6 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1
-    },
-    {
-      "key": "csp_Bt0",
-      "name": "不太灵┃影视",
-      "type": 3,
-      "api": "csp_Bt0",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
-    },
-    {
-      "key": "csp_CCTV",
-      "name": "CCTV┃频道",
-      "type": 3,
-      "api": "csp_CCTV",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
     },    
     {
       "key": "csp_Mdygang",
@@ -138,7 +150,7 @@
     },
     {
       "key":"csp_Seedhub",
-      "name":"影视┃动漫",
+      "name":"Seedhub┃磁力",
       "type":3,
       "api":"csp_Seedhub",
       "playerType":1,
@@ -148,7 +160,7 @@
     },
     {
       "key":"csp_RinHome",
-      "name":"RinHome┃影视",
+      "name":"荐片┃秒播",
       "type":3,
       "api":"csp_RinHome",
       "playerType":1,
@@ -232,21 +244,11 @@
       "changeable": 0
     },    
     {
-      "key":"拳皇争霸",
+      "key":"武享吧",
       "name":"拳皇┃争霸",
       "type":3,
       "api":"./lib/drpy2.min.js",
-      "ext":"./js/拳皇.js"
-    },
-    {
-      "key": "csp_WoGG",
-      "name": "玩偶┃哥哥",
-      "type": 3,
-      "api": "csp_XYQHikerAL",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "ext": "./XYQHiker/玩偶哥哥.json"
+      "ext":"./js/武享吧.js"
     },
     {
       "key": "影探",
@@ -289,12 +291,14 @@
       "ext": "https://api123.adys.app/xgapp.php/v3/"
     },
     {
-      "key": "双十",
-      "name": "双十┃电影",
+      "key": "csp_101",
+      "name": "101┃影视",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
-      "ext": "./XBPQ/双十影视.json"
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./XBPQ/101影视.json"
     },    
     {
       "key": "搜狗",
@@ -440,7 +444,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
-      "ext": "./token.txt+4k|fhd|auto$$$fanfan$$$qqq111"
+      "ext": "./token.txt+4k|fhd|auto$$$abcd1984$$$38dUhPLPy34vVYU"
     },
     {
       "key": "PanSou",
@@ -629,18 +633,7 @@
       "quickSearch":1,
       "filterable":1,
       "ext":"./XYQHiker/土拨鼠搜索.json"
-    },    
-    {
-      "key": "电影牛",
-      "name":"牛牛┃影院",
-      "type":3,
-      "api":"csp_XYQHiker",
-      "playerType":1,
-      "searchable":1,
-      "quickSearch":1,
-      "filterable":1,
-      "ext":"./XYQHiker/电影牛影院.json"
-    },    
+    },       
     {
       "key": "cjzy_暴风资源",
       "name": "暴风┃影视",
