@@ -55,8 +55,8 @@
       "key": "小雅",
       "name": "小雅┃网盘",
       "type": 3,
-      "api": "./lib/alist.min.js",
-      "ext": "./lib/alist.json",
+      "api": "https://ghproxy.com/https://raw.githubusercontent.com/qq1719248506/dr_py/main/libs/alist.min.js",
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/qq1719248506/dr_py/main/libs/alist.json",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
@@ -132,9 +132,23 @@
       "key":"drpy_js_武享吧",
       "name":"拳皇┃争霸",
       "type":3,
-      "api":"./lib/drpy2.min.js",
-      "ext":"./js/武享吧.js"
+      "api":"https://ghproxy.com/https://raw.githubusercontent.com/qq1719248506/dr_py/main/libs/drpy2.min.js",
+      "ext":"https://ghproxy.com/https://raw.githubusercontent.com/qq1719248506/dr_py/main/js/武享吧.js"
     },
+    {
+      "key": "drpy_js_双十电影",
+      "name": "双十┃电影",
+      "type": 3,
+      "api": "https://ghproxy.com/https://raw.githubusercontent.com/qq1719248506/dr_py/main/libs/drpy2.min.js",
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/qq1719248506/dr_py/main/js/双十电影.js"
+    },
+    {
+      "key": "drpy_js_扛把子影院",
+      "name": "九零┃影城",
+      "type": 3,
+      "api": "https://ghproxy.com/https://raw.githubusercontent.com/qq1719248506/dr_py/main/libs/drpy2.min.js",
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/qq1719248506/dr_py/main/js/扛把子影院.js"
+    },    
     {
       "key": "音范丝",
       "name": "范丝┃磁力",
