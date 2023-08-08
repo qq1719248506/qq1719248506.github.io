@@ -438,58 +438,6 @@
       "filterable": 0,
       "categories":["电影","电视剧","综艺","动漫"],
       "ext": "http://cms.maoyingshi.cc/api.php/app/"
-    },
-    {
-      "key": "骚火",
-      "name":"骚火┃影院",
-      "type":3,
-      "api":"csp_XBiu",
-      "searchable":1,
-      "quickSearch":1,
-      "filterable":1,
-      "ext":"https://shdy2.com/list/{cateId}-{catePg}.html"
-    },
-    {
-      "key": "八戒",
-      "name": "八戒┃影院",
-      "type": 3,
-      "api": "csp_XBiu",
-      "searchable": 1,
-      "ext": "https://bjaxxy.com/vodtype/{cateId}-{catePg}.html"
-    },
-    {
-      "key": "555",
-      "name": "555┃影视",
-      "type": 3,
-      "api": "csp_XBiu",
-      "searchable": 1,
-      "ext": "https://www.555dy1.com/vodshow/{cateId}--------{catePg}---.html"
-    },    
-    {
-      "key": "voflix",
-      "name": "voflix┃影视",
-      "type": 3,
-      "api": "csp_XBiu",
-      "searchable": 1,
-      "ext": "https://www.voflix.me/type/{cateId}-{catePg}.html"
-    },
-    {
-      "key": "雪糕",
-      "name": "雪糕┃影视",
-      "type": 3,
-      "api": "csp_XBiu",
-      "searchable": 1,
-      "ext": "https://www.xgitv.com/vtype/{cateId}-{catePg}.html"
-    },    
-    {
-      "key": "悟空",
-      "name":"悟空┃影院",
-      "type":3,
-      "api":"csp_XBiu",
-      "searchable":1,
-      "quickSearch":1,
-      "filterable":1,
-      "ext":"https://www.dlxzsjz.com/vodtype/{cateId}-{catePg}.html"
     },    
     {
       "key": "AliYunPan",
@@ -501,51 +449,7 @@
       "quickSearch":1,
       "filterable":1,
       "ext":"./token.txt"
-    },
-    {
-      "key": "我的小站",
-      "name":"阿里┃小站",
-      "type":3,
-      "api":"csp_XYQHikerAL",
-      "playerType":1,
-      "searchable":1,
-      "quickSearch":1,
-      "filterable":1,
-      "ext":"./XYQHiker/我的小站.json"
-    },
-    {
-      "key": "云盘分享",
-      "name":"云盘┃分享",
-      "type":3,
-      "api":"csp_XYQBiu",
-      "playerType":1,
-      "searchable":1,
-      "quickSearch":1,
-      "filterable":1,
-      "ext":"./XYQBiu/云盘分享.json"
-    },
-    {
-      "key": "橘子盘搜",
-      "name":"橘子┃盘搜",
-      "type":3,
-      "api":"csp_XYQHiker",
-      "playerType":1,
-      "searchable":1,
-      "quickSearch":1,
-      "filterable":1,
-      "ext":"./XYQHiker/橘子盘搜.json"
-    },
-    {
-      "key": "土拨鼠搜索",
-      "name":"土拨鼠┃搜索",
-      "type":3,
-      "api":"csp_XYQHiker",
-      "playerType":1,
-      "searchable":1,
-      "quickSearch":1,
-      "filterable":1,
-      "ext":"./XYQHiker/土拨鼠搜索.json"
-    },       
+    },      
     {
       "key": "cjzy_暴风资源",
       "name": "暴风┃影视",
