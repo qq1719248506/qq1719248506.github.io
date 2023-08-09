@@ -63,8 +63,8 @@
       "key": "小雅",
       "name": "小雅┃网盘",
       "type": 3,
-      "api": "https://ghproxy.com/https://raw.githubusercontent.com/qq1719248506/dr_py/main/libs/alist.min.js",
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/qq1719248506/dr_py/main/libs/alist.json",
+      "api": "./lib/alist.min.js",
+      "ext": "./js/alist.json",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
@@ -188,10 +188,10 @@
       "key": "csp_SP360",
       "name": "360┃官源",
       "type": 3,
-      "api": "csp_XBPQ",
+      "api": "csp_360",
       "searchable": 1,
       "changeable": 0,
-      "ext": "./XBPQ/360影视.json"
+      "ext": ""
     },
     {
       "key":"drpy_js_武享吧",
