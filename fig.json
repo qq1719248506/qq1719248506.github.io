@@ -418,6 +418,40 @@
       "ext": "./json/duboku.json$$$socks5://192.168.0.100:4592"
     },
     {
+      "key": "策驰",
+      "name": "策驰┃影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "ext": "./XBPQ/策驰.json",
+      "jar": "./XBPQ.jar"
+    },
+    {
+      "key": "新视觉",
+      "name": "视觉┃影院",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": "./XBPQ/视觉影院.json",
+      "jar": "./XBPQ.jar"
+    },    
+    {
+      "key": "胖虎",
+      "name": "胖虎┃影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": "./XBPQ/胖虎.json",
+      "jar": "./XBPQ.jar"
+    },    
+    {
+      "key": "土豪",
+      "name": "土豪┃影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "ext": "./XBPQ/土豪.json",
+      "jar": "./XBPQ.jar"
+    },    
+    {
       "key": "888解忧愁",
       "name": "解忧",
       "type": 4,
