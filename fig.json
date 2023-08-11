@@ -1,5 +1,5 @@
 {
-  "spider": "./fm.jar;md5;0a6572ac2dbcb0185cad5faeabb93502",
+  "spider": "./jar/fm.jar;md5;0a6572ac2dbcb0185cad5faeabb93502",
   "lives": [
     {
       "name": "初秋语•综合",
@@ -33,7 +33,7 @@
       "name": "豆瓣",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "./lib/drpy.js",
+      "ext": "./js/drpy.js",
       "searchable": 1,
       "quickSearch": 0,
       "changeable": 0
@@ -43,7 +43,7 @@
       "name": "熊搜",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "./lib/cilixiong.js",
+      "ext": "./js/cilixiong.js",
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 1
@@ -53,7 +53,7 @@
       "name": "片场",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "./lib/新片场.js",
+      "ext": "./js/新片场.js",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0
@@ -85,7 +85,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "ext": "./lib/ikanbot3.js"
+      "ext": "./js/ikanbot3.js"
     },
     {
       "key": "drpy_js_荐片",
@@ -95,7 +95,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "ext": "./lib/荐片.js"
+      "ext": "./js/荐片.js"
     },
     {
       "key": "csp_DiDuan",
@@ -338,7 +338,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
-      "ext": "./lib/磁力熊[磁].js"
+      "ext": "./js/磁力熊[磁].js"
     },
     {
       "key": "csp_BLSGod",
@@ -415,7 +415,7 @@
       "api": "csp_XPathMacFilter",
       "searchable": 1,
       "changeable": 1,
-      "ext": "./json/duboku.json$$$socks5://192.168.0.100:4592"
+      "ext": "./XPathMacFilter/duboku.json$$$socks5://192.168.0.100:4592"
     },
     {
       "key": "策驰",
@@ -424,7 +424,7 @@
       "api": "csp_XBPQ",
       "searchable": 1,
       "ext": "./XBPQ/策驰.json",
-      "jar": "./XBPQ.jar"
+      "jar": "./jar/XBPQ.jar"
     },
     {
       "key": "新视觉",
@@ -432,7 +432,7 @@
       "type": 3,
       "api": "csp_XBPQ",
       "ext": "./XBPQ/视觉影院.json",
-      "jar": "./XBPQ.jar"
+      "jar": "./jar/XBPQ.jar"
     },    
     {
       "key": "胖虎",
@@ -440,7 +440,7 @@
       "type": 3,
       "api": "csp_XBPQ",
       "ext": "./XBPQ/胖虎.json",
-      "jar": "./XBPQ.jar"
+      "jar": "./jar/XBPQ.jar"
     },    
     {
       "key": "土豪",
@@ -449,7 +449,7 @@
       "api": "csp_XBPQ",
       "searchable": 1,
       "ext": "./XBPQ/土豪.json",
-      "jar": "./XBPQ.jar"
+      "jar": "./jar/XBPQ.jar"
     },    
     {
       "key": "888解忧愁",
@@ -465,7 +465,7 @@
       "key": "廠長",
       "name": "廠長",
       "type": 3,
-      "api": "./lib/czzy_open.js",
+      "api": "https://fongmi.cachefly.net/FongMi/CatVodOpen/main/open/czzy_open.js",
       "searchable": 1,
       "changeable": 1
     },
@@ -473,7 +473,7 @@
       "key": "愛看",
       "name": "愛看",
       "type": 3,
-      "api": "./lib/ikanbot_open.js",
+      "api": "https://fongmi.cachefly.net/FongMi/CatVodOpen/main/open/ikanbot_open.js",
       "searchable": 1,
       "changeable": 1
     },
@@ -481,7 +481,7 @@
       "key": "快看",
       "name": "快看",
       "type": 3,
-      "api": "./lib/kkys_open.js",
+      "api": "https://fongmi.cachefly.net/FongMi/CatVodOpen/main/open/kkys_open.js",
       "searchable": 1,
       "changeable": 1
     },
