@@ -75,7 +75,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "ext": "http://127.0.0.1:9978/file/tvbox/cca6ce93-6413-4d0f-802a-8a2bd91dec7c/token.txt"
+      "ext": "./token.txt"
     },
     {
       "key": "drpy_js_ikanbot3",
@@ -105,7 +105,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "ext": "$$$socks5://192.168.5.227:4592"
+      "ext": "$$$socks5://192.168.0.100:4592"
     },
     {
       "key": "csp_DuoX",
@@ -124,7 +124,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "$$$socks5://192.168.5.227:4592"
+      "ext": "$$$socks5://192.168.0.100:4592"
     },
     {
       "key": "csp_fantuan",
@@ -191,7 +191,7 @@
       "api": "csp_NiNi",
       "searchable": 1,
       "changeable": 1,
-      "ext": "0;socks5://192.168.5.227:4592"
+      "ext": "0;socks5://192.168.0.100:4592"
     },
     {
       "key": "星星",
@@ -200,7 +200,7 @@
       "api": "csp_Star",
       "searchable": 1,
       "changeable": 1,
-      "ext": "socks5://192.168.5.227:4592"
+      "ext": "socks5://192.168.0.100:4592"
     },
     {
       "key": "櫻花",
@@ -265,7 +265,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "http://127.0.0.1:9978/file/tvfan/tokengo.txt"
+      "ext": "./token.txt"
     },
     {
       "key": "七夜",
@@ -274,7 +274,7 @@
       "api": "csp_Dovx",
       "searchable": 1,
       "changeable": 0,
-      "ext": "http://127.0.0.1:9978/file/tvbox/cca6ce93-6413-4d0f-802a-8a2bd91dec7c/token.txt"
+      "ext": "./token.txt"
     },
     {
       "key": "盤搜索",
@@ -283,7 +283,7 @@
       "api": "csp_PanSearch",
       "searchable": 1,
       "changeable": 0,
-      "ext": "http://127.0.0.1:9978/file/tvbox/cca6ce93-6413-4d0f-802a-8a2bd91dec7c/token.txt"
+      "ext": "./token.txt"
     },
     {
       "key": "找資源",
@@ -292,42 +292,42 @@
       "api": "csp_Zhaozy",
       "searchable": 1,
       "changeable": 0,
-      "ext": "http://127.0.0.1:9978/file/tvbox/cca6ce93-6413-4d0f-802a-8a2bd91dec7c/token.txt"
+      "ext": ./token.txt"
     },
     {
       "key": "易搜",
       "name": "易搜",
       "type": 3,
       "api": "csp_YiSo",
-      "ext": "http://127.0.0.1:9978/file/tvbox/cca6ce93-6413-4d0f-802a-8a2bd91dec7c/token.txt"
+      "ext": "./token.txt"
     },
     {
       "key": "土狗",
       "name": "土狗",
       "type": 3,
       "api": "csp_TuGou",
-      "ext": "http://127.0.0.1:9978/file/tvbox/cca6ce93-6413-4d0f-802a-8a2bd91dec7c/token.txt"
+      "ext": "./token.txt"
     },
     {
       "key": "盘搜",
       "name": "盘搜",
       "type": 3,
       "api": "csp_PanSou",
-      "ext": "http://127.0.0.1:9978/file/tvbox/cca6ce93-6413-4d0f-802a-8a2bd91dec7c/token.txt"
+      "ext": "./token.txt"
     },
     {
       "key": "UP云搜",
       "name": "云搜",
       "type": 3,
       "api": "csp_UpYun",
-      "ext": "http://127.0.0.1:9978/file/tvbox/cca6ce93-6413-4d0f-802a-8a2bd91dec7c/token.txt"
+      "ext": "./token.txt"
     },
     {
       "key": "Sean",
       "name": "肖恩",
       "type": 3,
       "api": "csp_Sean",
-      "ext": "http://127.0.0.1:9978/file/tvfan/tokengo.txt"
+      "ext": "./token.txt"
     },
     {
       "key": "drpy_js_磁力熊[磁]",
@@ -415,7 +415,7 @@
       "api": "csp_XPathMacFilter",
       "searchable": 1,
       "changeable": 1,
-      "ext": "./json/duboku.json$$$socks5://192.168.5.227:4592"
+      "ext": "./json/duboku.json$$$socks5://192.168.0.100:4592"
     },
     {
       "key": "888解忧愁",
@@ -585,7 +585,7 @@
       "name": "推送",
       "type": 3,
       "api": "csp_Push",
-      "ext": "http://127.0.0.1:9978/file/tvbox/cca6ce93-6413-4d0f-802a-8a2bd91dec7c/token.txt"
+      "ext": "./token.txt"
     }
   ],
   "doh": [
