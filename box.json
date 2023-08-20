@@ -528,11 +528,10 @@
       "key": "push_agent",
       "name": "链接┃推送",
       "type": 3,
-      "api": "csp_PushAgent",
+      "api": "csp_Push",
       "searchable": 1,
       "quickSearch": 1,
-      "ext": "./token.txt",
-      "jar":"./jar/custom_spider.jar;md5;5f2f2f6f4e44a83ab22ebf0a7e9b5c96"
+      "ext": "./token.txt"
     }
   ],
   "parses": [
