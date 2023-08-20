@@ -391,7 +391,17 @@
       "quickSearch": 1,
       "filterable": 0,
       "ext": "./XBPQ/夜光.json"
-    },        
+    },
+    {
+      "key": "晨光",
+      "name": "️晨光┃影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "./XBPQ/晨光.json"
+    },    
     {
       "key": "量子",
       "name": "量子┃影视",
@@ -421,7 +431,7 @@
       "name": "视觉┃影院",
       "type": 3,
       "api": "csp_XBPQ",
-      "ext": "./XBPQ/视觉影院.json"
+      "ext": "./XBPQ/新视觉.json"
     },    
     {
       "key": "胖虎",
@@ -436,6 +446,14 @@
       "type": 3,
       "api": "csp_XBPQ",
       "ext": "./XBPQ/石榴.json"
+    },
+    {
+      "key": "鸡婆",
+      "name": "鸡婆┃影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "ext": "./XBPQ/鸡婆.json"
     },    
     {
       "key": "土豪",
