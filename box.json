@@ -45,7 +45,7 @@
         "type": "rect",
         "ratio": 1.597
       },
-      "searchable": 1,
+      "searchable": 0,
       "quickSearch": 0,
       "changeable": 0,
       "ext": "./Bili/Blixs.json"
@@ -199,13 +199,14 @@
       "api": "csp_Dy1010",
       "searchable": 1,
       "quickSearch": 1,
-      "changeable": 1
+      "changeable": 1,
+      "ext": "https://www.1010dy3.com/"
     },    
     {
       "key": "csp_SP360",
       "name": "360┃官源",
       "type": 3,
-      "api": "csp_360",
+      "api": "csp_SP360",
       "searchable": 1,
       "changeable": 0,
       "ext": ""
@@ -249,7 +250,7 @@
     },
     {
       "key": "AliYunPan",
-      "name": "网盘登录|签到",
+      "name": "网盘|签到",
       "type": 3,
       "api": "csp_AliYunPan",
       "searchable": 0,
@@ -280,7 +281,7 @@
     },
     {
       "key": "Zhaozy",
-      "name": "找片┃搜索",
+      "name": "搜片┃阿里",
       "type": 3,
       "api": "csp_Zhaozy",
       "searchable": 1,
@@ -336,7 +337,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./XBPQ/苹果影视.json"
+      "ext": "./XBPQ/苹果.json"
     },    
     {
       "key": "saohuo",
@@ -381,27 +382,7 @@
       "api": "csp_XBPQ",
       "playerType": "1",
       "ext": "./XBPQ/奇优.json"
-    },    
-    {
-      "key": "夜光",
-      "name": "️夜光┃影视",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "./XBPQ/夜光.json"
-    },
-    {
-      "key": "晨光",
-      "name": "️晨光┃影视",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "./XBPQ/晨光.json"
-    },    
+    },        
     {
       "key": "量子",
       "name": "量子┃影视",
