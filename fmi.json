@@ -1,5 +1,5 @@
 {
-  "spider": "./jar/fan.jar;md5;1574c67aebde607c355133a22406aa7a",
+  "spider": "./jar/fmi.jar;md5;a9e188f03e9099d54ffe46d261ea3a9e",
   "wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
   "sites": [
     {
@@ -55,7 +55,7 @@
         "type": "rect",
         "ratio": 1.597
       },
-      "searchable": 1,
+      "searchable": 0,
       "quickSearch": 0,
       "changeable": 0,
       "ext": "./Bili/Blixs.json"
@@ -126,116 +126,10 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./js/lf_live.txt"
-    },
-    {
-      "key": "drpy_js_4KHDR",
-      "name": "4KHDR*",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./js/4khdr.js",
-      "playerType": "1",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
-    },
-    {
-      "key": "drpy_js_极影网",
-      "name": "极影网*",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./js/jiyingw.js",
-      "playerType": "1",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
-    },
-    {
-      "key": "drpy_js_MP4US",
-      "name": "MP4电影*",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./js/mp4us.js",
-      "playerType": "1",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
-    },
-    {
-      "key": "drpy_js_电影港",
-      "name": "电影港*",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./js/dygang.js",
-      "playerType": "1",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
-    },
-    {
-      "key": "drpy_js_极影网P",
-      "name": "极影网P*",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./js/jiyingwp.js",
-      "playerType": "1",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
-    },
-    {
-      "key": "drpy_js_磁力熊p",
-      "name": "磁力熊p*",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./js/cilixiongp.js",
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 1
-    },
-    {
-      "key": "drpy_js_xb6v",
-      "name": "新版6v*",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./js/xb6v.js",
-      "playerType": "1",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
-    },
-    {
-      "key": "drpy_js_美剧迷",
-      "name": "美剧迷*",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./js/meijumi.js",
-      "quickSearch": 1,
-      "changeable": 1,
-      "timeout": 60000
-    },
-    {
-      "key": "drpy_js_kkpans",
-      "name": "夸克",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./js/kkpans.js",
-      "quickSearch": 1,
-      "changeable": 1,
-      "timeout": 60000
-    },
-    {
-      "key": "drpy_js_kuba",
-      "name": "酷吧",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./js/kuba.js",
-      "quickSearch": 1,
-      "changeable": 1,
-      "timeout": 60000
     },       
     {
       "key": "csp_WoGG",
-      "name": "玩偶┃哥哥",
+      "name": "哥哥",
       "type": 3,
       "api": "csp_WoGG",
       "searchable": 1,
@@ -245,7 +139,7 @@
     },
     {
       "key": "csp_Kunyu77",
-      "name": "七七┃App",
+      "name": "七七",
       "type": 3,
       "api": "csp_Kunyu77",
       "searchable": 1,
@@ -254,7 +148,7 @@
     },
     {
       "key":"csp_Czsapp",
-      "name":"廠長┃影视",
+      "name":"廠長",
       "type":3,
       "api":"csp_Czsapp",
       "playerType":2,
@@ -265,7 +159,7 @@
     },
     {
       "key": "csp_YGP",
-      "name": "新片┃速递",
+      "name": "新片",
       "type": 3,
       "api": "csp_YGP",
       "searchable": 0,
@@ -274,7 +168,7 @@
     },   
     {
       "key": "陌陌",
-      "name": "陌陌┃App",
+      "name": "陌陌",
       "type": 3,
       "api": "csp_AppYsV2",
       "searchable": 1,
@@ -283,21 +177,12 @@
       "ext": "http://guan.yy365.vip/api.php/app/"
     },
     {
-      "key": "push_agent",
-      "name": "推送ali",
-      "type": 3,
-      "api": "csp_Push",
-      "searchable": 0,
-      "quickSearch": 0,
-      "ext": "http://127.0.0.1:9978/file/tvfan/tokengo.txt"
-    },
-    {
       "key": "push_quark",
       "name": "推送quark",
       "type": 3,
       "api": "csp_Quark",
       "changeable": 0,
-      "ext": "http://127.0.0.1:9978/file/tvfan/quark.txt"
+      "ext": "./token.txt+4k|fhd|auto"
     },
     {
       "key": "csp_DiDuan",
@@ -336,34 +221,15 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
-    },
-    {
-      "key": "csp_77",
-      "name": "七七",
-      "type": 3,
-      "api": "csp_Kunyu77",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "csp_Czsapp",
-      "name": "厂长",
-      "type": 3,
-      "api": "csp_Czsapp",
-      "playerType": 2,
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
     },   
     {
       "key": "csp_SP360",
       "name": "360┃官源",
       "type": 3,
-      "api": "csp_360",
+      "api": "csp_XBPQ",
       "searchable": 1,
       "changeable": 0,
-      "ext": ""
+      "ext": "./XBPQ/360.json"
     },
     {
       "key":"drpy_js_武享吧",
@@ -374,21 +240,21 @@
     },
     {
       "key": "drpy_js_南瓜",
-      "name": "南瓜┃影视",
+      "name": "南瓜",
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "ext": "./js/南瓜.js"
     },    
     {
       "key": "drpy_js_爱看",
-      "name": "爱看┃影视",
+      "name": "爱姬",
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "ext": "./js/ikanbot3.js"
     },    
     {
       "key": "drpy_js_扛把子影院",
-      "name": "九零┃影城",
+      "name": "九零",
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "ext": "./js/扛把子影院.js"
@@ -404,7 +270,7 @@
     },
     {
       "key": "AliYunPan",
-      "name": "网盘|签到",
+      "name": "签到",
       "type": 3,
       "api": "csp_AliYunPan",
       "searchable": 0,
@@ -486,17 +352,37 @@
     },    
     {
       "key": "csp_苹果",
-      "name": "苹果┃影视",
+      "name": "苹果",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./XBPQ/苹果影视.json"
-    },    
+      "ext": "./XBPQ/苹果.json"
+    },
+    {
+      "key": "csp_星辰",
+      "name": "星辰",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./XBPQ/星辰.json"
+    },
+    {
+      "key": "csp_明帝",
+      "name": "明帝",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./XBPQ/明帝.json"
+    },  
     {
       "key": "saohuo",
-      "name": "骚火┃电影",
+      "name": "骚火",
       "type": 3,
       "searchable": 1,
       "quickSearch": 1,
@@ -524,7 +410,7 @@
     },
     {
       "key": "真不卡",
-      "name": "不卡┃影院",
+      "name": "不卡",
       "type": 3,
       "api": "csp_XBPQ",
       "playerType": "1",
@@ -532,35 +418,31 @@
     },    
     {
       "key": "奇优",
-      "name": "奇优┃影院",
+      "name": "奇优",
       "type": 3,
       "api": "csp_XBPQ",
       "playerType": "1",
       "ext": "./XBPQ/奇优.json"
     },    
     {
-      "key": "夜光",
-      "name": "️夜光┃影视",
+      "key": "速搜",
+      "name": "速搜",
       "type": 3,
       "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "./XBPQ/夜光.json"
+      "playerType": "1",
+      "ext": "./XBPQ/速搜.json"
     },
     {
-      "key": "晨光",
-      "name": "️晨光┃影视",
+      "key": "酷茶",
+      "name": "酷茶",
       "type": 3,
       "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "./XBPQ/晨光.json"
+      "playerType": "1",
+      "ext": "./XBPQ/酷茶.json"
     },    
     {
       "key": "量子",
-      "name": "量子┃影视",
+      "name": "量子",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
@@ -568,7 +450,7 @@
     },
     {
       "key": "非凡",
-      "name": "非凡┃影视",
+      "name": "非凡",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
@@ -576,7 +458,7 @@
     },    
     {
       "key": "策驰",
-      "name": "策驰┃影视",
+      "name": "策驰",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
@@ -584,28 +466,28 @@
     },
     {
       "key": "新视觉",
-      "name": "视觉┃影院",
+      "name": "视觉",
       "type": 3,
       "api": "csp_XBPQ",
       "ext": "./XBPQ/新视觉.json"
     },    
     {
       "key": "胖虎",
-      "name": "胖虎┃影视",
+      "name": "胖虎",
       "type": 3,
       "api": "csp_XBPQ",
       "ext": "./XBPQ/胖虎.json"
     },
     {
       "key": "石榴",
-      "name": "石榴┃影视",
+      "name": "石榴",
       "type": 3,
       "api": "csp_XBPQ",
       "ext": "./XBPQ/石榴.json"
     },
     {
       "key": "鸡婆",
-      "name": "鸡婆┃影视",
+      "name": "鸡婆",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
@@ -613,7 +495,7 @@
     },    
     {
       "key": "土豪",
-      "name": "土豪┃影视",
+      "name": "土豪",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
@@ -621,7 +503,7 @@
     },
     {
       "key": "无尽",
-      "name": "无尽┃切片",
+      "name": "无尽",
       "type": 1,
       "api": "https://api.wujinapi.com/api.php/provide/vod",
       "searchable": 1,
@@ -641,7 +523,7 @@
     },    
     {
       "key": "zy_新浪",
-      "name": "新浪┃切片",
+      "name": "新浪",
       "type": 1,
       "api": "https://api.xinlangapi.com/xinlangapi.php/provide/vod/",
       "searchable": 1,
@@ -670,7 +552,7 @@
     },    
     {
       "key": "快看资源",
-      "name": "快看┃切片",
+      "name": "快看",
       "type": 1,
       "api": "https://kuaikan-api.com/api.php/provide/vod/?ac=list",
       "searchable": 1,
@@ -1014,6 +896,42 @@
     } 
   ],
   "rules": [
+    {
+      "name": "暴风廣告",
+      "hosts": [
+        "bfzy",
+        "s5.bfzycdn"
+      ],
+      "regex": [
+        "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:3,[\\s\\S]*?#EXT-X-DISCONTINUITY"
+      ]
+    },
+    {
+      "name": "磁力廣告",
+      "hosts": [
+        "magnet"
+      ],
+      "regex": [
+        "更多",
+        "社區",
+        "xuu",
+        "最新",
+        "最新",
+        "直播",
+        "更新",
+        "社区",
+        "有趣",
+        "有趣",
+        "英皇体育",
+        "全中文AV在线",
+        "澳门皇冠赌场",
+        "哥哥快来",
+        "美女荷官",
+        "裸聊",
+        "新片首发",
+        "UUE29"
+      ]
+    },    
     {
       "name": "量子",
       "hosts": [
