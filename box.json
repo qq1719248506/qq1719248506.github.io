@@ -1,7 +1,16 @@
 {
-  "spider": "./jar/fan.jar;md5;1574c67aebde607c355133a22406aa7a",
+  "spider": "./jar/panda.jar;md5;f1a277f4c11b7aa06b09378699437c6e",
   "wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
   "sites": [
+    {
+      "key": "豆豆",
+      "name": "豆瓣┃热播",
+      "type": 3,
+      "api": "csp_DouDou",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0
+    },    
     {
       "key":"py_cctv",
       "name": "央视┃大全",
@@ -55,6 +64,9 @@
       "name": "明星┃MV",
       "type": 1,
       "api": "https://mv.wogg.link/mv/vod",
+      "style": {
+        "type": "oval"
+      },
       "searchable": 1,
       "quickSearch": 0,
       "changeable": 0
@@ -191,26 +203,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1
-    },
-    {
-      "key": "csp_Dy1010",
-      "name": "双十┃电影",
-      "type": 3,
-      "api": "csp_Dy1010",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "https://www.1010dy3.com/"
     },    
-    {
-      "key": "csp_SP360",
-      "name": "360┃官源",
-      "type": 3,
-      "api": "csp_SP360",
-      "searchable": 1,
-      "changeable": 0,
-      "ext": ""
-    },
     {
       "key":"drpy_js_武享吧",
       "name":"拳皇┃争霸",
@@ -250,7 +243,7 @@
     },
     {
       "key": "AliYunPan",
-      "name": "网盘|签到",
+      "name": "网盘┃签到",
       "type": 3,
       "api": "csp_AliYunPan",
       "searchable": 0,
@@ -330,6 +323,16 @@
       "ext": "./token.txt+4k|fhd|auto"
     },
     {
+      "key": "360",
+      "name": "360",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./XBPQ/360.json"
+    },    
+    {
       "key": "csp_苹果",
       "name": "苹果┃影视",
       "type": 3,
@@ -338,6 +341,26 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./XBPQ/苹果.json"
+    },
+    {
+      "key": "csp_星辰",
+      "name": "星辰",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./XBPQ/星辰.json"
+    },
+    {
+      "key": "csp_明帝",
+      "name": "明帝",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./XBPQ/明帝.json"
     },    
     {
       "key": "saohuo",
