@@ -79,23 +79,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
-    },
-    {
-      "key": "ali_cli",
-      "name": "聚搜┃磁力",
-      "type": 4,
-      "api": "http://home.jundie.top:9520/ali/cli_Ali"
-    },   
-    {
-      "key": "小雅",
-      "name": "小雅┃网盘",
-      "type": 3,
-      "api": "./lib/alist.min.js",
-      "ext": "./lib/alist.json",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },       
+    },          
     {
       "key": "csp_WoGG",
       "name": "玩偶┃哥哥",
@@ -324,7 +308,7 @@
     },
     {
       "key": "360",
-      "name": "360",
+      "name": "360┃影视",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
@@ -343,8 +327,8 @@
       "ext": "./XBPQ/苹果.json"
     },
     {
-      "key": "csp_星辰",
-      "name": "星辰",
+      "key": "星辰",
+      "name": "星辰┃影视",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
@@ -353,8 +337,8 @@
       "ext": "./XBPQ/星辰.json"
     },
     {
-      "key": "csp_明帝",
-      "name": "明帝",
+      "key": "明帝",
+      "name": "明帝┃影视",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
