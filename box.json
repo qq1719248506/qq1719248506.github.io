@@ -1,5 +1,5 @@
 {
-  "spider": "./jar/panda.jar;md5;f1a277f4c11b7aa06b09378699437c6e",
+  "spider": "./jar/fan.jar;md5;15ab3cda74b85645d6d3568687a8c530",
   "wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
   "sites": [
     {
@@ -157,7 +157,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "ext": "vvvwvwvvwwvwvvvwvvwwvvvwwwwvvvvwvvvwwvvvwwwvvwvwvvwvvvvw.lyyytv.cn"
+      "ext": "vip.lyyytv.cn"
     },
     {
       "key": "csp_YQKAPP",
