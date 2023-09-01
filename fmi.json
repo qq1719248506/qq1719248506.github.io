@@ -108,13 +108,6 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./js/lf_live.txt"
-    },
-    {
-      "key": "酷我",
-      "name": "酷我",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./js/kuwo.js"
     },    
     {
       "key": "玩偶",
@@ -130,7 +123,7 @@
     },
     {
       "key": "Gitcafe",
-      "name": "Gitcafe",
+      "name": "紙條jun",
       "type": 4,
       "api": "http://home.jundie.top:9520/spider/cli_gitCafe",
       "searchable": 1,
@@ -141,7 +134,8 @@
       "key": "廠長",
       "name": "廠長",
       "type": 3,
-      "api": "./js/czzy_open.js",
+      "api":"./lib/cat.js",
+      "ext": "./js/czzy_open.js",
       "searchable": 1,
       "changeable": 1
     },
@@ -149,13 +143,17 @@
       "key":"南瓜",
       "name":"南瓜",
       "type":3,
-      "api":"./js/ng_open.js"
+      "api":"./lib/cat.js",
+      "ext":"./js/ng_open.js",
+       "searchable": 1,
+      "changeable": 1     
     },
     {
       "key": "愛看",
       "name": "愛看",
       "type": 3,
-      "api": "./js/ikanbot_open.js",
+      "api":"./lib/cat.js",
+      "ext": "./js/ikanbot_open.js",
       "searchable": 1,
       "changeable": 1
     },
@@ -163,7 +161,8 @@
       "key": "快看",
       "name": "快看",
       "type": 3,
-      "api": "./js/kkys_open.js",
+      "api":"./lib/cat.js",
+      "ext": "./js/kkys_open.js",
       "searchable": 1,
       "changeable": 1
     },
@@ -200,7 +199,25 @@
       "type":3,
       "api":"./lib/drpy2.min.js",
       "ext":"./js/武享吧.js"
-    },    
+    },
+    {
+      "key":"drpy_js_ikanbot3",
+      "name":"爱姬",
+      "type":3,
+      "api":"./lib/drpy2.min.js",
+      "searchable":1,
+      "ext":"./js/ikanbot3.js"
+    },
+    {
+      "key":"drpy_js_磁力熊搜索",
+      "name":"熊搜",
+      "type":3,
+      "api":"./lib/drpy2.min.js",
+      "ext":"./js/cilixiong.js",
+      "searchable":0,
+      "quickSearch":0,
+      "changeable":1
+    },
     {
       "key":"AList",
       "name": "Alist",
