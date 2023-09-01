@@ -134,26 +134,15 @@
       "key": "廠長",
       "name": "廠長",
       "type": 3,
-      "api":"./lib/cat.js",
-      "ext": "./js/czzy_open.js",
+      "api": "https://fongmi.cachefly.net/FongMi/CatVodOpen/main/open/czzy_open.js",
       "searchable": 1,
       "changeable": 1
-    },
-    {
-      "key":"南瓜",
-      "name":"南瓜",
-      "type":3,
-      "api":"./lib/cat.js",
-      "ext":"./js/ng_open.js",
-       "searchable": 1,
-      "changeable": 1     
     },
     {
       "key": "愛看",
       "name": "愛看",
       "type": 3,
-      "api":"./lib/cat.js",
-      "ext": "./js/ikanbot_open.js",
+      "api": "https://fongmi.cachefly.net/FongMi/CatVodOpen/main/open/ikanbot_open.js",
       "searchable": 1,
       "changeable": 1
     },
@@ -161,8 +150,7 @@
       "key": "快看",
       "name": "快看",
       "type": 3,
-      "api":"./lib/cat.js",
-      "ext": "./js/kkys_open.js",
+      "api": "https://fongmi.cachefly.net/FongMi/CatVodOpen/main/open/kkys_open.js",
       "searchable": 1,
       "changeable": 1
     },
