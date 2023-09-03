@@ -233,11 +233,11 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext":"./token.txt",
+      "ext":"./token.txt+4k|fhd|auto",
       "timeout":30
     },
     {
-      "key": "Gitcafe",
+      "key": "小紙條",
       "name": "小紙條",
       "type": 3,
       "api": "csp_csp_XiaoZhiTiao",
