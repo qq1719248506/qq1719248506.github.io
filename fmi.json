@@ -1,5 +1,5 @@
 {
-  "spider": "./jar/fm.jar;md5;01279bcf0c0a2e31b12226329eb25866",
+  "spider": "./jar/fmi.jar",
   "wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
   "sites": [    
     {
@@ -43,7 +43,7 @@
       "name": "明星",
       "type": 1,
       "api": "https://mv.wogg.link/mv/vod",
-      "searchable": 1,
+      "searchable": 0,
       "quickSearch": 0,
       "changeable": 0
     },
@@ -123,7 +123,7 @@
     },
     {
       "key": "Gitcafe",
-      "name": "紙條jun",
+      "name": "紙條",
       "type": 4,
       "api": "http://home.jundie.top:9520/spider/cli_gitCafe",
       "searchable": 1,
@@ -226,81 +226,60 @@
       "jar":"./jar/app.jar;md5;178de44b71a6d7abfa3223ed77e04d29"
     },
     {
-      "key":"紙條",
-      "name": "紙條",
+      "key": "紙條搜",
+      "name": "紙條搜",
       "type": 3,
-      "api": "csp_Gitcafe",
+      "api": "csp_XiaoZhiTiao",
       "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext":"./token.txt+4k|fhd|auto",
-      "timeout":30
-    },
-    {
-      "key": "小紙條",
-      "name": "小紙條",
-      "type": 3,
-      "api": "csp_csp_XiaoZhiTiao",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "./token.txt"
-    },
-    {
-      "key":"csp_Hdhive",
-      "name":"影巢",
-      "type":3,
-      "api":"csp_Hdhive",
-      "ext":"./token.txt+4k|fhd|auto",
-      "timeout":30
+      "ext":"./token.txt+4k|fhd|auto"
     },
     {
       "key": "七夜",
       "name": "七夜",
       "type": 3,
       "api": "csp_Dovx",
-      "ext": "./token.txt+4k|fhd|auto",
-      "timeout":30
+      "searchable": 1,
+      "ext": "./token.txt+4k|fhd|auto"
     },
     {
       "key": "盤搜索",
       "name": "盤搜",
       "type": 3,
       "api": "csp_PanSearch",
-      "ext": "./token.txt+4k|fhd|auto",
-      "timeout":30
+      "searchable": 1,
+      "ext": "./token.txt+4k|fhd|auto"
     },
     {
       "key": "找資源",
       "name": "資源",
       "type": 3,
       "api": "csp_Zhaozy",
-      "ext": "./token.txt+4k|fhd|auto$$$abcd1984$$$38dUhPLPy34vVYU",
-      "timeout":30
+      "searchable": 1,
+      "ext": "./token.txt+4k|fhd|auto$$$abcd1984$$$38dUhPLPy34vVYU"
     },
     {
       "key": "易搜",
       "name": "易搜",
       "type": 3,
       "api": "csp_YiSo",
-      "ext": "./token.txt+4k|fhd|auto",
-      "timeout":30
+      "searchable": 1,
+      "ext": "./token.txt+4k|fhd|auto"
     },
     {
       "key": "盘搜",
       "name": "喵狸",
       "type": 3,
       "api": "csp_PanSou",
-      "ext": "./token.txt+4k|fhd|auto",
-      "timeout":30
+      "searchable": 1,
+      "ext": "./token.txt+4k|fhd|auto"
     },
     {
       "key": "UP云搜",
       "name": "云搜",
       "type": 3,
       "api": "csp_UpYun",
-      "ext": "./token.txt+4k|fhd|auto",
-      "timeout":30
+      "searchable": 1,
+      "ext": "./token.txt+4k|fhd|auto"
     },    
     {
       "key": "csp_苹果",
