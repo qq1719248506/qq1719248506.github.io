@@ -1,5 +1,5 @@
 {
-  "spider": "./jar/spider.jar;md5;5c73b35b6fa248fb4f19c7c3addb0d3a",
+  "spider": "./jar/fm.nogo.jar;md5;fd8267c73c1ecb9ab1ff218ee43609a8",
   "wallpaper": "http://www.kf666888.cn/api/tvbox/img",
   "lives": [
     {
@@ -43,7 +43,16 @@
       "searchable": 1,
       "quickSearch": 0,
       "changeable": 0
-    },    
+    },
+    {
+      "key": "csp_YGP",
+      "name": "新片",
+      "type": 3,
+      "api": "csp_YGP",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0
+    },   
     {
       "key": "AList",
       "name": "AList",
@@ -71,18 +80,37 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext":"./token.txt+4k|fhd|auto",
-      "timeout":30
+      "ext":"./token.txt+4k|fhd|auto"
     },    
     {
       "key": "玩偶",
       "name": "玩偶",
       "type": 3,
-      "api": "csp_WoGG",
+      "api": "csp_Wogg",
       "searchable": 1,
       "changeable": 0,
-      "ext": "./token.txt+4k|fhd|auto"
+      "ext": "./token.txt+4k|fhd|auto$$$https://www.wogg.xyz/"
     },
+    {
+      "key":"阿里云盘登录",
+      "name":"签到",
+      "type":3,
+      "api":"csp_AliYunPan",
+      "searchable":0,
+      "quickSearch":0,
+      "filterable":0,
+      "ext":"./token.txt"
+    },
+    {
+      "key": "csp_Hdhive",
+      "name": "影巢",
+      "type": 3,
+      "api": "csp_Hdhive",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./token.txt+4k|fhd|auto"
+    },    
     {
       "key": "七夜",
       "name": "七夜",
@@ -92,6 +120,13 @@
       "changeable": 0,
       "ext": "./token.txt+4k|fhd|auto"
     },
+    {
+      "key": "易搜",
+      "name": "易搜",
+      "type": 3,
+      "api": "csp_YiSo",
+      "ext": "./token.txt+4k|fhd|auto"
+    },    
     {
       "key": "雲搜",
       "name": "雲搜",
@@ -178,15 +213,6 @@
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "ext": "./js/扛把子影院.js"
-    },
-    {
-      "key": "电影港",
-      "name": "电影港",
-      "type": 3,
-      "api": "csp_Dygang",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
     },
     {
       "key": "陌陌",
@@ -355,7 +381,25 @@
         "喜剧片",
         "伦理片"
       ]
-    },    
+    },
+    {
+      "key": "闪电",
+      "name": "闪电",
+      "type": 1,
+      "api": "http://sdzyapi.com/api.php/provide/vod/",
+      "searchable": "1",
+      "quickSearch": "1",
+      "filterable": "0"
+    },
+    {
+      "key": "爱坤",
+      "name": "爱坤",
+      "type": 1,
+      "api": "https://ikunzyapi.com/api.php/provide/vod/",
+      "searchable": "1",
+      "quickSearch": "1",
+      "filterable": "0"
+    },
     {
       "key": "zy_新浪",
       "name": "新浪",
@@ -439,6 +483,11 @@
       }
     },
     {
+      "name": "饭硬",
+      "type": 1,
+      "url": "http://110.42.2.247:880/analysis/json/?uid=2449&my=acfgikquvzFGJRW459&url="
+    },
+    {
       "name": "观音",
       "type": 1,
       "url": "http://27.124.4.42:4567/jhjson/ceshi.php?url=",
@@ -467,12 +516,7 @@
           "xigua"
         ]
       }
-    },    
-    {
-      "name": "肥猫",
-      "type": 1,
-      "url": "http://jx.fuqizhishi.com:63/接口地址www.肥猫.love/肥猫专用.php?url="
-    },    
+    },        
     {
       "name": "秒播",
       "type": 1,
@@ -499,38 +543,6 @@
         ],
         "header": {
           "User-Agent": "okhttp/4.1.0"
-        }
-      }
-    },
-    {
-      "name": "小米",
-      "type": 1,
-      "url": "http:/xhww.fun:63/爱小米.php?url=",
-      "ext": {
-        "flag": [
-          "qiqi",
-          "CL4K",
-          "NBY",
-          "爱奇艺",
-          "奇艺",
-          "qq",
-          "腾讯",
-          "youku",
-          "优酷",
-          "pptv",
-          "PPTV",
-          "letv",
-          "乐视",
-          "leshi",
-          "bilibili",
-          "哔哩哔哩",
-          "哔哩",
-          "mgtv",
-          "芒果",
-          "芒果"
-        ],
-        "header": {
-          "User-Agent": "okhttp/3.12.0"
         }
       }
     },     
