@@ -16,6 +16,50 @@
   ],
   "sites": [
     {
+      "key": "lf_js_search",
+      "name": "搜索lf",
+      "type": 3,
+      "searchable": 0,
+      "changeable": 1,
+      "quickSearch": 0,
+      "filterable": 0,
+      "api": "./lib/lf_search3_min.js"
+    },    
+    {
+      "key": "lf_js_p2p",
+      "name": "磁力lf",
+      "type": 3,
+      "searchable": 1,
+      "changeable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "api": "./lib/lf_p2p2_min.js"
+    },
+    {
+      "key": "lf_js_ikanbot",
+      "name": "点播lf",
+      "type": 3,
+      "searchable": 1,
+      "changeable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "api": "./lib/lf_ikanbot_min.js"
+    },
+    {
+      "key": "lf_js_lf_live",
+      "name": "直播lf",
+      "type": 3,
+      "api": "./lib/lf_live_min.js",
+      "style": {
+        "type": "oval"
+      },
+      "searchable": 1,
+      "changeable": 0,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./js/lf_live.txt"
+    },    
+    {
       "key":"py_cctv",
       "name": "央视┃大全",
       "type": 3,
@@ -37,7 +81,7 @@
     },    
     {
       "key": "MV_vod",
-      "name": "明星┃MV",
+      "name": "明星",
       "type": 1,
       "api": "https://mv.wogg.link/mv/vod",
       "searchable": 1,
@@ -164,13 +208,6 @@
       "ext": "./token.txt+4k|fhd|auto$$$abcd1984$$$38dUhPLPy34vVYU"
     },    
     {
-      "key": "EMO",
-      "name": "EMO蓝光",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "ext": "http://one2.emofun.top/mogai_api.php/v1.vod"
-    },
-    {
       "key": "NoSearch_csp_BBB",
       "name": "哔哩",
       "type": 3,
@@ -188,28 +225,28 @@
     },     
     {
       "key":"drpy_js_武享吧",
-      "name":"拳皇┃争霸",
+      "name":"武享吧",
       "type":3,
       "api":"./lib/drpy2.min.js",
       "ext":"./js/武享吧.js"
     },
     {
       "key": "drpy_js_南瓜",
-      "name": "南瓜┃影视",
+      "name": "南瓜",
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "ext": "./js/南瓜.js"
     },    
     {
-      "key": "drpy_js_爱看",
-      "name": "爱看┃影视",
+      "key": "drpy_js_爱姬",
+      "name": "爱姬",
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "ext": "./js/ikanbot3.js"
     },    
     {
       "key": "drpy_js_扛把子影院",
-      "name": "九零┃影城",
+      "name": "九零",
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "ext": "./js/扛把子影院.js"
@@ -291,6 +328,106 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./XBPQ/明帝.json"
+    },
+    {
+      "key": "淘剧",
+      "name": "淘剧",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./XBPQ/淘剧.json"
+    },
+    {
+      "key": "圣城",
+      "name": "圣城",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./XBPQ/圣城.json"
+    },
+    {
+      "key": "小鹿",
+      "name": "小鹿",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./XBPQ/小鹿.json"
+    },
+    {
+      "key": "歪片",
+      "name": "歪片",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./XBPQ/歪片.json"
+    },
+    {
+      "key": "csp_明帝",
+      "name": "明帝",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./XBPQ/明帝.json"
+    },
+    {
+      "key": "夜光",
+      "name": "夜光",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./XBPQ/夜光.json"
+    },
+    {
+      "key": "csp_黑狐",
+      "name": "黑狐",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./XBPQ/黑狐.json"
+    },
+    {
+      "key": "csp_小刀",
+      "name": "小刀",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./XBPQ/小刀.json"
+    },
+    {
+      "key": "csp_冷曦",
+      "name": "冷曦",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./XBPQ/冷曦.json"
+    },
+    {
+      "key": "大米",
+      "name": "大米",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./XBPQ/大米.json"
     },    
     {
       "key": "真不卡",
