@@ -16,8 +16,17 @@
   ],
   "sites": [
     {
+      "key": "荐片",
+      "name": "荐片",
+      "type": 4,
+      "api": "http://home.jundie.top:9520/spider/csp_JP",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },    
+    {
       "key": "lf_js_search",
-      "name": "搜索lf",
+      "name": "搜索",
       "type": 3,
       "searchable": 0,
       "changeable": 1,
@@ -27,7 +36,7 @@
     },    
     {
       "key": "lf_js_p2p",
-      "name": "磁力lf",
+      "name": "磁力",
       "type": 3,
       "searchable": 1,
       "changeable": 1,
@@ -37,7 +46,7 @@
     },
     {
       "key": "lf_js_ikanbot",
-      "name": "点播lf",
+      "name": "点播",
       "type": 3,
       "searchable": 1,
       "changeable": 1,
@@ -47,7 +56,7 @@
     },
     {
       "key": "lf_js_lf_live",
-      "name": "直播lf",
+      "name": "直播",
       "type": 3,
       "api": "./lib/lf_live_min.js",
       "style": {
@@ -141,14 +150,13 @@
       "ext": "./alist.json"
     },
     {
-      "key":"小紙條",
+      "key": "jun_Gitcafe",
       "name": "小紙條",
-      "type": 3,
-      "api": "csp_XiaoZhiTiao",
+      "type": 4,
+      "api": "http://home.jundie.top:9520/spider/cli_gitCafe",
       "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext":"./token.txt+4k|fhd|auto"
+      "changeable": 0,
+      "ext": "44160c32d4ca40c6b7cebf66ce40e7e1"
     },    
     {
       "key": "玩偶",
@@ -595,6 +603,39 @@
       "url": "Sequence"
     },
     {
+      "name": "玩偶",
+      "type": 1,
+      "url": "http://jx.wogg.link:63/jiexi/饭特析.php?url="
+    },
+    {
+      "name": "战狼",
+      "type": 1,
+      "url": "https://jx.zhanlangbu.com/?url=",
+      "ext": {
+        "flag": [
+          "qq",
+          "腾讯",
+          "qiyi",
+          "爱奇艺",
+          "奇艺",
+          "youku",
+          "优酷",
+          "sohu",
+          "搜狐",
+          "letv",
+          "乐视",
+          "mgtv",
+          "芒果",
+          "imgo",
+          "rx",
+          "ltnb",
+          "bilibili",
+          "1905",
+          "xigua"
+        ]
+      }
+    },    
+    {
       "name": "巧技",
       "type": 1,
       "url": "http://pandown.pro/app/kkdy.php?url=",
@@ -620,7 +661,7 @@
           "xigua"
         ]
       }
-    },
+    },    
     {
       "name": "饭硬",
       "type": 1,
@@ -831,21 +872,6 @@
       ]
     },    
     {
-      "name": "777",
-      "type": 0,
-      "url": "https://jx.777jiexi.com/player/?url="
-    },
-    {
-      "name": "杰森",
-      "type": 0,
-      "url": "https://jx.jsonplayer.com/player/?url="
-    },
-    {
-      "name": "战狼",
-      "type": 0,
-      "url": "https://jx.zhanlangbu.com/?url="
-    },
-    {
       "name": "凉笙",
       "type": 1,
       "url": "http://json.xg688.top/api/?key=Y1etBkWn5hetOHJwF1&url="
@@ -878,6 +904,111 @@
       }
     }    
   ],
+  "doh": [
+    {
+      "name": "Google",
+      "url": "https://dns.google/dns-query",
+      "ips": [
+        "8.8.4.4",
+        "8.8.8.8"
+      ]
+    },
+    {
+      "name": "Cloudflare",
+      "url": "https://cloudflare-dns.com/dns-query",
+      "ips": [
+        "1.1.1.1",
+        "1.0.0.1",
+        "2606:4700:4700::1111",
+        "2606:4700:4700::1001"
+      ]
+    },
+    {
+      "name": "AdGuard",
+      "url": "https://dns.adguard.com/dns-query",
+      "ips": [
+        "94.140.14.140",
+        "94.140.14.141"
+      ]
+    },
+    {
+      "name": "DNSWatch",
+      "url": "https://resolver2.dns.watch/dns-query",
+      "ips": [
+        "84.200.69.80",
+        "84.200.70.40"
+      ]
+    },
+    {
+      "name": "Quad9",
+      "url": "https://dns.quad9.net/dns-quer",
+      "ips": [
+        "9.9.9.9",
+        "149.112.112.112"
+      ]
+    }
+  ],
+  "rules": [
+    {
+      "name": "暴風",
+      "hosts": [
+        "bfzy"
+      ],
+      "regex": [
+        "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:3,[\\s\\S]*?#EXT-X-DISCONTINUITY"
+      ]
+    },
+    {
+      "name": "星星",
+      "hosts": [
+        "aws.ulivetv.net"
+      ],
+      "regex": [
+        "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:8,[\\s\\S]*?#EXT-X-DISCONTINUITY"
+      ]
+    },
+    {
+      "name": "量子",
+      "hosts": [
+        "vip.lz",
+        "hd.lz",
+        "v.cdnlz"
+      ],
+      "regex": [
+        "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.433333,[\\s\\S]*?#EXT-X-DISCONTINUITY",
+        "#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"
+      ]
+    },
+    {
+      "name": "非凡",
+      "hosts": [
+        "vip.ffzy",
+        "hd.ffzy"
+      ],
+      "regex": [
+        "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.666667,[\\s\\S]*?#EXT-X-DISCONTINUITY",
+        "#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"
+      ]
+    },
+    {
+      "name": "火山嗅探",
+      "hosts": [
+        "huoshan.com"
+      ],
+      "regex": [
+        "item_id="
+      ]
+    },
+    {
+      "name": "抖音嗅探",
+      "hosts": [
+        "douyin.com"
+      ],
+      "regex": [
+        "is_play_url="
+      ]
+    }
+  ],  
   "flags": [
     "youku",
     "qq",
