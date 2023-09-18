@@ -1,5 +1,5 @@
 {
-  "spider": "./jar/custom_spider.jar;md5;7e9e4ce4f34cba8895b82d77361d65b7",
+  "spider": "./jar/app.jar;md5;77d7c10cb6a884c323512f0f5fa43f4a",
   "wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
   "sites": [    
     {
@@ -61,7 +61,7 @@
     },
     {
       "key": "lf_js_search",
-      "name": "搜索lf",
+      "name": "搜索",
       "type": 3,
       "searchable": 0,
       "changeable": 1,
@@ -71,7 +71,7 @@
     },    
     {
       "key": "lf_js_p2p",
-      "name": "磁力lf",
+      "name": "磁力",
       "type": 3,
       "searchable": 1,
       "changeable": 1,
@@ -81,7 +81,7 @@
     },
     {
       "key": "lf_js_ikanbot",
-      "name": "点播lf",
+      "name": "点播",
       "type": 3,
       "searchable": 1,
       "changeable": 1,
@@ -91,7 +91,7 @@
     },
     {
       "key": "lf_js_lf_live",
-      "name": "直播lf",
+      "name": "直播",
       "type": 3,
       "api": "./lib/lf_live_min.js",
       "style": {
@@ -110,7 +110,7 @@
       "api": "http://home.jundie.top:9520/spider/cli_gitCafe",
       "searchable": 1,
       "changeable": 0,
-      "ext": "44160c32d4ca40c6b7cebf66ce40e7e1"
+      "ext": "./alitoken.txt"
     },
     {
       "key": "廠長",
@@ -145,23 +145,21 @@
       "changeable": 1
     },  
     {
-      "key": "陌陌",
-      "name": "陌陌",
+      "key": "真爱",
+      "name": "真爱",
       "type": 3,
       "api": "csp_AppYsV2",
-      "searchable": 1,
-      "quickSearch": 1,
       "changeable": 1,
-      "ext": "http://guan.yy365.vip/api.php/app/"
+      "ext": "https://www.chiguafilm.com/api.php/v1.vod "
     },   
     {
       "key": "csp_SP360",
       "name": "360",
       "type": 3,
-      "api": "csp_XBPQ",
+      "api": "csp_SP360",
       "searchable": 1,
-      "changeable": 0,
-      "ext": "./XBPQ/360.json"
+      "quickSearch": 1,
+      "changeable": 1
     },
     {
       "key":"drpy_js_武享吧",
@@ -188,6 +186,65 @@
       "quickSearch":0,
       "changeable":1
     },
+    {
+      "key": "Wogg",
+      "name": "哥哥",
+      "type": 3,
+      "api": "csp_XPathAli",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "./json/玩偶哥哥.json"
+    },
+    {
+      "key": "蚂蚁",
+      "name": "蚂蚁",
+      "type": 3,
+      "api": "csp_XPathAli",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "./json/蚂蚁磁力.json"
+    },
+    {
+      "key": "音范丝",
+      "name": "范丝",
+      "type": 3,
+      "api": "csp_XPath",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "./json/音范磁力.json"
+    },    
+    {
+      "key": "影巢",
+      "name": "影巢",
+      "type": 3,
+      "api": "csp_Hdhive",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./alitoken.txt"
+    },
+    {
+      "key": "RinHome",
+      "name": "秒播",
+      "type": 3,
+      "api": "csp_RinHome",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },    
+    {
+      "key": "Czspp",
+      "name": "厂长",
+      "type": 3,
+      "api": "csp_Czsapp",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://www.cz01.fun/"
+    },    
     {
       "key": "玩偶哥哥",
       "name":"玩偶",
@@ -218,6 +275,16 @@
       "ext": "./alitoken.txt"
     },
     {
+      "key": "Gitcafe",
+      "name": "紙條搜",
+      "type": 3,
+      "api": "csp_Paper",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./alitoken.txt"
+    },    
+    {
       "key": "紙條搜",
       "name": "紙條",
       "type": 3,
@@ -237,9 +304,9 @@
       "key": "盤搜索",
       "name": "盤搜",
       "type": 3,
-      "api": "csp_XYQHiker",
+      "api": "csp_PanSearch",
       "searchable": 1,
-      "ext": "./XYQHiker/盘搜索.json"
+      "ext": "./alitoken.txt"
     },
     {
       "key": "找資源",
@@ -253,7 +320,7 @@
       "key": "易搜",
       "name": "易搜",
       "type": 3,
-      "api": "csp_Yisou",
+      "api": "csp_YiSo",
       "searchable": 1,
       "ext": "./alitoken.txt"
     },
@@ -261,7 +328,7 @@
       "key": "盘搜",
       "name": "喵狸",
       "type": 3,
-      "api": "csp_AliPS",
+      "api": "csp_PanSou",
       "searchable": 1,
       "ext": "./alitoken.txt"
     },
@@ -269,7 +336,7 @@
       "key": "雲搜",
       "name": "雲搜",
       "type": 3,
-      "api": "csp_Upyunso",
+      "api": "csp_UpYun",
       "searchable": 1,
       "ext": "./alitoken.txt"
     },
@@ -421,6 +488,7 @@
       "name": "不卡",
       "type": 3,
       "api": "csp_XBPQ",
+      "searchable": 1,
       "playerType": "1",
       "ext": "./XBPQ/真不卡.json"
     },    
@@ -429,6 +497,7 @@
       "name": "奇优",
       "type": 3,
       "api": "csp_XBPQ",
+      "searchable": 1,
       "playerType": "1",
       "ext": "./XBPQ/奇优.json"
     },    
@@ -437,6 +506,7 @@
       "name": "速搜",
       "type": 3,
       "api": "csp_XBPQ",
+      "searchable": 1,
       "playerType": "1",
       "ext": "./XBPQ/速搜.json"
     },
@@ -445,6 +515,7 @@
       "name": "酷茶",
       "type": 3,
       "api": "csp_XBPQ",
+      "searchable": 1,
       "playerType": "1",
       "ext": "./XBPQ/酷茶.json"
     },    
@@ -477,6 +548,7 @@
       "name": "视觉",
       "type": 3,
       "api": "csp_XBPQ",
+      "searchable": 1,
       "ext": "./XBPQ/新视觉.json"
     },    
     {
@@ -484,6 +556,7 @@
       "name": "胖虎",
       "type": 3,
       "api": "csp_XBPQ",
+      "searchable": 1,
       "ext": "./XBPQ/胖虎.json"
     },
     {
