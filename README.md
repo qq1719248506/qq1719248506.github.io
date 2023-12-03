@@ -7,6 +7,8 @@
 
 TVBOX接口在线解密：https://www.lige.fit/ua
 
+MD5获取小工具：http://www.metools.info/
+
 TVBox各路大佬配置
 
 唐三：https://gh.t4tv.hz.cz/newtang.bmp
@@ -15,7 +17,7 @@ FongMi：https://ghproxy.com/raw.githubusercontent.com/FongMi/CatVodSpider/main/
 
 巧技：http://pandown.pro/tvbox/tvbox.json
 
-俊于：http://home.jundie.top:81/top98.json
+OK线路：https://github.moeyy.xyz/https://raw.githubusercontent.com/okcaptain/okjar/rm/ok.json
 
 霜辉月明py：https://ghproxy.com/raw.githubusercontent.com/lm317379829/PyramidStore/pyramid/py.json
 
@@ -100,8 +102,6 @@ https://github.com/NekoX-Dev/NekoX
 直播源批量检测工具： https://tsq.lanzouf.com/b0c4p2fba 密码:123
 
 MXPlayer-Pro-1.46.10高级解锁版： https://tsq.lanzouf.com/b0c4p1nyf 密码:123
-
-MD5获取小工具：http://www.metools.info/
 
 MD5在TVbox中的填写格式："spider": "https://j***.jar;md5;***",
 
