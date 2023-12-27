@@ -539,6 +539,9 @@
       "name": "苹果",
       "type": 3,
       "api": "csp_XBPQ",
+       "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,     
       "ext": "./XBPQ/苹果影视.json"
     },    
     {
@@ -546,6 +549,9 @@
       "name": "胖虎",
       "type": 3,
       "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,      
       "ext": "./XBPQ/胖虎影视.json"
     },
     {
@@ -553,15 +559,20 @@
       "name": "冷曦",
       "type": 3,
       "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,      
       "ext": "./XBPQ/冷曦影视.json"
     },    
     {
-      "key": "土豪",
+      "key": "csp_土豪",
       "name": "土豪",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
-      "ext": "./XBPQ/土豪影视"
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./XBPQ/土豪影视.json"
     }
   ],
   "parses": [
@@ -605,6 +616,41 @@
         ]
       }
     },
+    {
+      "name": "小鱼",
+      "type": 1,
+      "url": "http://json.84jia.com/home/api?type=ys&uid=335253&key=bcdstvxADFJLRW0279&url=",
+      "ext": {
+        "flag": [
+          "qq",
+          "腾讯",
+          "qiyi",
+          "爱奇艺",
+          "奇艺",
+          "youku",
+          "优酷",
+          "tucheng",
+          "sohu",
+          "搜狐",
+          "letv",
+          "乐视",
+          "mgtv",
+          "芒果",
+          "tnmb",
+          "seven",
+          "yzm",
+          "aliyun",
+          "RJuMao",
+          "bilibili",
+          "1905",
+          "xinvip",
+          "XAL",
+          "qiqi",
+          "XALS",
+          "YuMi-vip"
+        ]
+      }
+    },    
     {
       "name": "战狼",
       "type": 1,
@@ -692,18 +738,6 @@
           "bilibili",
           "1905",
           "xigua"
-        ]
-      }
-    },
-    {
-      "name": "balabala",
-      "type": 1,
-      "url": "https://jxjson.cf/json.php?url=",
-      "ext": {
-        "flag": [
-          "qq",
-          "mgtv",
-          "YuMi-vip"
         ]
       }
     },
