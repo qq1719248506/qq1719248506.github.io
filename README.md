@@ -9,6 +9,11 @@ TVBOX接口在线解密：https://www.lige.fit/ua
 
 MD5获取小工具：http://www.metools.info/
 
+Github镜像站
+https://hub.fgit.cf
+
+https://githubfast.com
+
 TVBox各路大佬配置
 
 唐三：https://gh.t4tv.hz.cz/newtang.bmp
@@ -17,7 +22,7 @@ FongMi：https://ghproxy.com/raw.githubusercontent.com/FongMi/CatVodSpider/main/
 
 巧技：http://pandown.pro/tvbox/tvbox.json
 
-OK线路：https://github.moeyy.xyz/https://raw.githubusercontent.com/okcaptain/okjar/rm/ok.json
+OK线路：https://github.moeyy.xyz/https://usercontent.githubfast.com/raw/okcaptain/okjar/rm/ok.json
 
 霜辉月明py：https://ghproxy.com/raw.githubusercontent.com/lm317379829/PyramidStore/pyramid/py.json
 
@@ -91,7 +96,7 @@ http://bbs.qiqiv.cn/thread-11973-1-1.html
 常用工具：
 免魔法电报，也是个开源项目，用前自己上网查询这个怎么样。
 
-https://github.com/NekoX-Dev/NekoX
+https://githubfast.com/NekoX-Dev/NekoX
 
 文本比较、json格式化： https://tsq.lanzouf.com/b0c4rjpsb 密码:123
 
