@@ -7,6 +7,10 @@
 
 TVBOX接口在线解密：https://www.lige.fit/ua
 
+TVBox配置接口解密：https://jm.n13.club/
+
+加密接口解析提取: https://xn--sss604efuw.top/jm/ 
+
 MD5获取小工具：http://www.metools.info/
 
 # TVBox系列软件
