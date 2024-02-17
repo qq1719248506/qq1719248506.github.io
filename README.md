@@ -32,33 +32,23 @@ https://githubfast.com
 
 TVBox各路大佬配置
 
-唐三：https://gh.t4tv.hz.cz/newtang.bmp
-
-FongMi：https://ghproxy.com/raw.githubusercontent.com/FongMi/CatVodSpider/main/json/config.json
-
 巧技：http://pandown.pro/tvbox/tvbox.json
 
-OK线路：https://github.moeyy.xyz/https://usercontent.githubfast.com/raw/okcaptain/okjar/rm/ok.json
-
-霜辉月明py：https://ghproxy.com/raw.githubusercontent.com/lm317379829/PyramidStore/pyramid/py.json
-
-小雅js：http://101.34.67.237/config/2
-
-菜妮丝：https://tvbox.cainisi.cf
+OK线路：https://jihulab.com/okcaptain/kko/-/raw/main/ok.txt?ref_type=heads
 
 小米线路:  http://xhww.fun:63/小米/DEMO.json
 
-运输车线路: https://weixine.net/ysc.json
-
-小易茶行: https://ghproxy.com/raw.githubusercontent.com/XiaoYiChaHang/tvbox/main/ysj.json
+运输车线路: http://svip.weixine.net:88/uploads/itvbox/svip.json
 
 Yoursmile7：https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json
 
-熊猫是肥猫：http://我不是.肥猫.love:63/接口禁止贩卖
+熊猫是肥猫：http://肥猫.live
 
 香雅情接口：https://www.123pan.com/s/alSeVv-lGO0A.html
 
 饭太硬：http://饭太硬.top/tv
+
+PG线路: https://agit.ai/leevi/PlG/raw/branch/master/jsm.json
 
 ## 壁纸：
 
