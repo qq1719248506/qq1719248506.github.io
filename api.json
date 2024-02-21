@@ -76,15 +76,29 @@
       "ext": "https://agit.ai/wzs1973/TV/raw/branch/master/js/厂长.js"
     },
     {
-      "key": "皮皮虾",
+      "key": "Ppxzy",
       "name": "皮皮",
       "type": 3,
-      "api": "csp_PipiXia",
+      "api": "csp_Ppxzy",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://agit.ai/wzs1973/TV/raw/branch/master/jar/PandaQ240220.jar;md5;6A88E33AC14761617F022039C81D054F"
+      "timeout": 30,
+      "ext": "./token.txt$$$https://ppxzy.net$$$null$$$1",
+      "jar": "https://agit.ai/wzs1973/PiG/raw/branch/master/pg.jar;md5;2439bccf8b413976b3176f9a0aa8262e"
     },
+    {
+      "key": "团长资源",
+      "name": "团长",
+      "type": 3,
+      "api": "csp_TZFile",
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "timeout": 30,
+      "ext": "./token.txt$$$null$$$1",
+      "jar": "https://agit.ai/wzs1973/PiG/raw/branch/master/pg.jar;md5;2439bccf8b413976b3176f9a0aa8262e"      
+    },    
     {
       "key": "csp_麻瓜",
       "name": "麻瓜",
@@ -168,6 +182,16 @@
       "quickSearch": 1,
       "changeable": 1,
       "ext": "FbjDcUxPqpfNr0QF4QvE6sExbd4UXJxJXzdL462ywU1XScGa5G6Hj0/c+Ou1GW6rdX6N2XIhnD46QzIsRoZ8bk4fG4OYi0iCaWwRj2ddkacwFqHtLjQhalHqIy0+kpiTv2eOfJYxTshgrxcJ+g3lEHx7ZLC9kB1TCfZUSHwqHB3tt6V/1OhRENIOZNRFfXVBEFd7jQg+J06kjCAF7z1Bt8hRvMjC2VcbQXsEz8MCZDgu06C9/wirWcTa/wWJsfT+Z7fXaDs+dIWMYiwf6td5CWTx6LfL6eTuiMhs2KU5Byw9F+4Y/AHBg4r+LEe+Hm4EM2d8X3ca5zHSj+kjmpXOiGDo4TalFqgTq67eggmthCbV2d131SKc03V+5gruudQQk/Tb9e4lg6SQhA9/5kWOOM/LRmkqIxSt6d0wpu7yKKh65enwKbgasc93/HnGr6W4LuZjf6eYnS2GgRzWRE0fT5lYNmxnWeRnYuLhoZbDqslAfJzg"
+    },
+    {
+      "key":"csp_AppYsV2",
+      "name":"咕噜",
+      "type":3,
+      "api":"csp_AppYsV2",
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":1,
+      "ext":"https://w.996w.top/api.php/app/"
     },
     {
       "key": "csp_Jianpian",
@@ -443,6 +467,14 @@
       "api": "https://agit.ai/wzs1973/TV/raw/branch/master/lib/drpy.min.js",
       "ext": "https://agit.ai/wzs1973/TV/raw/branch/master/js/搜狗.js"
     },
+    {
+      "key": "csp_乐鱼",
+      "name": "乐鱼",
+      "type": 3,
+      "searchable": 1,
+      "api": "https://agit.ai/wzs1973/TV/raw/branch/master/lib/drpy.min.js",
+      "ext": "https://agit.ai/wzs1973/TV/raw/branch/master/js/乐鱼.js"
+    },    
     {
       "key": "cntv_open",
       "name": "央视",
