@@ -4,7 +4,7 @@
   "sites": [
     {
       "key": "douban",
-      "name": "关注公众号:影视资源站,防失联",
+      "name": "豆瓣",
       "type": 3,
       "api": "csp_DouBan",
       "quickSearch": 0,
@@ -18,8 +18,7 @@
       "api": "csp_AppYSDQ",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 0,
-      "ext": "公众号:影视资源站"
+      "filterable": 0
     },
     {
       "key": "yqkan",
@@ -28,8 +27,7 @@
       "api": "csp_YQKan",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 0,
-      "ext": "公众号:影视资源站"
+      "filterable": 0
     },
     {
       "key": "nm",
@@ -87,7 +85,7 @@
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "https://baipiaoys.cc#公众号:影视资源站#https://www.baipiao-ys.cc"
+      "ext": "https://baipiaoys.cc#https://www.baipiao-ys.cc"
     },
     {
       "key": "AList",
@@ -96,7 +94,7 @@
       "api": "csp_AListBox",
       "searchable": 1,
       "changeable": 0,
-      "ext": "https://d.kstore.space/download/6474/tvbox/json/xy.json#公众号:影视资源站",
+      "ext": "https://d.kstore.space/download/6474/tvbox/json/xy.json",
       "style": {
         "type": "list"
       }
@@ -108,8 +106,7 @@
       "api": "csp_Xifan",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 0,
-      "ext": "公众号:影视资源站"
+      "filterable": 0
     },
     {
       "key": "zz",
@@ -155,7 +152,7 @@
       "api": "csp_BookTing",
       "searchable": 1,
       "changeable": 0,
-      "ext": "https://m.ting275.com#公众号#影视资源站"
+      "ext": "https://m.ting275.com"
     },
     {
       "key": "cofig",
