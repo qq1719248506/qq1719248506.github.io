@@ -517,36 +517,6 @@
         "分类url":"http://dyxz.tv/list/{cateId}_{catePg}.html",
         "分类":"电影$1#电视剧$2#动漫$3#综艺$4"
       }
-    },
-    {
-      "key": "爱看",
-      "name": "爱看",
-      "type": 3,
-      "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/qq1719248506/catvod/main/js/ikanbot_open.js"
-    },
-    {
-      "key": "555",
-      "name": "三五",
-      "type": 3,
-      "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/qq1719248506/catvod/main/js/555dy_open.js"
-    },    
-    {
-      "key": "KTV",
-      "name": "K歌",
-      "type": 3,
-      "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/qq1719248506/catvod/main/js/ktv_open.js"
-    },
-    {
-      "key": "yinyuetai",
-      "name": "音悦台",
-      "type": 3,
-      "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/qq1719248506/catvod/main/js/yinyuetai_open.js"
-    },
-    {
-      "key": "freeMusic",
-      "name": "音乐",
-      "type": 3,
-      "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/qq1719248506/catvod/main/js/freemusic_open.js"
     },    
     {
       "key":"drpy_js_武享吧",
