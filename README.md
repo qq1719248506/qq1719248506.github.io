@@ -50,6 +50,10 @@ Yoursmile7：https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json
 
 PG线路: https://agit.ai/leevi/PlG/raw/branch/master/jsm.json
 
+王二小放牛娃: http://tvbox.王二小放牛娃.xyz
+
+白嫖:  http://bp.tvbox.cam/
+
 ## 壁纸：
 
 https://tian.chuqiuyu.tk
