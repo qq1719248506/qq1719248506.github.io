@@ -11,12 +11,15 @@ TVBOX接口在线解密：https://www.lige.fit/ua
 
 加密解密：https://base64.supfree.net/
 
+32位token码获取：https://lytv.link
+
+文件md5在线计算：https://www.metools.info/other/o21.html
+
 图标网址
 https://www.iconfinder.com/search?q=tv
 
 ![pexels-pixabay-210186](https://github.com/alantang1977/X/assets/107459091/a3948131-dc5f-4089-805a-272248a98b82)
 
-MD5获取小工具：http://www.metools.info/
 
 # TVBox系列软件
 
