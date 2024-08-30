@@ -13,7 +13,7 @@ TVBOX接口在线解密：https://lige.chat/ua
 
 32位token码获取：https://lytv.link
 
-文件md5在线计算：https://www.metools.info/other/o21.html
+文件md5在线计算：https://www.md5ma.com/md5-calculator
 
 图标网址
 https://www.iconfinder.com/search?q=tv
