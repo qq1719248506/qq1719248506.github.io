@@ -45,11 +45,9 @@ OK线路：http://ok321.top/ok
 
 熊猫是肥猫：http://肥猫.live
 
-香雅情接口：https://www.123pan.com/s/alSeVv-lGO0A.html
-
 饭太硬：http://饭太硬.top/tv
 
-PG线路: https://agit.ai/leevi/PlG/raw/branch/master/jsm.json
+驸马线路: http://fmys.top/fmys.json
 
 王二小放牛娃: http://tvbox.王二小放牛娃.xyz
 
