@@ -35,13 +35,13 @@ TVBox各路大佬配置
 
 巧技：http://pandown.pro/tvbox/tvbox.json
 
-OK线路：https://jihulab.com/okcaptain/kko/-/raw/main/ok.txt?ref_type=heads
+OK线路：http://ok321.top/ok
 
-小米线路:  http://xhww.fun:63/小米/DEMO.json
+潇洒线路","url":"https://9877.kstore.space/AnotherD/api.json
 
-运输车线路: http://svip.weixine.net:88/uploads/itvbox/svip.json
+乐哥线路: https://乐哥.xyz/TV/Zy.json
 
-Yoursmile7：https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json
+欧歌线路：https://欧歌.v.nxog.top/m
 
 熊猫是肥猫：http://肥猫.live
 
