@@ -23,7 +23,9 @@ https://www.iconfinder.com/search?q=tv
 
 # TVBox系列软件
 
-https://www.123pan.com/s/sPNbVv-aYuXv
+OK影视链接: https://pan.quark.cn/s/98112b510599
+
+影视仓链接：https://pan.quark.cn/s/9a2e6f812b44
 
 Github镜像站
 
@@ -37,7 +39,7 @@ TVBox各路大佬配置
 
 OK线路：http://ok321.top/ok
 
-潇洒线路","url":"https://9877.kstore.space/AnotherD/api.json
+潇洒线路: https://9877.kstore.space/AnotherD/api.json
 
 乐哥线路: https://乐哥.xyz/TV/Zy.json
 
