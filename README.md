@@ -5,7 +5,7 @@
 
 ### PC Web版:      https://qq1719248506.github.io/配置编辑器/
 
-TVBOX接口在线解密：https://lige.chat/ua
+TVBOX助手: https://xn--ihqu10cn4c.xn--v4q818bf34b.com/helper/
 
 加密接口解析提取: https://www.xn--sss604efuw.com/jm/ 
 
@@ -39,11 +39,15 @@ TVBox各路大佬配置
 
 OK线路：http://ok321.top/ok
 
+摸鱼儿: http://我不是.摸鱼儿.com
+
 潇洒线路: https://9877.kstore.space/AnotherD/api.json
 
 乐哥线路: https://乐哥.xyz/TV/Zy.json
 
 欧歌线路：https://欧歌.v.nxog.top/m
+
+多多在线: https://yydsys.top/duo
 
 熊猫是肥猫：http://肥猫.live
 
@@ -54,6 +58,8 @@ OK线路：http://ok321.top/ok
 王二小放牛娃: http://tvbox.王二小放牛娃.xyz
 
 白嫖:  http://bp.tvbox.cam/
+
+公子: http://xn--b9w.l5.ca/
 
 ## 壁纸：
 
