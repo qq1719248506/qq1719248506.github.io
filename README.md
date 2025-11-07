@@ -7,8 +7,6 @@
 
 TVBOX助手: https://xn--ihqu10cn4c.xn--v4q818bf34b.com/helper/
 
-加密接口解析提取: https://www.xn--sss604efuw.com/jm/ 
-
 加密解密：https://base64.github.net.cn/
 
 32位token码获取：https://lytv.link
