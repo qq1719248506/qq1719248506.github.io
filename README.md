@@ -55,31 +55,7 @@ OK线路：http://ok321.top/ok
 
 王二小放牛娃: http://tvbox.王二小放牛娃.xyz
 
-白嫖:  http://bp.tvbox.cam/
-
 公子: http://xn--b9w.l5.ca/
-
-## 壁纸：
-
-https://tian.chuqiuyu.tk
-
-https://yun.chuqiuyu.tk
-
-https://shuping.chuqiuyu.tk
-
-https://jianbian.chuqiuyu.tk
-
-https://bing.img.run/rand.php
-
-http://www.kf666888.cn/api/tvbox/img
-
-https://picsum.photos/1280/720/?blur=10
-
-http://刚刚.live/图
-
-http://饭太硬.ga/深色壁纸/api.php
-
-https://tuapi.eees.cc/api.php?category=fengjing&type=302
 
 ##奇奇的网站
 
